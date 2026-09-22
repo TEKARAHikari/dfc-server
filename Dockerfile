@@ -16,9 +16,9 @@ RUN curl -fL --retry 5 -o minecraft_server.1.21.1.jar \
 
 # 2) NeoForge 安装器 + 服务端安装（--mirror 走国内镜像，生成 Linux natives）
 RUN curl -fL --retry 5 -o neoforge-installer.jar \
-    "https://bmclapi2.bangbang93.com/maven/net/neoforged/neoforge/21.1.234/neoforge-21.1.234-installer.jar" \
+    "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.234/neoforge-21.1.234-installer.jar" \
  && java -jar neoforge-installer.jar --installServer /mc \
-        --mirror https://bmclapi2.bangbang93.com/maven \
+        --mirror https://maven.neoforged.net/releases \
  && rm -f neoforge-installer.jar
 
 # 3) 整合包资源（跨平台；服务端 mods 145 个，txnilib/irisflw 已排除）
@@ -31,8 +31,11 @@ COPY server.properties /mc/server.properties
 COPY user_jvm_args.txt /mc/user_jvm_args.txt
 COPY eula.txt         /mc/eula.txt
 
-# 4) 存档目录 —— Zeabur 请为 /mc/world 挂持久卷
-#    首次启动自动按 level-seed=4776164391216949839 生成（Perfect Start 平原+村庄）
+# 4) 现有存档 —— Zeabur 请为 /mc/world 挂持久卷
+COPY world/           /mc/world/
+RUN rm -f /mc/world/session.lock
+
+# 5) 存档目录 —— 持久卷挂载后保留游戏进度
 VOLUME /mc/world
 
 EXPOSE 25565
