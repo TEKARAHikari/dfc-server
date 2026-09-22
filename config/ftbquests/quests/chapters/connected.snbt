@@ -1,0 +1,379 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "connected"
+	group: "7B92A9606CB3A40E"
+	id: "31951F15F509C2FB"
+	images: [{
+		height: 5.0d
+		image: "rechiseled:textures/screen/icon_connecting_true.png"
+		rotation: 0.0d
+		width: 5.0d
+		x: 0.5d
+		y: -4.0d
+	}]
+	order_index: 8
+	quest_links: [ ]
+	quests: [
+		{
+			id: "6BDFEA080B8F6495"
+			rewards: [{
+				id: "13EC1631B16DEF30"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "1F00620166C3F281"
+				item: { count: 1, id: "create_connected:fluid_vessel" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			id: "3AC236A87599F935"
+			rewards: [{
+				id: "3C0C296CDA7C93DB"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7723A6B1F7EE8ACC"
+				item: { count: 1, id: "create_connected:encased_chain_cogwheel" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			id: "603B15F7B929E616"
+			rewards: [{
+				id: "561053BB01DC31C6"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "762C22B61A95695D"
+				item: { count: 1, id: "create_connected:crank_wheel" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			id: "73F44598944ABEDA"
+			rewards: [{
+				id: "7BAC78935C1B449E"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "594257DEDA0CFF43"
+				item: { count: 1, id: "create_connected:inverted_gearshift" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			id: "20911774B413FC7D"
+			rewards: [{
+				id: "2F2AB96991902E42"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "35AE789386584EE7"
+				item: { count: 1, id: "create_connected:inverted_clutch" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			id: "1DA64F3B97ABEDB7"
+			rewards: [{
+				id: "1F324079879A451E"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "28DFE2DE805BDBAC"
+				item: { count: 1, id: "create_connected:brass_gearbox" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			id: "05817C01B8D21136"
+			rewards: [{
+				id: "157E27E6520A4257"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "5B2472A04C172C66"
+				item: { count: 1, id: "create_connected:parallel_gearbox" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			id: "34B962F38508CC8A"
+			rewards: [{
+				id: "7F7BEA9CA64481E4"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "0820B5AED1586B82"
+				item: { count: 1, id: "create_connected:six_way_gearbox" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -3.0d
+		}
+		{
+			id: "7F805532711CD135"
+			rewards: [{
+				id: "3F0790F5C02121FE"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "0CF326EF0B00C2E1"
+				item: { count: 1, id: "create_connected:inventory_bridge" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -4.0d
+		}
+		{
+			id: "362DC65B39616064"
+			rewards: [{
+				id: "235FFA48799965C1"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7DEAAD52C8582F21"
+				item: { count: 1, id: "create_connected:brass_chute" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -5.0d
+		}
+		{
+			id: "47B2FBC037F33625"
+			rewards: [{
+				id: "1C3CD91515477425"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "59DA6A901E7D8D96"
+				item: { count: 1, id: "create_connected:dashboard" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -6.0d
+		}
+		{
+			id: "75A3B08089BF3882"
+			rewards: [{
+				id: "43AF1F3900A2502B"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3BB461CA15BA941F"
+				item: { count: 1, id: "create_connected:linked_transmitter" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -7.0d
+		}
+		{
+			id: "6F8C70DA54564042"
+			rewards: [{
+				id: "54EB361338CA02C2"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "38DFDED79877187A"
+				item: { count: 1, id: "create_connected:redstone_link_wildcard" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -7.0d
+		}
+		{
+			id: "3ABE39AFFE909F09"
+			rewards: [{
+				id: "6BBB4D17671CF3BA"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "057B31A5A6B4E8C7"
+				item: { count: 1, id: "create_connected:sequenced_pulse_generator" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -7.0d
+		}
+		{
+			id: "708491180A98A943"
+			rewards: [{
+				id: "306999C1E8BED965"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "6A2FC7B5163253EF"
+				item: { count: 1, id: "create_connected:empty_fan_catalyst" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -7.0d
+		}
+		{
+			id: "369AEEAC57DEBCB6"
+			rewards: [{
+				id: "6A8FC489BB3A2B7C"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "42F86095CB55ADA9"
+				item: { count: 1, id: "create_connected:cross_connector" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -7.0d
+		}
+		{
+			id: "44338EF86BB4B0FC"
+			rewards: [{
+				id: "20B642344E7BC876"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0083BCCB7948C9BB"
+				item: { count: 1, id: "create_connected:shear_pin" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -7.0d
+		}
+		{
+			id: "0938FEF3A6C7C4D5"
+			rewards: [{
+				id: "5D8718043E403D69"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "1861BBE55FDF364D"
+				item: { count: 1, id: "create_connected:overstress_clutch" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -7.0d
+		}
+		{
+			id: "18A707A1AC26C3DB"
+			rewards: [{
+				id: "0D0F76277C48EC16"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "66C40F020D04F2CB"
+				item: { count: 1, id: "create_connected:centrifugal_clutch" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -6.0d
+		}
+		{
+			id: "1E3C137384DFAFDD"
+			rewards: [{
+				id: "0148F876AA385376"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "2C5275F0664B69E4"
+				item: { count: 1, id: "create_connected:freewheel_clutch" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -5.0d
+		}
+		{
+			id: "4B64FDB11CC2694F"
+			rewards: [{
+				id: "7F83E9520AD982B0"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "14B9F62B248C8099"
+				item: { count: 1, id: "create_connected:brake" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -4.0d
+		}
+		{
+			id: "6E3637A1EDBF7B5D"
+			rewards: [{
+				id: "5D5C996652729064"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "2D10FF0D2E0AC06F"
+				item: { count: 1, id: "create_connected:kinetic_bridge" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			id: "47013EB3CFC6C7F8"
+			rewards: [{
+				id: "63BD835DF16B627B"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "52F618E5B287C215"
+				item: { count: 1, id: "create_connected:kinetic_battery" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			id: "6A52D4A7CC1DF5F5"
+			rewards: [{
+				id: "0C4DCB87AD2F6EAC"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "32B61E5AA432C91E"
+				item: { count: 1, id: "create_connected:inventory_access_port" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.0d
+		}
+	]
+}

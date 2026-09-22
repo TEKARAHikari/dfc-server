@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create:refined_radiance"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:refined_radiance_casing"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,103 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "intro"
+	group: ""
+	id: "10BF05EADD0191BD"
+	images: [{
+		height: 3.0d
+		image: "minecraft:textures/gui/sprites/icon/info.png"
+		rotation: 0.0d
+		width: 3.0d
+		x: 0.0d
+		y: -2.5d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "37EED5664B4F45DE"
+			rewards: [{
+				id: "78440EE6FF067B4E"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "72FEB516123003AB"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			id: "412E865A1EDB6C5A"
+			rewards: [{
+				id: "3EA8B80A7AF5B3C7"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "649845B31124DBFB"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			id: "1B5F2DACBE4693E5"
+			rewards: [{
+				id: "2FA7EA6CF362BFA3"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "2151DD743007A707"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			id: "675711C727FEE78C"
+			rewards: [{
+				id: "482D7752528449F6"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "4531BA2F0CCD6912"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			id: "603BF3A8385F7CD5"
+			rewards: [{
+				id: "610117448A00CBC9"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "397A480152831F5F"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			id: "1ED9DA10231ED89B"
+			rewards: [{
+				id: "663718F2DF8E5A21"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "4F553E2CD8408EB6"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -4.5d
+		}
+	]
+}

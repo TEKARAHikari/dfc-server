@@ -1,0 +1,127 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fantasy"
+	group: "7B92A9606CB3A40E"
+	id: "0D812A432F6F267C"
+	images: [{
+		height: 6.0d
+		image: "ftbquests:textures/shapes/hexagon/outline.png"
+		rotation: 0.0d
+		width: 5.5d
+		x: 0.0d
+		y: 1.0d
+	}]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "297FF8C883225E54"
+			rewards: [{
+				id: "47F1BBBBA7E6BC54"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				id: "2E637D867840028E"
+				item: { count: 1, id: "create_fantasizing:tree_cutter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "6B9DC4A0BCC1864A"
+			rewards: [{
+				id: "030A83D46E8A2C98"
+				type: "xp"
+				xp: 160
+			}]
+			tasks: [{
+				id: "32DC3A579DB468C8"
+				item: { components: { "create_fantasizing:block_amount": 0, "create_fantasizing:place_size": 0 }, count: 1, id: "create_fantasizing:block_placer" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			id: "433ABC98C49B0BF3"
+			rewards: [{
+				id: "647159C0DDD9C8C0"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "19102A864B48C55C"
+				item: { count: 1, id: "create_fantasizing:transporter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			id: "15822859B177457F"
+			rewards: [{
+				id: "44748472C6747599"
+				type: "xp"
+				xp: 160
+			}]
+			tasks: [{
+				id: "195571B70E31F09E"
+				item: { count: 1, id: "create_fantasizing:compact_hydraulic_engine" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			id: "112232D698743AFA"
+			rewards: [{
+				id: "1D0AC8EB07511424"
+				type: "xp"
+				xp: 160
+			}]
+			tasks: [{
+				id: "50481CA10F48E460"
+				item: { count: 1, id: "create_fantasizing:compact_wind_engine" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			id: "022686A1F7FACB34"
+			rewards: [{
+				id: "0B3B1344D05E69A7"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "018711CFCE191F98"
+				item: { count: 1, id: "create_fantasizing:iron_crate" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			icon: {
+				id: "create_fantasizing:phantom_cogwheel"
+			}
+			id: "4F9160813AA63FBB"
+			rewards: [{
+				id: "50A4859ECA4CDE99"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "102210727B80DF48"
+				item: { count: 1, id: "minecraft:phantom_membrane" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+	]
+}

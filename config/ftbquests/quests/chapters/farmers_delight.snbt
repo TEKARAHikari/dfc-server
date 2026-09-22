@@ -1,0 +1,269 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "farmers_delight"
+	group: "604DE16ABE661794"
+	id: "245694D37F93579D"
+	images: [{
+		height: 3.0d
+		image: "farmersdelight:block/stove_top_on"
+		rotation: 0.0d
+		width: 3.0d
+		x: 3.0d
+		y: 1.5d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["519C7D6EF63B11B0"]
+			id: "66DA7E26D6BBD86A"
+			rewards: [{
+				id: "7401DCC7333A6E64"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "7674D4195122DA15"
+				item: { count: 1, id: "farmersdelight:skillet" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["519C7D6EF63B11B0"]
+			id: "2614A9F07466D6BF"
+			rewards: [{
+				id: "15427D698DD6CF10"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "761C7C02DF65F247"
+				item: { count: 1, id: "farmersdelight:cooking_pot" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["2614A9F07466D6BF"]
+			id: "5C474AD9E557FC79"
+			rewards: [{
+				id: "205D7CC4A5D9DE14"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "034E1DF17704EEAA"
+				item: { count: 1, id: "farmersdelight:ratatouille" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["45CA96D8BF50BFCB"]
+			id: "519C7D6EF63B11B0"
+			rewards: [{
+				id: "3E45CCCAD8571550"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "195D4F40E310C3CE"
+				item: { count: 1, id: "farmersdelight:stove" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			id: "45CA96D8BF50BFCB"
+			rewards: [{
+				id: "6A7DBE09CF44F121"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "016880138FF7A35B"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["45CA96D8BF50BFCB"]
+			id: "4DB54FDAE2AFDD63"
+			rewards: [{
+				id: "5F10E0E81B68141F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6B74C57E778D859C"
+				item: { count: 1, id: "farmersdelight:cutting_board" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["45CA96D8BF50BFCB"]
+			id: "4BD5B403E7726577"
+			rewards: [{
+				id: "56F4FD777E6ED785"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "1569A3FE2E7BF8D8"
+				item: { count: 1, id: "farmersdelight:iron_knife" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4BD5B403E7726577"]
+			id: "25C8E86F910DD59D"
+			rewards: [{
+				id: "529AB8F7DED1DFBF"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "7A90C65728EB9A57"
+				item: { count: 1, id: "farmersdelight:straw" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["25C8E86F910DD59D"]
+			id: "018BDA3073FEC89F"
+			rewards: [{
+				id: "78D09E4AED6A9AF0"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "3093946F2711DBF2"
+				item: { count: 1, id: "farmersdelight:canvas" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["018BDA3073FEC89F"]
+			id: "7E8037A22A37C3CE"
+			rewards: [{
+				id: "1D4301133856BF59"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "164E16B3C8A3FF29"
+				item: { count: 1, id: "farmersdelight:wooden_basket" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4DB54FDAE2AFDD63"]
+			id: "023049B72EC35E8D"
+			rewards: [{
+				id: "51BE5CB55751EE0D"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "71748193A4F784C9"
+				item: { count: 1, id: "farmersdelight:tree_bark" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["023049B72EC35E8D"]
+			id: "7624D2C3B7644B14"
+			rewards: [{
+				id: "2EFB516D8FF4E6D2"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6275453F4ECAB1AE"
+				item: { count: 1, id: "farmersdelight:organic_compost" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7624D2C3B7644B14"]
+			id: "60966720858438D7"
+			rewards: [{
+				id: "3C8F2A91DD6B9FD1"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "143A62508B0E878B"
+				item: { count: 1, id: "farmersdelight:rich_soil" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["60966720858438D7"]
+			id: "16E633828AA6F1B6"
+			rewards: [{
+				id: "6A6B9095904920DA"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "74189EE80F7ACA76"
+				item: { count: 1, id: "farmersdelight:red_mushroom_colony" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["66DA7E26D6BBD86A"]
+			id: "3AF0B2E5FC8D6217"
+			rewards: [{
+				id: "3933A2B0346BBA2C"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [
+				{
+					id: "6EBBBE7F71DA7C0F"
+					item: { count: 1, id: "cuisinedelight:cuisine_skillet" }
+					type: "item"
+				}
+				{
+					id: "3E4898964AFF2557"
+					item: { count: 1, id: "cuisinedelight:spatula" }
+					type: "item"
+				}
+				{
+					id: "03CC336216BB6786"
+					item: { count: 1, id: "cuisinedelight:plate" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 0.5d
+		}
+	]
+}

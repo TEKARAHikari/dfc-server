@@ -1,0 +1,239 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "dreams_and_desires"
+	group: "7B92A9606CB3A40E"
+	id: "5F3D8D8825770DF3"
+	images: [
+		{
+			height: 3.0d
+			image: "dndesires:item/gold_whisk"
+			rotation: 0.0d
+			width: 3.0d
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			height: 3.0d
+			image: "dndesires:block/sail/seething"
+			rotation: 0.0d
+			width: 3.0d
+			x: 2.0d
+			y: -2.5d
+		}
+	]
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			id: "76CA4156BE37D82E"
+			rewards: [{
+				id: "32D062E6D7695669"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "2493BBA85E4CA1AC"
+				item: { count: 1, id: "dndesires:hydraulic_press" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "160622246ACD6608"
+			rewards: [{
+				id: "5B2D362F360F0BBE"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				id: "0393172CA8AF8AE3"
+				item: { count: 1, id: "dndesires:gold_mixer" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "7CD0D60EDB7F4B1D"
+			rewards: [{
+				id: "6CB6EA94CA6C3ABB"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "490D6E8D874C40AB"
+				item: { count: 1, id: "dndesires:stirling_engine" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "332F22BA7E77F68E"
+			rewards: [{
+				id: "0A578E2980BE51EC"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "51AD85D666866A9E"
+				item: { count: 1, id: "dndesires:spud_sentry" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "58D5DCE76C840E95"
+			rewards: [{
+				id: "2574843EA0BEB0F4"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "098C5297B29567EF"
+				item: { count: 1, id: "dndesires:roll_table" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "44946FA0A1F23B6E"
+			rewards: [{
+				id: "143780279AEDB426"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "1B0659FB932BBD21"
+				item: { count: 1, id: "dndesires:inverse_gearshift" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			id: "7A9DBDEB0C8F299D"
+			rewards: [{
+				id: "674627DB32C94971"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				id: "1168873BF6BE0AE7"
+				item: { count: 1, id: "dndesires:omni_speed_controller" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			id: "3C574F750A832F08"
+			rewards: [{
+				id: "38EE742B4A4D2281"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "1B0BA73A96DC6A14"
+				item: { count: 1, id: "dndesires:smart_hopper" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			id: "657B498ACDBF97DB"
+			rewards: [{
+				id: "3628736CBF8B261E"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "6FC23E16F91CF2F7"
+				item: { count: 1, id: "dndesires:seething_sail" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			id: "02DEB39B4091F7BA"
+			rewards: [{
+				id: "4ABB16B0E48A5FB3"
+				type: "xp"
+				xp: 160
+			}]
+			tasks: [{
+				id: "65610779D1A72621"
+				item: { count: 1, id: "dndesires:gatling_breaker" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			id: "5018659DE660EFD5"
+			rewards: [{
+				id: "3B2EA499CD49DFC5"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "294DA49DFA6EC400"
+				item: { count: 1, id: "dndesires:fluid_hatch" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			id: "15011D4899FC729C"
+			rewards: [{
+				id: "18ECA5E2268A7DE0"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "1CD6200B763DA8C8"
+				item: { count: 1, id: "dndesires:industrial_fan" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			id: "2CEA07586E0DB551"
+			rewards: [{
+				id: "13CE50FD6A13E246"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "67F1A9736E1FD750"
+				item: { count: 1, id: "dndesires:multimeter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			id: "2ECF2F4F9C979F33"
+			rewards: [{
+				id: "77C9CB7DA4CB4E84"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7FA52835C1EDEEE1"
+				item: { count: 1, id: "dndesires:fluid_gauge" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+	]
+}

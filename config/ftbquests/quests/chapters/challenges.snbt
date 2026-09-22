@@ -1,0 +1,636 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "challenges"
+	group: ""
+	id: "3B9422DF29E3A207"
+	images: [{
+		height: 3.0d
+		image: "mynethersdelight:block/trophy_mounting"
+		rotation: 0.0d
+		width: 3.0d
+		x: 0.0d
+		y: 0.0d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "6DF60989B9B0ABA3"
+			rewards: [{
+				id: "1873450293A7597D"
+				type: "xp"
+				xp: 10
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "6CAD8B96E4F7DC5F"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6DF60989B9B0ABA3"]
+			id: "7A831C278373B183"
+			rewards: [
+				{
+					id: "3552A19BCD93BF10"
+					item: {
+						components: {
+							"minecraft:custom_name": "{\"color\":\"#3385FF\",\"italic\":false,\"text\":\"Ultra Prestigious Music Player\"}"
+							"minecraft:enchantments": {
+								levels: {
+									"minecraft:protection": 1
+								}
+								show_in_tooltip: 0b
+							}
+							"minecraft:lore": ["{\"italic\":false,\"text\":\"It can play music by using its great speakers\"}"]
+							"quark:rune_color": "green"
+						}
+						count: 1
+						id: "sophisticatedbackpacks:advanced_jukebox_upgrade"
+					}
+					type: "item"
+				}
+				{
+					id: "0D2AFDC8FF3CCDCC"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [
+				{
+					id: "4EA56BB2B6373CCC"
+					item: { count: 1, id: "biomeswevegone:music_disc_pixie_club" }
+					type: "item"
+				}
+				{
+					id: "41AF2AE105E603B5"
+					item: { count: 1, id: "biomeswevegone:music_disc_better_days" }
+					type: "item"
+				}
+				{
+					id: "561F86B51FDF49B3"
+					item: { count: 1, id: "minecraft:music_disc_13" }
+					type: "item"
+				}
+				{
+					id: "7BBE51CE319558E2"
+					item: { count: 1, id: "quark:music_disc_endermosh" }
+					type: "item"
+				}
+				{
+					id: "2BAA65EB76509217"
+					item: { count: 1, id: "create_connected:music_disc_interlude" }
+					type: "item"
+				}
+				{
+					id: "1FB420C0D8A82D06"
+					item: { count: 1, id: "create_connected:music_disc_elevator" }
+					type: "item"
+				}
+				{
+					id: "7A327258315F904A"
+					item: { count: 1, id: "create_confectionery:the_bright_side" }
+					type: "item"
+				}
+				{
+					id: "69D6B2AE1A2D0422"
+					item: { count: 1, id: "minecraft:music_disc_pigstep" }
+					type: "item"
+				}
+				{
+					id: "569D07FFD9DF2E4F"
+					item: { count: 1, id: "minecraft:music_disc_5" }
+					type: "item"
+				}
+				{
+					id: "7FCE5F270F70B1E2"
+					item: { count: 1, id: "minecraft:music_disc_bounce" }
+					type: "item"
+				}
+				{
+					id: "3E9B3D8223B9B5FA"
+					item: { count: 1, id: "minecraft:music_disc_11" }
+					type: "item"
+				}
+				{
+					id: "6649A38B5C03478E"
+					item: { count: 1, id: "minecraft:music_disc_creator_music_box" }
+					type: "item"
+				}
+				{
+					id: "7DDB0B134C7081D0"
+					item: { count: 1, id: "minecraft:music_disc_wait" }
+					type: "item"
+				}
+				{
+					id: "60FEC53A525AEEB1"
+					item: { count: 1, id: "minecraft:music_disc_creator" }
+					type: "item"
+				}
+				{
+					id: "5CD026751EA82AA6"
+					item: { count: 1, id: "minecraft:music_disc_precipice" }
+					type: "item"
+				}
+				{
+					id: "02B617FC2B1E354C"
+					item: { count: 1, id: "minecraft:music_disc_otherside" }
+					type: "item"
+				}
+				{
+					id: "660DECF44C41A346"
+					item: { count: 1, id: "minecraft:music_disc_relic" }
+					type: "item"
+				}
+				{
+					id: "14E6806A97B655BC"
+					item: { count: 1, id: "minecraft:music_disc_tears" }
+					type: "item"
+				}
+				{
+					id: "6B6812262F3E239B"
+					item: { count: 1, id: "minecraft:music_disc_lava_chicken" }
+					type: "item"
+				}
+				{
+					id: "69CC402FE4DB844E"
+					item: { count: 1, id: "minecraft:music_disc_ward" }
+					type: "item"
+				}
+				{
+					id: "244966AC454E8EDA"
+					item: { count: 1, id: "minecraft:music_disc_strad" }
+					type: "item"
+				}
+				{
+					id: "4A3C6AB08EC5B9D1"
+					item: { count: 1, id: "minecraft:music_disc_stal" }
+					type: "item"
+				}
+				{
+					id: "1D2BF3ABE4D33B0F"
+					item: { count: 1, id: "minecraft:music_disc_mellohi" }
+					type: "item"
+				}
+				{
+					id: "65F3A95CAD97D510"
+					item: { count: 1, id: "minecraft:music_disc_mall" }
+					type: "item"
+				}
+				{
+					id: "73B710EF04654ED9"
+					item: { count: 1, id: "minecraft:music_disc_far" }
+					type: "item"
+				}
+				{
+					id: "2E6E4C0CB4068C90"
+					item: { count: 1, id: "minecraft:music_disc_chirp" }
+					type: "item"
+				}
+				{
+					id: "6CE126CEB9B47286"
+					item: { count: 1, id: "minecraft:music_disc_blocks" }
+					type: "item"
+				}
+				{
+					id: "329CC7AA093008A5"
+					item: { count: 1, id: "minecraft:music_disc_cat" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6DF60989B9B0ABA3"]
+			id: "086F58CAFA2860B9"
+			rewards: [
+				{
+					id: "57DAAC737FD7F2EE"
+					item: {
+						components: {
+							"minecraft:custom_name": "{\"color\":\"#FEFFA8\",\"italic\":false,\"text\":\"Diet Egg\"}"
+							"minecraft:enchantments": {
+								levels: {
+									"minecraft:protection": 1
+								}
+								show_in_tooltip: 0b
+							}
+							"minecraft:lore": ["{\"italic\":false,\"text\":\"You will probably need this after eating that\"}"]
+							"quark:rune_color": "red"
+						}
+						count: 1
+						id: "mynethersdelight:enchanted_golden_egg"
+					}
+					type: "item"
+				}
+				{
+					id: "60D8D303B591C183"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "3F1BD7BC65DF5025"
+				item: { components: { "someassemblyrequired:sandwich_contents": [ { count: 1, id: "someassemblyrequired:burger_bun_bottom" }, { count: 1, id: "garnished:anniversary_cake_slice" }, { count: 1, id: "create_confectionery:ruby_chocolate_candy_3" }, { count: 1, id: "create_winery:chardonnay" }, { count: 1, id: "create_factory:nectar_glazed_berries" }, { count: 1, id: "ends_delight:dragon_breath_soda" }, { count: 1, id: "endersdelight:chorus_pie_slice" }, { count: 1, id: "oceansdelight:bowl_of_guardian_soup" }, { count: 1, id: "mynethersdelight:golden_egg" }, { count: 1, id: "farmersdelight:gleaming_salad" }, { count: 1, id: "minecraft:pumpkin_pie" }, { count: 1, id: "someassemblyrequired:burger_bun_top" } ] }, count: 1, id: "someassemblyrequired:sandwich" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6DF60989B9B0ABA3"]
+			id: "441D5D73B97F92BF"
+			rewards: [
+				{
+					id: "74C4B69F851C10D8"
+					item: {
+						components: {
+							"minecraft:custom_name": "{\"color\":\"#FF33EE\",\"italic\":false,\"text\":\"Bouquet of the Best Flowers\"}"
+							"minecraft:enchantments": {
+								levels: {
+									"minecraft:protection": 1
+								}
+								show_in_tooltip: 0b
+							}
+							"minecraft:lore": ["{\"italic\":false,\"text\":\"Compiled from the rarest flowers from all over the world\"}"]
+							"quark:rune_color": "red"
+						}
+						count: 1
+						id: "biomeswevegone:hydrangea_bush"
+					}
+					type: "item"
+				}
+				{
+					id: "6030F4897F78DFD1"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [
+				{
+					id: "4A65EEEEC852ADAF"
+					item: { count: 1, id: "regions_unexplored:iridescent_ring" }
+					type: "item"
+				}
+				{
+					id: "3502A8F0F1516D38"
+					item: { count: 1, id: "biomeswevegone:spirit_roots" }
+					type: "item"
+				}
+				{
+					id: "097808825040CFBE"
+					item: { count: 1, id: "biomeswevegone:skyris_door" }
+					type: "item"
+				}
+				{
+					id: "20FF67135765BC14"
+					item: { count: 1, id: "biomeswevegone:rainbow_eucalyptus_crafting_table" }
+					type: "item"
+				}
+				{
+					id: "20F24831F8E95637"
+					item: { count: 1, id: "biomeswevegone:mahogany_door" }
+					type: "item"
+				}
+				{
+					id: "23F7BE1860CA29C7"
+					item: { count: 1, id: "biomeswevegone:red_glow_bottle" }
+					type: "item"
+				}
+				{
+					id: "3AF22D4122A8E495"
+					item: { count: 1, id: "biomeswevegone:white_mangrove_sapling" }
+					type: "item"
+				}
+				{
+					id: "7424E31E59301148"
+					item: { count: 1, id: "biomeswevegone:witch_hazel_boat" }
+					type: "item"
+				}
+				{
+					id: "1CEB368B0E9314C6"
+					item: { count: 1, id: "biomeswevegone:green_enchanted_bookshelf" }
+					type: "item"
+				}
+				{
+					id: "62EC7374287B6124"
+					item: { count: 1, id: "regions_unexplored:hanging_earlight_fruit" }
+					type: "item"
+				}
+				{
+					id: "620095D3C886E85A"
+					item: { count: 1, id: "regions_unexplored:ash_vent" }
+					type: "item"
+				}
+				{
+					id: "71B86457142C56AD"
+					item: { count: 1, id: "regions_unexplored:dusktrap" }
+					type: "item"
+				}
+				{
+					id: "248636CF9ACCC435"
+					item: { count: 1, id: "biomeswevegone:pale_jack_o_lantern" }
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6DF60989B9B0ABA3"]
+			id: "707F92366853042C"
+			rewards: [
+				{
+					id: "1A8CFE38660BBC50"
+					item: {
+						components: {
+							"minecraft:custom_name": "{\"color\":\"#404040\",\"italic\":false,\"text\":\"Participation prize\"}"
+							"minecraft:enchantments": {
+								levels: {
+									"minecraft:protection": 1
+								}
+								show_in_tooltip: 0b
+							}
+							"minecraft:lore": ["{\"italic\":false,\"text\":\"At least you got one back\"}"]
+							"quark:rune_color": "white"
+						}
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "289B2557A68FB783"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				id: "0696FF6A1ABAA6BB"
+				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_omega_tier" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["6DF60989B9B0ABA3"]
+			id: "06FB5B7309CDF15F"
+			rewards: [
+				{
+					id: "0B835EE8D1F7C3BB"
+					item: {
+						components: {
+							"minecraft:custom_name": "{\"italic\":false,\"text\":\"One Big Skittle\"}"
+							"minecraft:enchantments": {
+								levels: {
+									"minecraft:protection": 1
+								}
+								show_in_tooltip: 0b
+							}
+							"minecraft:lore": ["{\"italic\":false,\"text\":\"To rule them all\"}"]
+							"quark:rune_color": "orange"
+						}
+						count: 1
+						id: "regions_unexplored:hanging_prismarite"
+					}
+					type: "item"
+				}
+				{
+					id: "7620EE124DC42CA4"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tasks: [
+				{
+					id: "267EB7728882E6A6"
+					item: { count: 1, id: "quark:red_corundum_cluster" }
+					type: "item"
+				}
+				{
+					id: "180E75A77C1C02E5"
+					item: { count: 1, id: "quark:orange_corundum_cluster" }
+					type: "item"
+				}
+				{
+					id: "38393A87DBC3F07C"
+					item: { count: 1, id: "quark:yellow_corundum_cluster" }
+					type: "item"
+				}
+				{
+					id: "0AE2B36B1E4D714F"
+					item: { count: 1, id: "quark:green_corundum_cluster" }
+					type: "item"
+				}
+				{
+					id: "5E9A53438D7FAEA3"
+					item: { count: 1, id: "quark:blue_corundum_cluster" }
+					type: "item"
+				}
+				{
+					id: "085F9D77DA5E4AD0"
+					item: { count: 1, id: "quark:indigo_corundum_cluster" }
+					type: "item"
+				}
+				{
+					id: "1AB5B2C36C99D69C"
+					item: { count: 1, id: "quark:violet_corundum_cluster" }
+					type: "item"
+				}
+				{
+					id: "51044A38E7DF12AE"
+					item: { count: 1, id: "quark:white_corundum_cluster" }
+					type: "item"
+				}
+				{
+					id: "3549F8DF51A6671C"
+					item: { count: 1, id: "quark:black_corundum_cluster" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6DF60989B9B0ABA3"]
+			id: "29A68218CC01BB5F"
+			rewards: [
+				{
+					id: "123F1D9A027EB84D"
+					item: {
+						components: {
+							"minecraft:custom_name": "{\"color\":\"#FF7A7A\",\"extra\":[{\"color\":\"#F1897C\",\"italic\":false,\"text\":\"h\"},{\"color\":\"#E4987D\",\"italic\":false,\"text\":\"e\"},{\"color\":\"#D6A67F\",\"italic\":false,\"text\":\" \"},{\"color\":\"#C9B581\",\"italic\":false,\"text\":\"A\"},{\"color\":\"#BBC482\",\"italic\":false,\"text\":\"m\"},{\"color\":\"#AED384\",\"italic\":false,\"text\":\"a\"},{\"color\":\"#A0E186\",\"italic\":false,\"text\":\"z\"},{\"color\":\"#93F087\",\"italic\":false,\"text\":\"i\"},{\"color\":\"#85FF89\",\"italic\":false,\"text\":\"ng\"},{\"color\":\"#81F498\",\"italic\":false,\"text\":\" \"},{\"color\":\"#7CE9A7\",\"italic\":false,\"text\":\"P\"},{\"color\":\"#78DDB5\",\"italic\":false,\"text\":\"a\"},{\"color\":\"#73D2C4\",\"italic\":false,\"text\":\"r\"},{\"color\":\"#6FC7D3\",\"italic\":false,\"text\":\"r\"},{\"color\":\"#6ABCE2\",\"italic\":false,\"text\":\"o\"},{\"color\":\"#66B0F0\",\"italic\":false,\"text\":\"t\"},{\"color\":\"#61A5FF\",\"italic\":false,\"text\":\"o\"}],\"italic\":false,\"text\":\"T\"}"
+							"minecraft:enchantments": {
+								levels: {
+									"minecraft:protection": 1
+								}
+								show_in_tooltip: 0b
+							}
+							"minecraft:lore": ["{\"italic\":false,\"text\":\"You can spawn him\"}"]
+							"quark:rune_color": "green"
+						}
+						count: 1
+						id: "minecraft:parrot_spawn_egg"
+					}
+					type: "item"
+				}
+				{
+					id: "72BB55AC2704DDFD"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tasks: [
+				{
+					id: "722A3CB707B9E795"
+					item: { count: 1, id: "quark:egg_parrot_red_blue" }
+					type: "item"
+				}
+				{
+					id: "5FF43B3869029996"
+					item: { count: 1, id: "quark:egg_parrot_blue" }
+					type: "item"
+				}
+				{
+					id: "000165535358B4E3"
+					item: { count: 1, id: "quark:egg_parrot_green" }
+					type: "item"
+				}
+				{
+					id: "2E54D30688AD4F99"
+					item: { count: 1, id: "quark:egg_parrot_yellow_blue" }
+					type: "item"
+				}
+				{
+					id: "254F012E52C0D105"
+					item: { count: 1, id: "quark:egg_parrot_gray" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6DF60989B9B0ABA3"]
+			id: "37457A719AC6DBEF"
+			rewards: [
+				{
+					id: "50BBDD6110F27BBE"
+					item: {
+						components: {
+							"minecraft:custom_name": "{\"italic\":false,\"text\":\"Mechanical Marvel\"}"
+							"minecraft:enchantments": {
+								levels: {
+									"minecraft:protection": 1
+								}
+								show_in_tooltip: 0b
+							}
+							"minecraft:lore": ["{\"italic\":false,\"text\":\"Truly the most complex\"}"]
+							"quark:rune_color": "blue"
+						}
+						count: 1
+						id: "create:precision_mechanism"
+					}
+					type: "item"
+				}
+				{
+					id: "4CBB91FD17B01EC9"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tasks: [
+				{
+					consume_items: true
+					count: 64L
+					id: "6D0DDDE62D658CB7"
+					item: { count: 1, id: "create_things_and_misc:vibration_mechanism" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "39F951D12FFCC95F"
+					item: { count: 1, id: "create:precision_mechanism" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "6C246C3BA475D910"
+					item: { count: 1, id: "create_sa:steam_engine" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "66A898C63AAADAA2"
+					item: { count: 1, id: "create_sa:heat_engine" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "2642C2B079745956"
+					item: { count: 1, id: "create_sa:hydraulic_engine" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "3C428ADCFE473B91"
+					item: { count: 1, id: "create_connected:control_chip" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6DF60989B9B0ABA3"]
+			id: "57FDC3B30CD5E2E6"
+			rewards: [
+				{
+					id: "5F6343E6FDD56AC6"
+					item: {
+						components: {
+							"minecraft:custom_name": "{\"italic\":false,\"text\":\"Château de la Vallée des Sept Collines de Saint-Éloi-sur-Montbrillant Grand Réserve Impériale Cuvée des Mille Étoiles Vieilles Vignes Sélection du Maître Vigneron Héritage Royal Édition Commémorative du Solstice d'Automne Millésime Exceptionnel Prestige Ultime de l'Ordre des Sommeliers de la Couronne Éternelle\"}"
+							"minecraft:enchantments": {
+								levels: {
+									"minecraft:protection": 1
+								}
+								show_in_tooltip: 0b
+							}
+							"minecraft:lore": [
+								"{\"bold\":true,\"italic\":false,\"text\":\"\\\"A vintage so prestigious that no one remembers what grapes were used.\\\"\"}"
+								"{\"italic\":false,\"text\":\"Legend claims each bottle is blessed by seven sommeliers, aged beneath moonlit cathedrals, and turned exactly once every solstice by a hereditary cellar keeper.\"}"
+								"{\"extra\":[{\"italic\":false,\"text\":\"Its bouquet has been described as \"},\"\\\"notes of wild berries, polished oak, forgotten promises, and the unmistakable aroma of excessive self-importance.\\\"\"],\"text\":\"\"}"
+								"{\"italic\":false,\"text\":\"Collectors insist it should never be opened. Connoisseurs insist it should only be opened during celestial alignments. Most people simply use it to impress guests who are too intimidated to question whether it actually tastes any good.\"}"
+							]
+							"quark:rune_color": "orange"
+						}
+						count: 1
+						id: "create_winery:bordeaux"
+					}
+					type: "item"
+				}
+				{
+					id: "54B13AF0071F23B4"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 576L
+				id: "55D3619E398B9DDC"
+				item: { count: 1, id: "create_winery:rose" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+	]
+}

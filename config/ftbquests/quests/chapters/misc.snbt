@@ -1,0 +1,187 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "misc"
+	group: "549E184D243DDBBE"
+	id: "06E2B665010914B5"
+	images: [{
+		height: 10.0d
+		image: "minecraft:textures/painting/wind.png"
+		rotation: 0.0d
+		width: 10.0d
+		x: 0.5d
+		y: 1.0d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "39C485FCD22DC443"
+			rewards: [{
+				id: "40F3CD004092AFF6"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0C3E72956C43E6F0"
+				item: { count: 1, id: "rechiseled:chisel" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			id: "68C1190E8DDF82FE"
+			rewards: [{
+				id: "046F6E1D368E5894"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2242D6B3C0E95C36"
+				item: { count: 1, id: "handcrafted:hammer" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			id: "27982E416B62140F"
+			rewards: [{
+				id: "3DFEE84E6B2D7404"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3877AF445BC30C8A"
+				item: { count: 1, id: "naturescompass:naturescompass" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			id: "5F7E0BB0BFBC954B"
+			rewards: [{
+				id: "129112BBA0170517"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "510DD7070E07A10E"
+				item: { count: 1, id: "explorerscompass:explorerscompass" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.5d
+		}
+		{
+			id: "110B799E26128E97"
+			rewards: [{
+				id: "1528039A17669E6A"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "040B07AF2F44B705"
+				item: { count: 1, id: "comforts:sleeping_bag_white" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			id: "5AC1EBB0F63CEEC2"
+			rewards: [{
+				id: "3545DF961B4E9B93"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "697FDCB45D38AA13"
+				item: { count: 1, id: "torchmaster:megatorch" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			id: "1B61A7D83D745AE9"
+			rewards: [{
+				id: "025B021401C66660"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "111E0F95DC0254C8"
+				item: { count: 1, id: "torchmaster:feral_flare_lantern" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			id: "4918A3148CE350F4"
+			rewards: [{
+				id: "38E9687C93E60C15"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "338BD60E2255C37B"
+				item: { count: 1, id: "torchmaster:dreadlamp" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			icon: {
+				id: "minecraft:dried_ghast"
+			}
+			id: "101F18F6CAEE189E"
+			rewards: [{
+				id: "53163961ED3D705C"
+				type: "xp"
+				xp: 10
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "4A327863EA859E37"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			id: "0D098725D3551605"
+			rewards: [{
+				id: "46FF08FC0D6BF167"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "611EFF630436F33D"
+				item: { count: 1, id: "immersive_paintings:painting" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			id: "58FAF0A165833641"
+			rewards: [{
+				id: "19C1DF70BDBD9F71"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "5A9A54DCB864A710"
+				item: { count: 1, id: "strawstatues:straw_statue" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+	]
+}

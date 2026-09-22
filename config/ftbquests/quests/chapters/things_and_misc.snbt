@@ -1,0 +1,208 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "things_and_misc"
+	group: "7B92A9606CB3A40E"
+	id: "4C3AD88C8E92618B"
+	images: [{
+		height: 6.0d
+		image: "create_things_and_misc:textures/background.png"
+		rotation: 0.0d
+		width: 8.0d
+		x: 0.0d
+		y: -6.5d
+	}]
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			id: "610795628CF35B55"
+			rewards: [{
+				id: "042D0C8442183894"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [
+				{
+					id: "6643EDA50E27716B"
+					item: { count: 1, id: "create_things_and_misc:card_press" }
+					type: "item"
+				}
+				{
+					id: "366FD988ECA82579"
+					item: { count: 1, id: "minecraft:ink_sac" }
+					type: "item"
+				}
+				{
+					id: "7846B43D9790805B"
+					item: { count: 1, id: "minecraft:name_tag" }
+					type: "item"
+				}
+				{
+					id: "378016EFCDC1177F"
+					item: { count: 1, id: "create_things_and_misc:empty_card" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			id: "410D4970153E65A6"
+			rewards: [{
+				id: "47974A18A22D812E"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "5D9E4DC9BA5C437A"
+				item: { count: 1, id: "create_things_and_misc:card_reader" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			id: "72F59F24D29D5541"
+			rewards: [{
+				id: "302EECBC1C0947A7"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [
+				{
+					id: "22DD3C22F398DCF9"
+					item: { count: 1, id: "create_things_and_misc:brass_speaker" }
+					type: "item"
+				}
+				{
+					id: "755FB33691306E92"
+					item: { count: 1, id: "minecraft:name_tag" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			id: "71476466460A9453"
+			rewards: [{
+				id: "10C0D9A806D98502"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "0F1E76985B775361"
+				item: { count: 1, id: "create_things_and_misc:slime_cake" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			id: "0A2B712333B1AC26"
+			rewards: [{
+				id: "3942DAA83FB7D346"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5F5A53B330849328"
+				item: { count: 1, id: "create_things_and_misc:sticky_boots_boots" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			id: "5C775F77BE111C50"
+			rewards: [{
+				id: "144236A7A72BD2D4"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "1B7BFE7C30F43BB4"
+				item: { count: 1, id: "create_things_and_misc:neon_tube" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			id: "314803CB8B43B499"
+			rewards: [{
+				id: "2A909C5AA67823D2"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "513A79C14A443D35"
+				item: { count: 1, id: "create_things_and_misc:portable_whistle" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			id: "6F9D3D5DB7AD20B2"
+			rewards: [{
+				id: "512351BB1231B877"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "31B0431456A5FBFC"
+				item: { count: 1, id: "create_things_and_misc:radar" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			id: "52CAB3DE5846EC1F"
+			rewards: [{
+				id: "7F1C889E6168EBC8"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "31E573054423B782"
+				item: { count: 1, id: "create_things_and_misc:sprinkler" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "2E5B82C25C812DD3"
+			rewards: [{
+				id: "5A18F850B1E52CDB"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "250A36F77B9C6373"
+				item: { count: 1, id: "create_things_and_misc:sticky_launcher" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			id: "0EA89DECBC2FCAEF"
+			rewards: [{
+				id: "3D8B0891E5785BD1"
+				type: "xp"
+				xp: 160
+			}]
+			tasks: [{
+				id: "51E825A9982A1F0E"
+				item: { count: 1, id: "create_things_and_misc:mending_rune" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+	]
+}

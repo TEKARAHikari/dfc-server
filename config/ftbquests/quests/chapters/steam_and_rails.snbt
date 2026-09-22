@@ -1,0 +1,172 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "steam_and_rails"
+	group: "7B92A9606CB3A40E"
+	id: "3949E77924253567"
+	images: [
+		{
+			height: 5.0d
+			image: "railways:textures/particle/smoke_64.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: -0.5d
+			y: -5.5d
+		}
+		{
+			height: 3.0d
+			image: "railways:textures/gui/bogey_icons/medium_standard_icon.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -0.5d
+			y: -5.5d
+		}
+	]
+	order_index: 10
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["4999ABAE58851600"]
+			id: "508F8C698F04C8FB"
+			rewards: [{
+				id: "1DA622468548C3D6"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "5E7D1CA2DC94A671"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["508F8C698F04C8FB"]
+			id: "38EB21795ED38E57"
+			rewards: [{
+				id: "1F84367330EBBFA8"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "55C3ACB81F443BFA"
+				item: { count: 1, id: "railways:track_monorail" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["508F8C698F04C8FB"]
+			id: "107A7B72C5A73F92"
+			rewards: [{
+				id: "5538D8B9270D1F97"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "160012313942B59B"
+				item: { count: 1, id: "railways:track_phantom" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["508F8C698F04C8FB"]
+			id: "3E6597BD131AA2FF"
+			rewards: [{
+				id: "484C97EC4DEA2640"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				id: "73DE036E1BAEFAE7"
+				item: { count: 1, id: "railways:white_conductor_cap" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["508F8C698F04C8FB"]
+			id: "5B561B9723A39622"
+			rewards: [{
+				id: "10A5B2B935158B4F"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "1E546EA3B57E3D3F"
+				item: { count: 1, id: "railways:track_coupler" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["508F8C698F04C8FB"]
+			id: "68DFC50178710CF0"
+			rewards: [{
+				id: "76E2FBBF9A2F105D"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "53BDB15D4A2CC663"
+				item: { count: 1, id: "railways:semaphore" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["508F8C698F04C8FB"]
+			id: "252EAB2FF1143D0F"
+			rewards: [{
+				id: "6487CF045BD26BD6"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "35662E85ECA628D8"
+				item: { count: 1, id: "railways:handcar" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["508F8C698F04C8FB"]
+			id: "36DC0D2A62465C4A"
+			rewards: [{
+				id: "09CFEA978706B2EF"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "1DB33D853949C297"
+				item: { count: 1, id: "railways:track_switch_andesite" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["508F8C698F04C8FB"]
+			id: "21AB5F63A0B9A35D"
+			rewards: [{
+				id: "684C3BBBF8702FCC"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "00DAC501C98E2AC5"
+				item: { count: 1, id: "railways:portable_fuel_interface" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.0d
+		}
+	]
+}

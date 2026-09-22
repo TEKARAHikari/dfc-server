@@ -1,0 +1,82 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "transportation_addons"
+	group: "7B92A9606CB3A40E"
+	id: "2CE824399EEF5402"
+	images: [
+		{
+			color: 11889957
+			height: 5.0d
+			image: "journeymap:textures/waypoint/icon/00_markers/jwi03triangle_full.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: -2.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "quark:textures/attribute/unknown.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -3.0d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2BA7B7508E57DB4D"
+			rewards: [{
+				id: "61577447E65FAD4B"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "4EEB3C85C1220993"
+				item: { count: 1, id: "escalated:metal_walkway_steps" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -5.5d
+		}
+		{
+			id: "6145D54BEB242021"
+			rewards: [{
+				id: "37A820BD14F7D98D"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [
+				{
+					id: "51DB2BEA313F092F"
+					item: { count: 1, id: "create_hypertube:hypertube_entrance" }
+					type: "item"
+				}
+				{
+					id: "31E0451D63996B6E"
+					item: { count: 1, id: "create_hypertube:hypertube" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			id: "0BACBB864CC030AF"
+			rewards: [{
+				id: "5F59DD76CA9FFD7A"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				id: "2BDE4B282357DA55"
+				item: { count: 1, id: "createornithopterglider:ornithopterglider" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.5d
+		}
+	]
+}

@@ -1,0 +1,347 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "wine"
+	group: "604DE16ABE661794"
+	id: "49D3302BC5DE73B2"
+	images: [
+		{
+			height: 2.0d
+			image: "create_winery:item/red_grapes"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			height: 2.0d
+			image: "create_winery:item/white_chardonnay"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.0d
+			y: -7.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "582B971CC66DC6D3"
+			rewards: [{
+				id: "77D13EF737B71F90"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "595AF088EED42466"
+				item: { count: 1, id: "minecraft:apple" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			id: "5405AFD098485C4B"
+			rewards: [{
+				id: "4720659E8D7A8F7A"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "42B5F61BBA522CA5"
+				item: { count: 1, id: "create_winery:red_grapes" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			id: "48449A767CA2375B"
+			rewards: [{
+				id: "74222B7FBE84E78D"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "787321759E26183E"
+				item: { count: 1, id: "create_winery:white_grapes" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"5405AFD098485C4B"
+				"48449A767CA2375B"
+				"582B971CC66DC6D3"
+			]
+			dependency_requirement: "one_completed"
+			id: "59F4A00E2E3B72FF"
+			rewards: [{
+				id: "11C894D2093F05A0"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "6E4FD2C8490595A7"
+				item: { count: 1, id: "create_winery:wine_cellar" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"5405AFD098485C4B"
+				"59F4A00E2E3B72FF"
+			]
+			id: "54F9DE88BC180EF3"
+			rewards: [{
+				id: "1598EE7F6DEA7287"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "17DA4DCF26D2378F"
+				item: { count: 1, id: "create_winery:red_grape_pomace" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"48449A767CA2375B"
+				"59F4A00E2E3B72FF"
+			]
+			id: "3C273C7DE457CDED"
+			rewards: [{
+				id: "5ACA0DE905324E42"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "77CBFE592547390F"
+				item: { count: 1, id: "create_winery:white_grape_pomace" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"582B971CC66DC6D3"
+				"59F4A00E2E3B72FF"
+			]
+			id: "433332ADDB6D5041"
+			rewards: [{
+				id: "5173E48A92934070"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "38DAFEF8DBBD2EE1"
+				item: { count: 1, id: "create_winery:apple_must" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["433332ADDB6D5041"]
+			id: "63867405DA22B798"
+			rewards: [{
+				id: "1CA9783BF8A37480"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "1C8F0BAD1B7336B5"
+				item: { count: 1, id: "create_winery:cider" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"3C273C7DE457CDED"
+				"54F9DE88BC180EF3"
+			]
+			id: "6DE543AC4E4C9B61"
+			rewards: [{
+				id: "2B15D984138E623D"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "0C66AA2BD81CB45B"
+				item: { count: 1, id: "create_winery:rose" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["54F9DE88BC180EF3"]
+			id: "7A1A2A4BE2CFD807"
+			rewards: [{
+				id: "52BC1A16F72FBB23"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "0E29EFC064321BFD"
+				item: { count: 1, id: "create_winery:bordeaux" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["54F9DE88BC180EF3"]
+			id: "42F8D3950FC4CBCB"
+			rewards: [{
+				id: "6C294B96F0DBCAF4"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "28CFE54CD6984FB1"
+				item: { count: 1, id: "create_winery:cabernet_sauvignon" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["54F9DE88BC180EF3"]
+			id: "0018DF8D8BEFADAD"
+			rewards: [{
+				id: "752049C4E5D50BB2"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "3F25D7AE189EDC7C"
+				item: { count: 1, id: "create_winery:merlot" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["54F9DE88BC180EF3"]
+			id: "22B6C4B05D2DE9C5"
+			rewards: [{
+				id: "7376582ABADC674F"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "3C19F99F0C74FAC3"
+				item: { count: 1, id: "create_winery:pinot_noir" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["54F9DE88BC180EF3"]
+			id: "7473D7D7DC2C9119"
+			rewards: [{
+				id: "4C9F7965FD916126"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "50B73BABF7800E54"
+				item: { count: 1, id: "create_winery:zinfandel" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3C273C7DE457CDED"]
+			id: "4C7C5B3F76E22C96"
+			rewards: [{
+				id: "1BD95069E5A097F8"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "5F4EFC62F74E7803"
+				item: { count: 1, id: "create_winery:champaign" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3C273C7DE457CDED"]
+			id: "17C36BED53046480"
+			rewards: [{
+				id: "6EC47DC9F26798AF"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "6E789FAF4240A03E"
+				item: { count: 1, id: "create_winery:chardonnay" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3C273C7DE457CDED"]
+			id: "67E66832903772AB"
+			rewards: [{
+				id: "086B965884CEA410"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "2E9D617F6703582B"
+				item: { count: 1, id: "create_winery:riesling" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3C273C7DE457CDED"]
+			id: "509CF99D8CC8C1D2"
+			rewards: [{
+				id: "1AD5A1C2638FB87A"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3091A44A02DDB3C8"
+				item: { count: 1, id: "create_winery:apple_juice" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["54F9DE88BC180EF3"]
+			id: "12491A94D6C8E3CA"
+			rewards: [{
+				id: "0EC385C78212B165"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "18707FBF66561E4F"
+				item: { count: 1, id: "create_winery:grape_juice" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+	]
+}

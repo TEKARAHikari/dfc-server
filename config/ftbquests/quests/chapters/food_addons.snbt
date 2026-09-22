@@ -1,0 +1,213 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "food_addons"
+	group: "7B92A9606CB3A40E"
+	id: "2782F19F145B8859"
+	images: [{
+		height: 3.0d
+		image: "minecraft:block/cake_top"
+		rotation: 0.0d
+		width: 3.0d
+		x: 2.0d
+		y: -4.0d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["04B3392D587E4360"]
+			id: "2B82A60B7A98766D"
+			rewards: [{
+				id: "31E89AF0218F51CB"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "40AC3C395950227E"
+				item: { count: 1, id: "someassemblyrequired:sandwiching_station" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2B82A60B7A98766D"]
+			id: "363B51EBD90088A0"
+			rewards: [{
+				id: "120CBA4EC962547C"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "51D11D266159A76B"
+				item: { components: { "someassemblyrequired:sandwich_contents": [ { count: 1, id: "someassemblyrequired:burger_bun_bottom" }, { count: 1, id: "farmersdelight:beef_patty" }, { count: 1, id: "farmersdelight:cabbage_leaf" }, { count: 1, id: "someassemblyrequired:tomato_slices" }, { count: 1, id: "someassemblyrequired:sliced_onion" }, { count: 1, id: "someassemblyrequired:burger_bun_top" } ] }, count: 1, id: "someassemblyrequired:sandwich" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["363B51EBD90088A0"]
+			id: "2094F051AE240F57"
+			rewards: [{
+				id: "268A5E895799A17D"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "1138B0CBEB751147"
+				item: { components: { "someassemblyrequired:sandwich_contents": [ { count: 1, id: "someassemblyrequired:burger_bun_bottom" }, { count: 1, id: "farmersdelight:hamburger" }, { count: 1, id: "someassemblyrequired:burger_bun_top" } ] }, count: 1, id: "someassemblyrequired:sandwich" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["04B3392D587E4360"]
+			id: "2B9C572AE3B67401"
+			rewards: [{
+				id: "0FDD9B88487D4BDF"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "31C8F5501775D41B"
+				item: { count: 1, id: "create_factory:white_jar" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2B9C572AE3B67401"]
+			id: "12CC393082E9AD3D"
+			rewards: [{
+				id: "14377225262AA4FC"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "411D9C1C1DF20CF0"
+				item: { count: 1, id: "create_factory:honey_roll" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["04B3392D587E4360"]
+			id: "19913668DF8E3916"
+			rewards: [{
+				id: "293B22E11CF39D73"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "36121802069CAEC7"
+				item: { count: 1, id: "garnished:bok_choy" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["04B3392D587E4360"]
+			id: "12F21D86E98B0A93"
+			rewards: [{
+				id: "266F094C9A0D116C"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "19B84F748414E5DA"
+				item: { count: 1, id: "create:builders_tea" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["04B3392D587E4360"]
+			id: "191018BD78035D67"
+			rewards: [{
+				id: "4022AB238FE203D3"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "217A2CF1213B4D87"
+				item: { count: 1, id: "garnished:sugar_cube" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"12F21D86E98B0A93"
+				"191018BD78035D67"
+				"19913668DF8E3916"
+			]
+			id: "675F9E7059C6EA97"
+			rewards: [{
+				id: "2368468FA11EAF3E"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "3FC195F1C067E4A2"
+				item: { count: 1, id: "garnished:sweet_tea" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			id: "04B3392D587E4360"
+			rewards: [{
+				id: "791533177590ABF3"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "28B23F1947F9B80F"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["04B3392D587E4360"]
+			id: "27E9A521807889AA"
+			rewards: [{
+				id: "7B86625B7A28BE15"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "661907EC18262F8F"
+				item: { count: 1, id: "create_confectionery:bar_of_caramel" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["27E9A521807889AA"]
+			id: "475A50C82FEA9D30"
+			rewards: [{
+				id: "3094A0C574695014"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "3C9FABBF9F911C5B"
+				item: { count: 1, id: "create_confectionery:chocolate_candy" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.0d
+		}
+	]
+}

@@ -1,0 +1,9 @@
+﻿# Done Farm Create 服务端 JVM 参数
+-Xms2G
+-Xmx6G
+-XX:+UseG1GC
+-XX:+ParallelRefProcEnabled
+-XX:MaxGCPauseMillis=200
+-XX:+UnlockExperimentalVMOptions
+-XX:+DisableExplicitGC
+-Dfile.encoding=UTF-8

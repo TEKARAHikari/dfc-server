@@ -1,0 +1,2473 @@
+{
+	chapter.05FEFE72A3492A23.title: "Enchantment Industry"
+	chapter.06E2B665010914B5.title: "Misc"
+	chapter.0B86F8CA09667035.title: "Storage"
+	chapter.0D812A432F6F267C.title: "Fantasy"
+	chapter.10BF05EADD0191BD.title: "Intro"
+	chapter.1650FB9EE2C7A8E0.title: "Quark"
+	chapter.228F63EE033B6426.title: "Deep Dark"
+	chapter.245694D37F93579D.title: "Farmer's Delight"
+	chapter.2782F19F145B8859.title: "Food Addons"
+	chapter.28706991079BAAA4.title: "Create"
+	chapter.2CE824399EEF5402.title: "Transportation Addons"
+	chapter.31951F15F509C2FB.title: "Connected"
+	chapter.3949E77924253567.title: "Steam and Rails"
+	chapter.3B9422DF29E3A207.title: "Challenges"
+	chapter.478FE4AFB7CA64BB.title: "Stuff and Additions"
+	chapter.49D3302BC5DE73B2.title: "Wine"
+	chapter.4C3AD88C8E92618B.title: "Things and Misc"
+	chapter.4E0EDDB5A8A2CED7.title: "Vanilla"
+	chapter.583AC94A1241EB90.title: "Other Delights"
+	chapter.5F3D8D8825770DF3.title: "Dreams and Desires"
+	chapter_group.549E184D243DDBBE.title: "Quality of Life"
+	chapter_group.604DE16ABE661794.title: "Farming"
+	chapter_group.7B92A9606CB3A40E.title: "Create \\& Addons"
+	quest.0018DF8D8BEFADAD.quest_desc: [
+		"Maturing Red Grape Pomace may yield &lMerlot&r, a smooth red with plum, cherry, and chocolate notes. A drink normally grants Resistance together with Slowness for 20 seconds, though one in five servings causes Nausea for 10 seconds."
+		""
+		"The wine is smooth; your route back across the room may be less so."
+	]
+	quest.0018DF8D8BEFADAD.quest_subtitle: "Wait for a smooth, chocolate-noted red"
+	quest.00E4DADD2EB08264.quest_desc: [
+		"Empty bottled Dragon's Breath with an Item Drain to collect &lLiquid Dragon's Breath&r. An Encased Fan blowing through the fluid performs Bulk Ending recipes, including turning Cobblestone into End Stone; flowing Dragon's Breath touching lava also forms End Stone directly."
+		""
+		"The End is now renewable, provided your plumbing is comfortable handling dragon breath."
+	]
+	quest.00E4DADD2EB08264.quest_subtitle: "Bring the End into your fluid network"
+	quest.010332FC6264A53F.quest_desc: [
+		"The &lForgotten&r is a rare skeleton variant found deep underground in complete darkness. It fires Blindness arrows, rushes in with its enchanted sword while you cannot see, and switches back to its bow when the effect ends."
+		""
+		"Defeat one for its Explorer's Hat, which adds two blocks of reach and improves your fishing luck."
+	]
+	quest.010332FC6264A53F.quest_subtitle: "An explorer who stayed too long"
+	quest.011AE84D438DEA07.quest_desc: [
+		"The &lCrafting Upgrade&r places a crafting grid inside your backpack."
+		""
+		"It is one of those small conveniences that becomes difficult to live without."
+	]
+	quest.011AE84D438DEA07.quest_subtitle: "Craft wherever inspiration strikes"
+	quest.017A2AC630C322FE.quest_desc: [
+		"The &lDrawer Puller&r helps move a drawer while keeping its contents and upgrades intact."
+		""
+		"Full storage does not need to become permanent furniture."
+	]
+	quest.017A2AC630C322FE.quest_subtitle: "Moving day without unpacking"
+	quest.018BDA3073FEC89F.quest_desc: [
+		"&lCanvas&r is a woven material made from Straw. It is used for Baskets and a wide range of signs, hanging signs, rugs, and other soft rustic decorations."
+		""
+		"Straw has put on a respectable outfit and entered the decorating business."
+	]
+	quest.018BDA3073FEC89F.quest_subtitle: "Weave straw into practical fabric"
+	quest.018C2A7615B6A9D7.quest_desc: ["Like the other sections, this chapter highlights a few features from the various &lDelight&r add-on mods rather than covering everything they have to offer."]
+	quest.018C2A7615B6A9D7.quest_subtitle: "Notice of other delights"
+	quest.022686A1F7FACB34.quest_desc: [
+		"The &lIron Crate&r is an adjustable-capacity container that can join with matching crates along all three axes. It keeps most contents when mined or removed with a Wrench, can be renamed directly, and retains its capacity limit while mounted on a contraption, although it cannot be opened while moving."
+		""
+		"A chest that grows with the hoard and packs itself for moving day."
+	]
+	quest.022686A1F7FACB34.quest_subtitle: "Adjustable storage that travels packed"
+	quest.023049B72EC35E8D.quest_desc: [
+		"Obtain &lTree Bark&r by processing logs on a Cutting Board with an Axe, leaving stripped wood behind. Bark is used in the plant-based Organic Compost recipe and provides extra value from routine wood processing."
+		""
+		"The log has been peeled for agricultural reasons and would prefer not to discuss it."
+	]
+	quest.023049B72EC35E8D.quest_subtitle: "Recover a useful layer from every log"
+	quest.023D8E1F2F6079BD.quest_desc: [
+		"The &lCompacting Upgrade&r automatically turns suitable items into compact forms such as ingots and blocks."
+		""
+		"It saves space while keeping both forms easy to access."
+	]
+	quest.023D8E1F2F6079BD.quest_subtitle: "Small pieces, tidy stacks"
+	quest.02787207BB4474CF.quest_desc: [
+		"The &lKeyring&r combines your drawer keys into one convenient tool."
+		""
+		"Fewer keys, fewer inventory slots, same satisfying clicking."
+	]
+	quest.02787207BB4474CF.quest_subtitle: "All your keys, one slot"
+	quest.028FF32BCFE78361.quest_desc: [
+		"The &lDrawer Controller&r connects nearby drawers into one storage network."
+		""
+		"Insert or extract items from one convenient block instead of visiting every drawer."
+	]
+	quest.028FF32BCFE78361.quest_subtitle: "One block to rule the drawers"
+	quest.02A93C1FD8D4BCAB.quest_desc: [
+		"There is a mod in this pack called sound of steam, if you have the patiance you can make a very complicated system that will play any midi file. That being said I will not explain it. it is WAY TOO COMPLICATED."
+		""
+		"So here is a compromise: "
+		""
+		"[ { \"text\": \"https://www.youtube.com/watch?v=XkioxlZGdGI\", \"underlined\": true, \"clickEvent\": { \"action\": \"open_url\", \"value\": \"https://www.youtube.com/watch?v=XkioxlZGdGI\" } } ]"
+		""
+		"This video goes through most of it if you are up to the challange."
+	]
+	quest.02A93C1FD8D4BCAB.quest_subtitle: "Uhhhhh yep"
+	quest.02DEB39B4091F7BA.quest_desc: [
+		"Hold the &lGatling Breaker&r on a targeted block to fire repeated long-range breaking shots. Efficiency improves its firing performance, while its demanding mechanical-crafting recipe includes Netherite, Diamond, Obsidian, a Precision Mechanism, and Prismarine."
+		""
+		"Mining has abandoned the pickaxe swing in favor of overwhelming ranged enthusiasm."
+	]
+	quest.02DEB39B4091F7BA.quest_subtitle: "Break distant blocks in a rapid barrage"
+	quest.02E0ABD4B0B76078.quest_desc: [
+		"&lSuper Glue&r joins selected block faces so they move together as one contraption. Hold it to see glued connections, apply it between neighboring blocks, and use a wrench or attack the glue to remove unwanted links."
+		""
+		"Please glue machinery responsibly. The floor has done nothing wrong."
+	]
+	quest.02E0ABD4B0B76078.quest_subtitle: "Make blocks move as one"
+	quest.03A919E53349DB3D.quest_desc: [
+		"The &lSmall Fueling Tank&r stores fuel and automatically transfers it to compatible equipment in your inventory, including Andesite and Brass gadgets. Right-click Lava to refill the tank; larger tiers keep the same function while carrying progressively greater reserves."
+		""
+		"A pocket-sized lava supply with absolutely no workplace-safety implications."
+	]
+	quest.03A919E53349DB3D.quest_subtitle: "Carry a reserve of portable heat"
+	quest.03B3845C539B37D7.quest_desc: [
+		"The &lThreshold Switch&r monitors the fill level of an attached inventory or Fluid Tank and changes its redstone output at configurable upper and lower thresholds. This creates stable on-and-off control without rapid flickering near one value."
+		""
+		"It watches the storage so you can stop staring at the chest."
+	]
+	quest.03B3845C539B37D7.quest_subtitle: "Redstone from storage levels"
+	quest.03DC966F940FA8D2.quest_desc: [
+		"Wear &lEngineer's Goggles&r in the helmet or Curios slot to reveal extra machine information. They show exact RPM, stress usage, fluid contents, kinetic direction, and other details directly in the world."
+		""
+		"The machinery was always full of numbers; now you can see them."
+	]
+	quest.03DC966F940FA8D2.quest_subtitle: "See what the machines are thinking"
+	quest.0433483AEA498B57.quest_desc: [
+		"The &lAdvanced Feeding Upgrade&r adds extra filtering options for choosing exactly which food your backpack may feed you."
+		""
+		"No more eating the emergency golden apple by accident."
+	]
+	quest.0433483AEA498B57.quest_subtitle: "A more selective menu"
+	quest.0477826A9FCC0A62.quest_desc: [
+		"The &lMillstone&r grinds items placed into its top when supplied with rotation. Outputs can be removed from the sides, making it an early option for flour, crushed materials, and several useful processing recipes."
+		""
+		"Drop ingredients in the top and let the rock do the thinking."
+	]
+	quest.0477826A9FCC0A62.quest_subtitle: "Your first powered grinder"
+	quest.048C8DEFD5C6A469.quest_desc: [
+		"A &lTrack Observer&r watches a selected section of track and emits redstone when a matching train passes. Apply filters to react only to specific trains or cargo conditions and trigger station-side automation."
+		""
+		"The railway now knows exactly who just went by."
+	]
+	quest.048C8DEFD5C6A469.quest_subtitle: "Detect trains on the line"
+	quest.04B3392D587E4360.quest_desc: [
+		"The &lCreate food addons&r add a huge variety of ingredients, meals, and production chains. There are far too many recipes to cover here, so this chapter focuses on just a few of the basics to help you get started."
+		""
+		"Don't worryâ€”you'll get plenty of opportunities to dive deeper into these mods later, especially in the &lChallenges&r section. There's a lot of fun to be had once you start experimenting!"
+	]
+	quest.04B3392D587E4360.quest_subtitle: "Very General"
+	quest.0532693FB77AA71D.quest_desc: [
+		"A &lGearbox&r redirects one rotational input across several perpendicular faces. Opposite sides rotate together, making it a clean way to branch a shaft network around corners."
+		""
+		"One box, several directions, fewer headaches."
+	]
+	quest.0532693FB77AA71D.quest_subtitle: "Send rotation around corners"
+	quest.05817C01B8D21136.quest_desc: [
+		"The &lParallel Gearbox&r packages a useful large-cogwheel arrangement into one block. Shafts connected around a corner rotate in the same direction, while connections running straight through the block reverse direction."
+		""
+		"The gear puzzle has been compressed until only the useful answer remains."
+	]
+	quest.05817C01B8D21136.quest_subtitle: "Route parallel shafts around one compact corner"
+	quest.0593CF16E72D9CC7.quest_desc: [
+		"Craft a &lNetherite Ingot&r from four Netherite Scrap and four Gold Ingots. Use it with a Netherite Upgrade Smithing Template at a Smithing Table to improve diamond equipment."
+		""
+		"Diamond equipment has discovered an even more expensive final form."
+	]
+	quest.0593CF16E72D9CC7.quest_subtitle: "Refine the Nether's strongest material"
+	quest.0593CF16E72D9CC7.title: "Cover Me in Debris"
+	quest.05B57DBE42B71095.quest_desc: [
+		"The &lAdvanced Void Upgrade&r adds extra filtering options so unwanted items can be destroyed with much more precise rules."
+		""
+		"Measure twice, void once."
+	]
+	quest.05B57DBE42B71095.quest_subtitle: "Precision deletion"
+	quest.064303E5A1143EA0.quest_desc: [
+		"The &lFill Level Upgrade&r shows how full a drawer is at a glance."
+		""
+		"A small display can save a surprisingly large amount of guessing."
+	]
+	quest.064303E5A1143EA0.quest_subtitle: "See the hoard growing"
+	quest.06520F9310B953FD.quest_desc: [
+		"A &lCloud in a Bottle&r lets you place a temporary cloud block that you can build from. After a short time, the cloud disappears on its own, but you can also collect it early by right-clicking it with an empty Glass Bottle."
+		""
+		"To create a Cloud in a Bottle, take an empty Glass Bottle above the clouds (&lY > 190&r) and right-click to capture one."
+	]
+	quest.06520F9310B953FD.quest_subtitle: "Someone wants to build a skyblock?"
+	quest.067F1A7B1A21F39B.quest_desc: [
+		"An &lEncased Fan&r creates an air stream when rotated, pushing or pulling entities and loose items according to its direction. Blow through water, lava, fire, or soul fire to perform bulk washing, smelting, smoking, or haunting recipes."
+		""
+		"Factory processing powered by aggressively applied weather."
+	]
+	quest.067F1A7B1A21F39B.quest_subtitle: "Process items with moving air"
+	quest.06F1C1A78C336F64.quest_desc: [
+		"The &lOmega Stack Upgrade&r removes the stack limit entirely, allowing each backpack slot to hold an infinite amount of a single item."
+		""
+		"The inside of this backpack has officially stopped negotiating with reality."
+	]
+	quest.06F1C1A78C336F64.quest_subtitle: "Inventory space has left reality"
+	quest.06F9726B6A224155.quest_desc: [
+		"The &lIron Storage Upgrade&r gives drawers a dependable mid-tier capacity boost without demanding rare materials."
+		""
+		"Reliable, affordable, and pleasantly unglamorous."
+	]
+	quest.06F9726B6A224155.quest_subtitle: "Dependable space at a fair price"
+	quest.06FB5B7309CDF15F.quest_desc: [
+		"These glowing crystals can be found scattered throughout underground caves and caverns."
+		""
+		"They're beautiful decorative blocks on their own, but they look especially stunning with shaders that support colored lighting."
+	]
+	quest.06FB5B7309CDF15F.quest_subtitle: "Wait, these aren't skittles"
+	quest.06FB5B7309CDF15F.title: "Taste the Rainbow"
+	quest.081B40224D6115D0.quest_desc: [
+		"A &lFactory Gauge&r monitors a chosen item across a connected stock network and can request production when supplies fall below its configured target. Attach it to suitable machines to make factories respond automatically to demand."
+		""
+		"The gauge noticed you were low and filed a production order before you did."
+	]
+	quest.081B40224D6115D0.quest_subtitle: "Produce items according to demand"
+	quest.086F58CAFA2860B9.quest_desc: [
+		"Your goal is to &lautomate&r the creation of this &lMasterful Burger&r."
+		""
+		"The ingredients &lmust be assembled in this exact order&r:"
+		""
+		"* &lBurger Bun Bottom&r"
+		"* &lSlice of Anniversary Cake&r &o(obtained by cutting an Anniversary Cake)&r"
+		"* &lRuby Chocolate Candy&r &o(Dark Chocolate variant)&r"
+		"* &lChardonnay&r"
+		"* &lNectar Glazed Berries&r"
+		"* &lDragon's Breath Soda&r"
+		"* &lChorus Pie Slice&r"
+		"* &lBowl of Guardian Soup&r"
+		"* &lGolden Egg&r"
+		"* &lBowl of Gleaming Salad&r"
+		"* &lPumpkin Pie&r"
+		"* &lBurger Bun Top&r"
+		""
+		"Take your time planning the production line, this one is meant to be a challenge."
+		""
+		"Good luck! 🍔"
+	]
+	quest.086F58CAFA2860B9.quest_subtitle: "The pinnacle of food"
+	quest.086F58CAFA2860B9.title: "Masterful Burger Automation"
+	quest.0938FEF3A6C7C4D5.quest_desc: [
+		"The &lOverstress Clutch&r waits for a configurable delay when its network is overstressed, then uncouples the two sides like a circuit breaker. After fixing the load, reset it with a Wrench or a redstone pulse."
+		""
+		"Your gearbox has learned to say no before the entire factory does."
+	]
+	quest.0938FEF3A6C7C4D5.quest_subtitle: "Trip the connection when stress becomes excessive"
+	quest.098A85714C8AD5FF.quest_desc: [
+		"The &lAdvanced Pump Upgrade&r adds extra filtering options for controlling which fluids the backpack pump may move."
+		""
+		"No mysterious soup in the water tank today."
+	]
+	quest.098A85714C8AD5FF.quest_subtitle: "Fluid handling with standards"
+	quest.09C00094105C281E.quest_desc: [
+		"Upgrade a Netherite Chestplate with an Echo Upgrade Smithing Template and an Echo Ingot to create the &lEcho Chestplate&r. Wear it with the Echo Helmet, Leggings, and Boots to maintain the full set bonus of Resistance II and Strength II."
+		""
+		"Your ribcage now has the structural confidence of an Ancient City."
+	]
+	quest.09C00094105C281E.quest_subtitle: "Put the strongest piece around your center"
+	quest.0A2B712333B1AC26.quest_desc: [
+		"The &lSticky Boots&r are made from Slime Blocks and Create Stickers. While wearing them, sneak and jump together to launch yourself much higher than an ordinary jump."
+		""
+		"Every staircase is optional when your shoes have opinions about gravity."
+	]
+	quest.0A2B712333B1AC26.quest_subtitle: "Charge a much taller jump"
+	quest.0A47F7EC6D5CA0C1.quest_desc: [
+		"An &lAndesite Funnel&r moves items between inventories and adjacent belts or Depots. Its direction depends on placement, it can accept a basic item filter, and redstone power temporarily disables it."
+		""
+		"The humble doorway through which countless items will commute."
+	]
+	quest.0A47F7EC6D5CA0C1.quest_subtitle: "Move filtered items on and off belts"
+	quest.0AA0B9E0AAB030AA.quest_desc: [
+		"The &lChorus Pie&r is baked from a Pie Crust, Chorus Fruit, Sugar, and Wheat. Place the finished pie as a feast and take servings from it, or cut it on a Cutting Board with a Knife to recover four slices at once."
+		""
+		"Every slice tastes like dessert and the vague possibility of teleportation."
+	]
+	quest.0AA0B9E0AAB030AA.quest_subtitle: "Bake Chorus Fruit into a shareable pie"
+	quest.0ADA1700485E2E7D.quest_desc: [
+		"The &lNetherite Exoskeleton&r upgrades the Brass Exoskeleton at a Smithing Table using a Fluid Tank and a Netherite Ingot. It preserves the powered physical enhancements of the exoskeleton while offering Netherite-level chest protection and durability."
+		""
+		"A mechanical backbone wearing armor over its armor."
+	]
+	quest.0ADA1700485E2E7D.quest_subtitle: "Give mechanical strength Netherite protection"
+	quest.0BACBB864CC030AF.quest_desc: [
+		"The &lOrnithopter Glider&r is crafted with Mechanical Crafters and can be equipped normally or in the Curios back slot. It lets you glide through the air; hold the configured boost key, &lSpace&r by default, to charge a wing flap that gives extra lift and speed, with a two-second cooldown between boosts."
+		""
+		"Da Vinci would be proud, confused, and probably asking for the crafting schematic."
+	]
+	quest.0BACBB864CC030AF.quest_subtitle: "Glide farther by flapping mechanical wings"
+	quest.0C13C1DF8477DAF4.quest_desc: [
+		"Activate the &lGrapplin Whisk&r to hook terrain, swing across gaps, and convert a fall into a powerful movement boost. Slime Boots help preserve momentum and soften the landing, while the Impact enchantment lets that momentum become attack damage."
+		""
+		"The laws of motion are now a travel suggestion."
+	]
+	quest.0C13C1DF8477DAF4.quest_subtitle: "Swing through the world on a mechanical whisk"
+	quest.0C6343432353DAE5.quest_desc: [
+		"A &lSlab of Elder Guardian&r is obtained by defeating an Elder Guardian. Process the slab on a Cutting Board with a Knife to receive nine Elder Guardian Slices plus Bone Meal, opening several high-value seafood recipes from one dangerous catch."
+		""
+		"The monument's security chief has been promoted to catering supplies."
+	]
+	quest.0C6343432353DAE5.quest_subtitle: "Turn an ocean monument boss into nine portions"
+	quest.0CAC2E4CCBF336B4.quest_desc: [
+		"Locate an Ocean Monument and defeat an &lElder Guardian&r. Milk clears its Mining Fatigue effect, while Water Breathing, Respiration, and underwater mobility make the monument much safer to navigate."
+		""
+		"The ocean has appointed a very large fish to enforce building regulations."
+	]
+	quest.0CAC2E4CCBF336B4.quest_subtitle: "Defeat an Elder Guardian in its monument"
+	quest.0CAC2E4CCBF336B4.title: "Monumental Victory"
+	quest.0D098725D3551605.quest_desc: [
+		"With &lImmersive Paintings&r, you can upload your own images and display them in-game for everyone to see."
+		""
+		"While they're great for custom artwork, they can also be used to add extra detail to your builds, such as vents, signs, posters, graffiti, and other decorative touches."
+	]
+	quest.0D098725D3551605.quest_subtitle: "Paint whatever you want"
+	quest.0D098725D3551605.title: "Immersive Paintings"
+	quest.0D25116EE190F65A.quest_desc: [
+		"The &lSmelting Upgrade&r adds a furnace directly to your backpack."
+		""
+		"Smelt resources wherever you are, provided you bring fuel."
+	]
+	quest.0D25116EE190F65A.quest_subtitle: "A furnace on your back"
+	quest.0D769A15E4DCE415.quest_desc: [
+		"The &lRotation Speed Controller&r sets an exact output RPM independently from the input speed, within the power available to the network. Place a Large Cogwheel on top and scroll the target value to tune machinery precisely."
+		""
+		"One machine can sprint while the rest of the factory enjoys a sensible pace."
+	]
+	quest.0D769A15E4DCE415.quest_subtitle: "Choose an exact output speed"
+	quest.0E5463801A4E8FC8.quest_desc: [
+		"A &lClutch&r transmits rotation while unpowered and completely disconnects its output when given a redstone signal. Unlike a Gearshift, it stops the downstream network instead of reversing it."
+		""
+		"The closest your machinery gets to an off switch."
+	]
+	quest.0E5463801A4E8FC8.quest_subtitle: "Stop rotation with redstone"
+	quest.0EA89DECBC2FCAEF.quest_desc: [
+		"Hold the &lMending Rune&r in your main hand to repair damaged Mending equipment in your offhand and armor slots by consuming experience from your XP bar. Crafting one requires ten Sequenced Assembly loops, repeatedly deploying Rose Quartz Sheets and Experience Nuggets onto an Experience Sheet."
+		""
+		"Your experience has become a maintenance budget with magical accounting."
+	]
+	quest.0EA89DECBC2FCAEF.quest_subtitle: "Spend experience to mend everything at once"
+	quest.0EBB775AAF4280BB.quest_desc: [
+		"The &lElevator Pulley&r turns an attached contraption into a controllable elevator that travels between Redstone Contact floors. Use contacts to define stops, then call and select floors with the appropriate controls."
+		""
+		"A Rope Pulley went to engineering school and learned which floor you wanted."
+	]
+	quest.0EBB775AAF4280BB.quest_subtitle: "Give your builds proper elevators"
+	quest.0F52288E7313A6FD.quest_desc: [
+		"The &lMedium Filling Tank&r expands the water capacity of the small version. Keep it in your inventory to refill Copper and Brass equipment automatically, then right-click Water to replenish the tank itself."
+		""
+		"Hydration is important, especially when your shirt is a steam engine."
+	]
+	quest.0F52288E7313A6FD.quest_subtitle: "Carry more water for hydraulic equipment"
+	quest.101F18F6CAEE189E.quest_desc: [
+		"This modpack includes a Vanilla Backport, bringing features from newer Minecraft versions into your world. That means you can enjoy content like Happy Ghasts, Sulfur Cubes, and many other future additions without leaving your current version."
+		""
+		"Keep an eye out, you may come across features you weren't expecting!"
+	]
+	quest.101F18F6CAEE189E.quest_subtitle: "Don't worry you wont be missing out"
+	quest.1054BA162419D4A1.quest_desc: [
+		"The &lEmpty Andesite Chunk Loader&r is the unfinished shell for Power Loader's basic chunk loader. Complete it through the required charging recipe before it can keep machinery active."
+		""
+		"Even chunk loading begins as an empty box with ambitions."
+	]
+	quest.1054BA162419D4A1.quest_subtitle: "A shell for loaded ambitions"
+	quest.107A7B72C5A73F92.quest_desc: [
+		"&lPhantom Train Track&r works with all bogey types and becomes invisible in the world unless you are holding Phantom Track. It is great for hidden routes, floating-looking builds, and rail lines where the scenery matters more than seeing every sleeper."
+		""
+		"The train is absolutely on rails. The rails are simply being dramatic about it."
+	]
+	quest.107A7B72C5A73F92.quest_subtitle: "Invisible rails for clean builds"
+	quest.107A7B72C5A73F92.title: "Phantom Track"
+	quest.110B799E26128E97.quest_desc: [
+		"One of the simplest yet most useful items you can craft is a &lSleeping Bag&r. It lets you sleep through the night anywhere without changing your spawn point."
+		""
+		"That means you can keep exploring while still respawning back at your main base instead of wherever you last slept."
+	]
+	quest.110B799E26128E97.quest_subtitle: "No bed? No problem"
+	quest.110B799E26128E97.title: "Sleeping bag"
+	quest.112232D698743AFA.quest_desc: [
+		"The &lCompact Wind Engine&r continuously generates kinetic stress anywhere without sails or open sky. Creating one takes 128 Sequenced Assembly loops, repeatedly applying Wool and Wind Charges to a Sturdy Heavy Core."
+		""
+		"Someone folded an entire windmill into a cube and left the breeze inside."
+	]
+	quest.112232D698743AFA.quest_subtitle: "Permanent wind power in your pocket"
+	quest.115F3D09BE070A39.quest_desc: [
+		"The &lCart Assembler&r attaches an entire glued contraption to a minecart, allowing it to travel along rails."
+		""
+		"One of its most popular uses is building an &lautomated mining bore&r, though you'll likely need to progress a bit further before you can take full advantage of its potential."
+	]
+	quest.115F3D09BE070A39.quest_subtitle: "Contraptions on carts"
+	quest.116457B933E67A3A.quest_desc: [
+		"An &lEmpty Blaze Burner&r is a cage waiting for a heat source. Take it to the Nether and right-click a Blaze to capture it, turning the cage into a functional Blaze Burner."
+		""
+		"The difficult part is convincing the Blaze that this is a career opportunity."
+	]
+	quest.116457B933E67A3A.quest_subtitle: "Bring home a living furnace"
+	quest.11EE8383D46478D5.quest_desc: [
+		"Create an &lEcho Cake Base&r by heated compacting Sculk Flour with an Egg and Sugar, then fill it with 25 mB of Molten Echo using a Spout. The finished Echo Cake is a superior Blaze Cake that fuels a Blaze Burner for 19,200 ticks, or sixteen minutes."
+		""
+		"Industrial baking has reached the stage where the cake stares back."
+	]
+	quest.11EE8383D46478D5.quest_subtitle: "Feed a Blaze Burner for sixteen minutes"
+	quest.123C4D8BDB872846.quest_desc: [
+		"&lPulp&r is the wet starting material for Create's packaging chain, made by processing paper-like ingredients with water in a Basin. Further processing turns it into Cardboard."
+		""
+		"Every parcel begins life as an unremarkable bowl of mush."
+	]
+	quest.123C4D8BDB872846.quest_subtitle: "The soggy start of packaging"
+	quest.12491A94D6C8E3CA.quest_desc: [
+		"Combine Red or White Grape Pomace with Sugar to produce &lGrape Juice&r. It skips Wine Cellar maturation and safely grants Speed for three minutes rather than gambling on the effects of wine."
+		""
+		"The designated driver has chosen grapes and a movement-speed bonus."
+	]
+	quest.12491A94D6C8E3CA.quest_subtitle: "Sweeten either pomace into a faster drink"
+	quest.127154F6BC813F33.quest_desc: [
+		"The &lAndesite Chunk Loader&r keeps its current chunk active while receiving sufficient rotational speed and stress capacity. It works on the ground and can also travel with supported contraptions or trains."
+		""
+		"Your factory can keep working even when nobody is watching, which feels suspiciously responsible."
+	]
+	quest.127154F6BC813F33.quest_subtitle: "Keep one chunk turning"
+	quest.12CC393082E9AD3D.quest_desc: [
+		"A &lHoney Roll&r is made by placing Bread beneath a Spout and filling it with &l250 mB&r of Honey or by using the jar you just made. It is a simple introduction to turning ordinary foods into finished snacks with Create's fluid processing."
+		""
+		"Bread plus industrial honey delivery equals a perfectly sensible breakfast."
+	]
+	quest.12CC393082E9AD3D.quest_subtitle: "Give bread a quarter bucket of honey"
+	quest.12F21D86E98B0A93.quest_desc: [
+		"&lBuilder's Tea&r is mixed from leaves, milk, and water, then bottled with a Spout. Drinking it restores a little hunger and saturation and grants &lHaste&r for three minutes, making it a pleasant companion for long building sessions."
+		""
+		"The official beverage of placing one more block before bedtime."
+	]
+	quest.12F21D86E98B0A93.quest_subtitle: "A motivating cup of Haste"
+	quest.1319364DC7A053B5.quest_desc: [
+		"Search End Ships for an &lElytra&r. Equip it in the chest slot and jump while falling to glide; Firework Rockets provide powered flight and turn long journeys into short ones."
+		""
+		"Gravity remains in effect, but it is now open to negotiation."
+	]
+	quest.1319364DC7A053B5.quest_subtitle: "Claim wings from an End Ship"
+	quest.1319364DC7A053B5.title: "Sky is the Limit"
+	quest.132CCD3704E3D252.quest_desc: [
+		"The &lAdvanced Mob Catcher Upgrade&r works like the basic version but can capture hostile mobs as well. Shift-right-click a mob to place it directly into your backpack."
+		""
+		"Even monsters can join the world's strangest backpack party."
+	]
+	quest.132CCD3704E3D252.quest_subtitle: "Monsters are invited too"
+	quest.13724763DDC6BE9C.quest_desc: [
+		"A &lSchedule&r gives an assembled train a list of destinations and waiting conditions. Configure station names, delays, cargo thresholds, redstone states, or other rules, then hand it to a seated conductor to automate the route."
+		""
+		"The conductor is ready to follow instructions with suspicious literalness."
+	]
+	quest.13724763DDC6BE9C.quest_subtitle: "Write an automatic train route"
+	quest.13888C42BE352002.quest_desc: [
+		"Craft a Magma Cake Block from Magma Cream, Hot Cream, Pepper Powder, and Straw, then cut it with a Knife to obtain seven &lMagma Cake Slices&r. The slices are a spicy Nether snack and can be recombined when the whole cake is needed again."
+		""
+		"Dessert has achieved a temperature normally associated with workplace evacuation."
+	]
+	quest.13888C42BE352002.quest_subtitle: "Bake a cake designed for Nether appetites"
+	quest.13C49676859254C6.quest_desc: [
+		"The &lSmoking Upgrade&r adds a smoker to your backpack for cooking food on the move."
+		""
+		"Adventure tastes better when it is properly cooked."
+	]
+	quest.13C49676859254C6.quest_subtitle: "Portable snacks, properly cooked"
+	quest.143BF7A98EF39A13.quest_desc: [
+		"Arrange four Soul Sand or Soul Soil in a T shape and place three Wither Skeleton Skulls across the top to summon the &lWither&r. Fight it far from anything you value and survive both its explosions and Wither effect."
+		""
+		"You assembled the boss yourself, so unfortunately this one is entirely your fault."
+	]
+	quest.143BF7A98EF39A13.quest_subtitle: "Summon and defeat the Wither"
+	quest.143BF7A98EF39A13.title: "The Beginning?"
+	quest.14FFE1397D0A0053.quest_desc: [
+		"The &lRemote Upgrade&r allows remote access to its drawer from farther away."
+		""
+		"Your bulk storage no longer needs to be within arm's reach."
+	]
+	quest.14FFE1397D0A0053.quest_subtitle: "Storage from over there"
+	quest.15011D4899FC729C.quest_desc: [
+		"The &lIndustrial Fan&r is a larger fan that can interact with the addon's extended bulk-processing recipes. When supplied with a valid heat source behind it, including sufficient Blaze Burner heat, it can also act as a passive source of rotational force instead of consuming it."
+		""
+		"The fan looked at the furnace and decided the hot air should be doing useful work."
+	]
+	quest.15011D4899FC729C.quest_subtitle: "Turn nearby heat into rotational airflow"
+	quest.150334DD40608255.quest_desc: [
+		"The &lFilter Upgrade&r controls which items another upgrades are allowed to handle. "
+		""
+		"Use it when your automation needs a little discipline."
+	]
+	quest.150334DD40608255.quest_subtitle: "Only the chosen may pass"
+	quest.15822859B177457F.quest_desc: [
+		"The &lCompact Hydraulic Engine&r is a self-running kinetic source that can generate stress anywhere without a river or external power input. Its tiny size hides an enormous recipe: 128 Sequenced Assembly loops, each applying Prismarine Fan Blades and 10 mB of water to a Sturdy Conduit."
+		""
+		"It is a water wheel compressed until physics filed a complaint."
+	]
+	quest.15822859B177457F.quest_subtitle: "A perpetual river inside one block"
+	quest.15BCEC13A0209CA5.quest_desc: [
+		"A &lPackage Frogport&r launches addressed packages toward another Frogport and catches packages sent back to it. Set matching destinations and provide nearby package transport to build a wonderfully strange airborne logistics route."
+		""
+		"The parcel service is run by frogs now. Honestly, morale has improved."
+	]
+	quest.15BCEC13A0209CA5.quest_subtitle: "Air mail, delivered by frog"
+	quest.15F0809349AAADB3.quest_desc: [
+		"The &lMedium Fueling Tank&r upgrades the small version with additional fuel capacity. Keep it in your inventory to recharge fuel-powered gadgets automatically, and right-click Lava whenever the reserve needs replenishing."
+		""
+		"Longer flights, longer mining trips, fewer awkward walks home."
+	]
+	quest.15F0809349AAADB3.quest_subtitle: "More fuel between pit stops"
+	quest.160622246ACD6608.quest_desc: [
+		"The &lGolden Mixer&r is an upgraded basin mixer built from a Precision Mechanism, Brass Casing, and Gold Whisk. It handles normal mixing, compatible shapeless crafting, and potion mixing while processing recipes more quickly than the standard Mechanical Mixer."
+		""
+		"The whisk is golden because ordinary kitchenware could not keep up with the factory."
+	]
+	quest.160622246ACD6608.quest_subtitle: "Mix basin recipes at golden speed"
+	quest.1654A30C935D5262.quest_desc: [
+		"The &lEverlasting Upgrade&r protects your backpack from fire, lava, explosions, and the void."
+		""
+		"Expensive, but losing a full backpack is much more expensive."
+	]
+	quest.1654A30C935D5262.quest_subtitle: "Too valuable to lose"
+	quest.167B9FBD422B4247.quest_desc: [
+		"The &lUpgrade Template&r is the starting point for Storage Drawer upgrades."
+		""
+		"Craft a few now; organized hoarding has plenty of room to grow."
+	]
+	quest.167B9FBD422B4247.quest_subtitle: "The shape of upgrades to come"
+	quest.168225890D614213.quest_desc: [
+		"&lChain Conveyors&r connect to one another with chains, carrying packages and items between stations while also transmitting rotational power. Their routing makes them especially useful for compact overhead logistics."
+		""
+		"A conveyor belt looked at a clothesline and had an idea."
+	]
+	quest.168225890D614213.quest_subtitle: "Hang your logistics from a chain"
+	quest.16E633828AA6F1B6.quest_desc: [
+		"Plant a Red Mushroom on &lRich Soil&r in sufficiently low light and it will develop into a Red Mushroom Colony. Mature colonies hold several mushrooms; harvest individual caps while leaving some behind, or use Shears when the colony block itself is needed."
+		""
+		"The mushroom has stopped being an ingredient and founded a settlement."
+	]
+	quest.16E633828AA6F1B6.quest_subtitle: "Grow one mushroom into a renewable colony"
+	quest.1743F9C9D17028F1.quest_desc: [
+		"Collect a &lWither Skeleton Skull&r from a Wither Skeleton in a Nether Fortress. The drop chance is low, and summoning the Wither eventually requires three, so Looting can save considerable time."
+		""
+		"Three rare skulls: because summoning disaster should require paperwork."
+	]
+	quest.1743F9C9D17028F1.quest_subtitle: "Secure the first of three rare skulls"
+	quest.1743F9C9D17028F1.title: "Withering Preparations"
+	quest.175E652EEC55E8F2.quest_desc: [
+		"The &lStack Upgrade Tier II&r pushes each slot further, making common building blocks much easier to carry in bulk."
+		""
+		"Now the mountain of cobblestone fits in fewer pockets."
+	]
+	quest.175E652EEC55E8F2.quest_subtitle: "Bulkier blocks, fewer slots"
+	quest.17C36BED53046480.quest_desc: [
+		"Mature White Grape Pomace for a chance to receive &lChardonnay&r, a white wine with apple, pear, citrus, and a buttery character. It usually grants Resistance with Slowness for 20 seconds, but can instead cause Nausea for 10 seconds."
+		""
+		"Buttery wine sounds luxurious right up until the movement penalty begins."
+	]
+	quest.17C36BED53046480.quest_subtitle: "Bottle a buttery orchard-scented white"
+	quest.18252BD7CFEF5043.quest_desc: [
+		"The &lBrass Chunk Loader&r keeps a configurable square area loaded, from a single chunk up to a &l5x5&r region. Larger ranges demand much greater rotational speed and stress, and the loader can operate on the ground, trains, or supported contraptions."
+		""
+		"Keeping twenty-five chunks awake is not cheap, but neither is an interrupted megafactory."
+	]
+	quest.18252BD7CFEF5043.quest_subtitle: "Keep an entire factory district loaded"
+	quest.18A707A1AC26C3DB.quest_desc: [
+		"The &lCentrifugal Clutch&r transmits rotation only when its input RPM satisfies a configurable threshold. It can be set around a minimum or maximum speed, automatically engaging machinery only in the desired operating range."
+		""
+		"The machine now checks the speed limit before joining traffic."
+	]
+	quest.18A707A1AC26C3DB.quest_subtitle: "Couple rotation only inside a speed range"
+	quest.191018BD78035D67.quest_desc: [
+		"A &lSugar Cube&r is made by compacting four pieces of Sugar in a Basin with a Mechanical Press. It can be crafted back into sugar, but its important job here is sweetening Garnished's tea recipes."
+		""
+		"Four sugars entered the press and emerged ready for polite company."
+	]
+	quest.191018BD78035D67.quest_subtitle: "Compact sweetness into a cube"
+	quest.19494AC152AE6C03.quest_desc: [
+		"The &lBrass Exoskeleton&r consumes water and fuel to maintain Haste and Strength, improving both mining and melee combat without the severe trade-offs of the specialized tiers. Filling and Fueling Tanks in your inventory automatically keep its steam supply topped up."
+		""
+		"Why choose brains or brawn when brass can provide both?"
+	]
+	quest.19494AC152AE6C03.quest_subtitle: "Steam-powered strength and speed"
+	quest.19913668DF8E3916.quest_desc: [
+		"&lBok Choy&r is an exploration crop from Garnished. The vegetable can appear in Jungle Temple chests, while Bok Choy Leaves used for planting can be found in Savanna village houses; milling or crushing harvested Bok Choy also produces more planting leaves."
+		""
+		"Raid ancient ruins, discover advanced leafy-green technology."
+	]
+	quest.19913668DF8E3916.quest_subtitle: "A well-travelled vegetable"
+	quest.1A2D2BF29DD9578F.quest_desc: [
+		"Upgrade Netherite Boots with an Echo Upgrade Smithing Template and an Echo Ingot to create &lEcho Boots&r. Complete the set with the matching Helmet, Chestplate, and Leggings to gain constant Resistance II and Strength II."
+		""
+		"Sensible footwear for walking directly toward the roaring noise."
+	]
+	quest.1A2D2BF29DD9578F.quest_subtitle: "Step quietly into endgame protection"
+	quest.1AA397564AE2FD95.quest_desc: [
+		"The &lAndesite Exoskeleton&r consumes fuel to provide Haste II, but also applies Weakness while operating. It is the mining-focused exoskeleton: excellent for chewing through terrain, less impressive when the terrain begins fighting back."
+		""
+		"A strong back for mining and a compelling reason to avoid arguments."
+	]
+	quest.1AA397564AE2FD95.quest_subtitle: "Mine rapidly with a mechanical backbone"
+	quest.1AD169F97E2A8ABB.quest_desc: [
+		"A &lBrass Funnel&r is an upgraded funnel with precise stack-size control and advanced filtering. Configure how many items it transfers each cycle, making it invaluable for recipes and machines that require exact quantities."
+		""
+		"Because sometimes the machine needs exactly sixteen carrots and will not negotiate."
+	]
+	quest.1AD169F97E2A8ABB.quest_subtitle: "Transfer exact filtered amounts"
+	quest.1B5F2DACBE4693E5.quest_desc: [
+		"&lFTB Ultimine&r lets you break groups of connected blocks at once. Hold its activation key while mining, use the selection menu to choose a shape, and watch the highlighted preview before committing; every affected block still consumes tool durability and hunger."
+		""
+		"One block at a time was beginning to feel unnecessarily traditional."
+	]
+	quest.1B5F2DACBE4693E5.quest_subtitle: "Mine it all at once"
+	quest.1B61A7D83D745AE9.quest_desc: [
+		"&lThe Feral Lantern&r automatically places invisible light sources throughout the surrounding area, lighting everything up without leaving visible light blocks behind."
+		""
+		"These invisible lights won't get in your way, you can place blocks over them as normal. If you ever want to remove them, simply use a &lFrozen Pearl&r to clear the nearby invisible lights."
+	]
+	quest.1B61A7D83D745AE9.quest_subtitle: "The batter way to spam torches"
+	quest.1BF027FFCFD2DE58.quest_desc: [
+		"The &lAdvanced Tool Swapper Upgrade&r can also recognize and swap to wrench-type tools when a block calls for one."
+		""
+		"Your backpack finally understands that sometimes the answer is wrench."
+	]
+	quest.1BF027FFCFD2DE58.quest_subtitle: "When in doubt, use a wrench"
+	quest.1CD05707BEA75956.quest_desc: [
+		"The &lPrecision Mechanism&r is made through Sequenced Assembly, repeatedly processing a Gold Sheet with Deployers and a Press. It is the key component behind Create's most advanced tools, logistics, and control blocks."
+		""
+		"The recipe may fail occasionally; precision apparently includes a small scrap pile."
+	]
+	quest.1CD05707BEA75956.quest_subtitle: "The heart of precision engineering"
+	quest.1DA64F3B97ABEDB7.quest_desc: [
+		"The &lBrass Gearbox&r routes rotation across four sides, but each output direction can be configured independently with a Wrench. It replaces complicated arrangements of gears when a machine needs several deliberately chosen rotation directions from one hub."
+		""
+		"A gearbox for engineers who consider the usual answer insufficiently specific."
+	]
+	quest.1DA64F3B97ABEDB7.quest_subtitle: "Configure every gearbox side independently"
+	quest.1DC4D554B202CCF1.quest_desc: [
+		"Storage Drawers are a great way to store large quantities of a few different items while keeping everything organized."
+		""
+		"This quest only requires you to craft the basic &l1x1 Drawer&r, but there are plenty of other options available. Check JEI to discover variants like &l1x2&r, &l2x2&r, and many other specialized drawers to suit your storage needs."
+	]
+	quest.1DC4D554B202CCF1.quest_subtitle: "Store a bunch of one item"
+	quest.1E0F6F1BA4BCD327.quest_desc: [
+		"A &lMechanical Pump&r drives fluid through connected pipes in the direction shown by its arrow. Its flow direction is configured with a wrench, while rotational speed controls how quickly liquid moves."
+		""
+		"Every pipe network eventually needs something willing to do the pushing."
+	]
+	quest.1E0F6F1BA4BCD327.quest_subtitle: "Put direction behind your pipes"
+	quest.1E143446C8D2CBF6.quest_desc: [
+		"&lCompacting Drawers&r keep convertible forms such as nuggets, ingots, and blocks together."
+		""
+		"Store one form and access all three without crafting them by hand."
+	]
+	quest.1E143446C8D2CBF6.quest_subtitle: "Nuggets, ingots, and blocks together"
+	quest.1E3C137384DFAFDD.quest_desc: [
+		"The &lFreewheel Clutch&r couples its shafts only when the input turns in its configured direction. Reverse rotation disengages it, providing the kinetic equivalent of a one-way valve."
+		""
+		"Rotation may proceed, but only after agreeing to the directional terms."
+	]
+	quest.1E3C137384DFAFDD.quest_subtitle: "Transmit rotation in only one direction"
+	quest.1ED9DA10231ED89B.quest_desc: [
+		"There is a &lFull Bright&r toggle available that makes the world appear fully lit. You may need to change its keybind first, but once enabled, it can make caves and dark areas much easier to see."
+		""
+		"Keep in mind that this only changes what you see. Mobs can still spawn, the world will lose a lot of its natural atmosphere, and the effect may not work properly with shaders."
+	]
+	quest.1ED9DA10231ED89B.quest_subtitle: "See through all the darkness"
+	quest.1EF3ABCE6636390E.quest_desc: [
+		"The &lAnvil Upgrade&r gives your backpack a portable anvil interface."
+		""
+		"Repairs and renaming can now happen far from home."
+	]
+	quest.1EF3ABCE6636390E.quest_subtitle: "Repairs without the commute"
+	quest.1F83B9EF7C9E5908.quest_desc: [
+		"&lTrain Tracks&r form Create's railway network and automatically curve, slope, and connect during placement. Build a bogey on straight track, glue your carriage together, and use a Train Station to assemble it into a train."
+		""
+		"Lay enough track and the horizon becomes a logistics problem."
+	]
+	quest.1F83B9EF7C9E5908.quest_subtitle: "Give your trains somewhere to go"
+	quest.1FC47C00D816DE4A.quest_desc: [
+		"The &lVoid Upgrade&r destroys matching items once their allowed backpack storage is full."
+		""
+		"Set its filters carefully unless you enjoy learning lessons the expensive way."
+	]
+	quest.1FC47C00D816DE4A.quest_subtitle: "For items you really do not want"
+	quest.2036C2BE17B62026.quest_desc: [
+		"The &lCopper Jetpack&r uses pressurized water to provide flight, hovering, faster swimming, and improved movement without consuming solid fuel. A Filling Tank carried in your inventory automatically transfers water into the jetpack."
+		""
+		"Gravity has met its match: aggressively pressurized plumbing."
+	]
+	quest.2036C2BE17B62026.quest_subtitle: "Take flight on hydraulic pressure"
+	quest.20911774B413FC7D.quest_desc: [
+		"The &lInverted Clutch&r blocks rotational force while it has no redstone signal and couples its two sides when powered. This is the inverse of Create's normal Clutch, making signal-on transmission easier to build."
+		""
+		"No signal, no spin, no philosophical ambiguity."
+	]
+	quest.20911774B413FC7D.quest_subtitle: "Connect rotation only when powered"
+	quest.2094F051AE240F57.quest_desc: [
+		"This wonderfully unnecessary creation places an entire Hamburger between another Burger Bun Bottom and Top. The resulting custom burger keeps the food value of everything inside it, including the burger that was already complete before you started."
+		""
+		"It is not a double burger. It is a burger wearing another burger."
+	]
+	quest.2094F051AE240F57.quest_subtitle: "Put a burger inside your burger"
+	quest.20DD3D6BCAC067A7.quest_desc: [
+		"The &lAdvanced Filter Upgrade&r adds more filtering options than the basic version, giving you finer control over which items other upgrades can handle."
+		""
+		"Because apparently the first filter was not picky enough."
+	]
+	quest.20DD3D6BCAC067A7.quest_subtitle: "Even pickier than before"
+	quest.21709A7B7264AD19.quest_desc: [
+		"The &lSuspend Key&r pauses external item transfers for a drawer."
+		""
+		"Handy when you need to adjust a system without dismantling it."
+	]
+	quest.21709A7B7264AD19.quest_subtitle: "Pause the item traffic"
+	quest.21A2F4CE2CEE9B99.quest_desc: [
+		"The &lPriority Key&r changes which drawers a network fills first."
+		""
+		"Give important storage the attention it deserves."
+	]
+	quest.21A2F4CE2CEE9B99.quest_subtitle: "This drawer fills first"
+	quest.21AB5F63A0B9A35D.quest_desc: [
+		"A &lPortable Fuel Interface&r is the train-fueling cousin of Create's portable interfaces. Pair one on a train with a stationary one so fuel can be transferred during a stop or pass, keeping locomotives supplied without manually digging through onboard storage."
+		""
+		"Because even trains deserve a pit stop that does not involve rummaging through the glove box."
+	]
+	quest.21AB5F63A0B9A35D.quest_subtitle: "Refuel moving trains cleanly"
+	quest.21AB5F63A0B9A35D.title: "Portable Fuel Interface"
+	quest.226357ABBD223D01.quest_desc: [
+		"The &lMagnet Upgrade II&r pulls nearby dropped items toward its drawer with greater reach than the previous tier."
+		""
+		"Let the storage do the cleanup for you."
+	]
+	quest.226357ABBD223D01.quest_subtitle: "A stronger pull on loose items"
+	quest.22B67AB1D1A1C735.quest_desc: [
+		"The &lAdvanced Restock Upgrade&r adds extra filtering options for controlling which inventory stacks are kept supplied."
+		""
+		"Your hotbar now has a tiny logistics department."
+	]
+	quest.22B67AB1D1A1C735.quest_subtitle: "Restocking with rules"
+	quest.22B6C4B05D2DE9C5.quest_desc: [
+		"&lPinot Noir&r is a light-bodied Wine Cellar result made from Red Grape Pomace, with cherry, raspberry, and earthy flavors. Like the other wines, it usually combines brief Resistance with Slowness and occasionally produces Nausea instead."
+		""
+		"Light-bodied does not mean the bottle has agreed to improve your balance."
+	]
+	quest.22B6C4B05D2DE9C5.quest_subtitle: "Seek a lighter red from the cellar"
+	quest.2328743DE2918221.quest_desc: [
+		"Descend into the Deep Dark and defeat a &lWarden&r. It is designed to be avoided rather than farmed, ignores armor with its sonic boom, and offers little treasure for the enormous danger involved."
+		""
+		"There is no practical reason to do this. The quest book merely acknowledges that you did."
+	]
+	quest.2328743DE2918221.quest_subtitle: "Defeat the thing you were meant to avoid"
+	quest.2328743DE2918221.title: "A Terrible Idea"
+	quest.23695F18B0F155C1.quest_desc: [
+		"A &lCopper Valve Handle&r can be attached to fluid pipes as a manual shutoff valve or used to provide hand-powered rotation like a crank. It can also be dyed to help label different systems."
+		""
+		"Color-coded plumbing is how civilization avoids the chocolate-water incident."
+	]
+	quest.23695F18B0F155C1.quest_subtitle: "A colorful handle for fluids"
+	quest.24724CF4AF3CDA9C.quest_desc: [
+		"The &lSlicer&r automates Farmer's Delight cutting-board recipes. Install an allowed tool such as a knife or axe, place the ingredients on a Depot or belt below, and provide rotational power to begin chopping."
+		""
+		"The chef has been replaced by a very determined spinning blade."
+	]
+	quest.24724CF4AF3CDA9C.quest_subtitle: "Automate the chopping board"
+	quest.2517EE9F1CAB1D85.quest_desc: [
+		"The &lNetherite Backpack&r is the final storage tier, with enormous capacity and seven upgrade slots."
+		""
+		"It also survives lava, which is reassuring when the Nether gets ideas."
+	]
+	quest.2517EE9F1CAB1D85.quest_subtitle: "Now with the ability to float in lava"
+	quest.252EAB2FF1143D0F.quest_desc: [
+		"The &lHandcar&r is a small rideable rail vehicle crafted from Andesite parts, Contraption Controls, wood, and a Cogwheel. It is handy for moving yourself around a rail network before a full train setup is worth the trouble, and a Wrench can pick it back up."
+		""
+		"Industrial transit, now powered by elbow grease and optimism."
+	]
+	quest.252EAB2FF1143D0F.quest_subtitle: "Manual travel for small railside trips"
+	quest.252EAB2FF1143D0F.title: "Handcar"
+	quest.2552B7D7BF33D3BC.quest_desc: [
+		"A captured &lBlaze Burner&r supplies heat to a Basin placed above it. Feed it combustible fuel for heated recipes, or use Blaze Cakes later to reach the superheated state required by advanced processing."
+		""
+		"The Blaze is contained, employed, and still visibly unhappy about both."
+	]
+	quest.2552B7D7BF33D3BC.quest_subtitle: "Heat your advanced recipes"
+	quest.25C8E86F910DD59D.quest_desc: [
+		"&lStraw&r is gathered by harvesting grass, Wheat, or Rice with a Knife, and can also appear as a Cutting Board byproduct. It is the basic plant fiber for Canvas, Organic Compost, Straw Bales, Rope, and several rustic decorations."
+		""
+		"Civilization advances one suspiciously useful bundle of dry grass at a time."
+	]
+	quest.25C8E86F910DD59D.quest_subtitle: "Collect the fiber behind half the kitchen"
+	quest.2614A9F07466D6BF.quest_desc: [
+		"Place the &lCooking Pot&r over a Stove, Campfire, or another valid heat source, then load up to six recipe ingredients. Finished meals are stored inside until supplied with their required serving container, making the pot useful for both manual and automated kitchens."
+		""
+		"A proper meal begins when throwing everything into one pot becomes a documented recipe."
+	]
+	quest.2614A9F07466D6BF.quest_subtitle: "Combine six ingredients into hearty meals"
+	quest.265D2C73D9EBE317.quest_desc: [
+		"The &lWand of Symmetry&r mirrors blocks you place around a selected plane or axis. Right-click to choose its center and symmetry mode, then build one section while the wand repeats it around you."
+		""
+		"Why build both sides when geometry is willing to help?"
+	]
+	quest.265D2C73D9EBE317.quest_subtitle: "Build once and mirror the rest"
+	quest.26C176D5AF0864EC.quest_desc: [
+		"The &lExperience Lantern&r absorbs experience from nearby players and loose experience orbs, storing it internally and glowing more brightly as it fills. It continues working while mounted on a moving contraption, making it useful for mobile farms."
+		""
+		"A lantern powered by everything you learned and everything the mobs dropped."
+	]
+	quest.26C176D5AF0864EC.quest_subtitle: "Catch experience and make it glow"
+	quest.26F22113A4EA2A26.quest_desc: [
+		"Attach an &lExperience Hatch&r to a Fluid Tank to exchange your own levels directly with its stored Liquid Experience. Right-click to deposit experience, shift-right-click to withdraw it, and use the panel to choose an exact amount or all available experience."
+		""
+		"Your levels now have a deposit window and surprisingly reasonable opening hours."
+	]
+	quest.26F22113A4EA2A26.quest_subtitle: "Put your levels into a tank"
+	quest.278E7E9C62EDE802.quest_desc: [
+		"Upgrade a Netherite Helmet with an Echo Upgrade Smithing Template and an Echo Ingot to create the &lEcho Helmet&r. It contributes to the complete Echo Armor set, which provides continuous Resistance II and Strength II only while all four pieces are equipped."
+		""
+		"The darkness may still be terrifying, but at least it now matches the outfit."
+	]
+	quest.278E7E9C62EDE802.quest_subtitle: "Keep a clear head in total darkness"
+	quest.27982E416B62140F.quest_desc: [
+		"&lThe Nature's Compass&r is the perfect tool for finding specific biomes. Select any biome from the list, and if one is within range, the compass will point you straight to it while displaying its exact coordinates."
+		""
+		"Whether you're searching for rare resources or the perfect place to build, this tool will save you a lot of time exploring."
+	]
+	quest.27982E416B62140F.quest_subtitle: "You looking for a biome?"
+	quest.27B7526A144CC25F.quest_desc: [
+		"If you want to sell items to other players, the easiest way to do it is with a &lTable Cloth&r."
+		""
+		"Besides being a decorative block, it can be attached to your &lStock Ticker&r to create a shop with set prices. Other players can then request items through your &lShop Clerk&r. If they have the required payment items in their inventory, clicking the clerk will trade those items for the requested items from your storage system."
+	]
+	quest.27B7526A144CC25F.quest_subtitle: "Time to get some cash"
+	quest.27E9A521807889AA.quest_desc: [
+		"A &lBar of Caramel&r is made by compacting &l250 mB&r of liquid Caramel in a Basin. It can be eaten for a brief Speed effect or used as the center of several more elaborate Confectionery recipes."
+		""
+		"The first step toward a chocolate factory is making sugar behave like a building material."
+	]
+	quest.27E9A521807889AA.quest_subtitle: "Compact a quarter bucket of caramel"
+	quest.283ED555670D7A9B.quest_desc: [
+		"The &lStack Upgrade Tier I&r is the first step beyond normal stack limits, fitting noticeably more items into every backpack slot."
+		""
+		"A modest upgrade for an immodest amount of loot."
+	]
+	quest.283ED555670D7A9B.quest_subtitle: "Stacks begin to stretch"
+	quest.2852CD25AEC01432.quest_desc: [
+		"A &lMechanical Piston&r moves an entire glued contraption in a straight line along Piston Extension Poles. Rotation controls its movement and direction, allowing much longer strokes than a normal piston."
+		""
+		"Vanilla pistons suddenly seem a little underqualified."
+	]
+	quest.2852CD25AEC01432.quest_subtitle: "A piston with serious reach"
+	quest.28897B714CC5DE88.quest_desc: [
+		"The &lRandomizer&r is a simple redstone component that chooses a random output. Power the center torch with a redstone signal, and the signal will be sent through one of the side torches at random."
+		""
+		"Only the sides with torches can produce an outputÃ¢â‚¬â€the side without a torch is ignored."
+	]
+	quest.28897B714CC5DE88.quest_subtitle: "Finally, a simple way to make a slot machine"
+	quest.28DBF682E5A06BAF.quest_desc: [
+		"A &lStock Link&r connects an attached inventory to Create's logistics network, advertising its available items to nearby requesters and packaging systems. Configure matching network frequencies so the correct warehouses cooperate."
+		""
+		"Your storage has joined the company directory."
+	]
+	quest.28DBF682E5A06BAF.quest_subtitle: "Connect storage to logistics"
+	quest.297FF8C883225E54.quest_desc: [
+		"The &lTree Cutter&r fells an entire connected tree in one swing and makes the broken logs fall vertically instead of scattering through the canopy. Sneak while breaking a block when you only want to cut that single block normally."
+		""
+		"Forestry has been reduced to one swing and a very nervous tree."
+	]
+	quest.297FF8C883225E54.quest_subtitle: "One swing, one considerably shorter forest"
+	quest.29A68218CC01BB5F.quest_desc: ["You can obtain these eggs by feeding a &lBeetroot&r to a &lParrot&r. Each feeding has a chance to produce one of the different egg variants."]
+	quest.29A68218CC01BB5F.quest_subtitle: "All the colored babies"
+	quest.29A68218CC01BB5F.title: "Bird Rainbow"
+	quest.2ABDFD3A7E36884B.quest_desc: [
+		"The &lPickarang&r is a throwable boomerang pickaxe that breaks the block it strikes, collects the drops, and returns them to you. It also supports useful mining enchantments such as Efficiency, Fortune, Silk Touch, Unbreaking, and Piercing."
+		""
+		"Mining from over there is still mining."
+	]
+	quest.2ABDFD3A7E36884B.quest_subtitle: "A pickaxe with a return policy"
+	quest.2B5373C5F4FF5C4C.quest_desc: [
+		"The &lStonecutter Upgrade&r brings the stonecutter interface into your backpack."
+		""
+		"Perfect for builders who decide on the details halfway through the build."
+	]
+	quest.2B5373C5F4FF5C4C.quest_subtitle: "More blocks, fewer workstations"
+	quest.2B82A60B7A98766D.quest_desc: [
+		"The &lSandwiching Station&r lets you build custom sandwiches and burgers one ingredient at a time. Start with a Bread Slice or Burger Bun Bottom, right-click on extra foods or even potions, remove mistakes with an empty hand, then break the finished stack to collect it. Deployers and Spouts can automate the same process."
+		""
+		"At last, a machine where adding another layer is usually the correct answer."
+	]
+	quest.2B82A60B7A98766D.quest_subtitle: "Build the sandwich you actually want"
+	quest.2B98831E54081302.quest_desc: [
+		"Upgrade Netherite Leggings with an Echo Upgrade Smithing Template and an Echo Ingot to create &lEcho Leggings&r. Their special power activates as part of the complete Echo Armor set, which grants continuous Resistance II and Strength II while every piece is worn."
+		""
+		"Heavy-duty trousers for situations where the cave itself wants you dead."
+	]
+	quest.2B98831E54081302.quest_subtitle: "Endgame protection from the waist down"
+	quest.2B9C572AE3B67401.quest_desc: [
+		"&lJars&r are reusable fluid containers from Create: Factory, available in every dye color. They can hold and display food fluids such as jams, spreads, and nectar, work with Create fluid handling, and take part in Jar Dipping recipes shown in JEI."
+		""
+		"A factory full of jam deserves containers that match the wallpaper."
+	]
+	quest.2B9C572AE3B67401.quest_subtitle: "Colorful storage for edible fluids"
+	quest.2BA7B7508E57DB4D.quest_desc: [
+		"Use &lMetal Walkway Steps&r on two Shafts to construct a powered moving walkway between them; arranging the endpoints on the required offset creates an escalator instead. Rotation sets its direction and speed, while dyes, belt handrails, glass, and adjacent lanes let you customize and widen the finished route."
+		""
+		"Stairs are much less exhausting when the stairs agree to do the walking."
+	]
+	quest.2BA7B7508E57DB4D.quest_subtitle: "Build a staircase that carries you"
+	quest.2BA7B7508E57DB4D.title: "Escalators"
+	quest.2C130316BE9B439C.quest_desc: [
+		"The &lAndesite Jetpack&r burns fuel to power its propellers, granting flight, hovering, faster swimming, and improved movement. Carry a Fueling Tank to recharge it automatically; unlike Brass equipment, this tier does not need water."
+		""
+		"Coal-powered aviation: elegant, practical, and lightly sooty."
+	]
+	quest.2C130316BE9B439C.quest_subtitle: "Burn fuel and leave the ground behind"
+	quest.2C4E34AB3434CD81.quest_desc: [
+		"Welcome to the &lCreate&r mod! To get started, craft some &lAndesite Alloy&r. Don't be afraid to make plenty, you'll use a lot of it throughout your Create journey."
+		""
+		"This chapter will guide you through Create's progression, but don't forget about one of the mod's best features: &lPonder&r. If you ever want to learn how a component works, hover over it in JEI and hold &lW&r to open a short interactive tutorial showing it in action."
+	]
+	quest.2C4E34AB3434CD81.quest_subtitle: "The beginning of it all"
+	quest.2CEA07586E0DB551.quest_desc: [
+		"The &lMultimeter&r combines the functions of a Speedometer and Stressometer. Attach it to a kinetic network to inspect RPM, current stress use, total stress capacity, and whether the network is approaching or has reached overload."
+		""
+		"One gauge now reports both how fast the factory runs and how worried it should be."
+	]
+	quest.2CEA07586E0DB551.quest_subtitle: "Read speed and stress from one dial"
+	quest.2D580E45E04126A7.quest_desc: [
+		"The &lRefill Upgrade&r replaces items in your hand from matching supplies in the backpack."
+		""
+		"It is especially useful for long building sessions."
+	]
+	quest.2D580E45E04126A7.quest_subtitle: "Keep the hotbar flowing"
+	quest.2D751F868031A52A.quest_desc: [
+		"The &lHopper Upgrade&r moves items in or out of a drawer automatically."
+		""
+		"It is a compact way to connect drawers to simple farms and machines."
+	]
+	quest.2D751F868031A52A.quest_subtitle: "Simple storage automation"
+	quest.2DB3E37004E6C3A7.quest_desc: [
+		"A &lPackager&r attaches to an inventory and seals selected contents into addressed cardboard packages when activated. It can work manually or as part of Create's stock network, sending orders onward through belts, chains, trains, or Frogports."
+		""
+		"Your chest has hired a shipping department."
+	]
+	quest.2DB3E37004E6C3A7.quest_subtitle: "Put inventory contents in the mail"
+	quest.2E5B82C25C812DD3.quest_desc: [
+		"Create the &lCopper Sticky Launcher&r by applying a Copper Block to a Create Sticker. The resulting launcher throws entities upward for quick vertical movement; it can later be upgraded into the stronger Brass version."
+		""
+		"An elevator is just a launcher that worries too much."
+	]
+	quest.2E5B82C25C812DD3.quest_subtitle: "Launch yourself like a startled rabbit"
+	quest.2ECF2F4F9C979F33.quest_desc: [
+		"Place the &lFluid Gauge&r against a compatible tank or fluid handler to display how full it is. The dial responds to the stored amount relative to total capacity, providing an immediate visual level check without opening an interface."
+		""
+		"The tank can finally communicate using something more precise than ominous sloshing."
+	]
+	quest.2ECF2F4F9C979F33.quest_subtitle: "Put a readable dial on fluid storage"
+	quest.303EEE5309B13F4C.quest_desc: [
+		"The &lController I/O&r provides another access point for a connected drawer network."
+		""
+		"Place it where pipes or players can reach it more conveniently."
+	]
+	quest.303EEE5309B13F4C.quest_subtitle: "Another door into storage"
+	quest.3070397CF71E45B3.quest_desc: [
+		"The &lFlamethrower&r consumes fuel to launch blazing projectiles that ignite targets. Its flame also works as a portable furnace: drop smeltable items near the fire to process them without building a stationary setup."
+		""
+		"Cooking dinner and discouraging monsters now share one convenient trigger."
+	]
+	quest.3070397CF71E45B3.quest_subtitle: "Carry the Nether in both hands"
+	quest.30C8A3168C9AB2C2.quest_desc: [
+		"&lFluid Pipes&r form networks that carry liquids between tanks and machines. Wrench individual connections to control their shape, and add Mechanical Pumps when the fluid needs direction or active movement."
+		""
+		"Plumbing has arrived, and it brought goggles."
+	]
+	quest.30C8A3168C9AB2C2.quest_subtitle: "Route fluids through your factory"
+	quest.314803CB8B43B499.quest_desc: [
+		"Right-click the &lPortable Whistle&r to sound a handheld railway whistle that nearby players can hear. It has a short cooldown and is ideal for station masters, departure signals, or announcing that you have become everyone nearby's problem."
+		""
+		"All aboard, whether or not there is currently a train."
+	]
+	quest.314803CB8B43B499.quest_subtitle: "Carry the sound of the railway"
+	quest.32072DCBE09B6005.quest_desc: [
+		"The &lMagnet Upgrade&r pulls nearby dropped items into your backpack."
+		""
+		"Very handy after mining, and even handier after making a mess."
+	]
+	quest.32072DCBE09B6005.quest_subtitle: "Loot has nowhere to hide"
+	quest.3268B5AB1ED693F9.quest_desc: [
+		"The &lLarge Filling Tank&r carries the greatest standard supply of water for hydraulic and steam-powered gear. It automatically refills compatible equipment in your inventory and is replenished by right-clicking Water."
+		""
+		"At this point you are less carrying water and more relocating a pond."
+	]
+	quest.3268B5AB1ED693F9.quest_subtitle: "The largest portable hydraulic reserve"
+	quest.330BCFB423661151.quest_desc: [
+		"Use &lBelt Connectors&r on two parallel shafts to create a Mechanical Belt between them. Belts transfer both items and rotation across horizontal, vertical, or diagonal runs."
+		""
+		"Factory floors look much more convincing once everything travels on rubber."
+	]
+	quest.330BCFB423661151.quest_subtitle: "Connect shafts with moving belts"
+	quest.332910B2B67A244F.quest_desc: [
+		"&lRedstone Links&r transmit redstone wirelessly between a sending link and any receiving links with the same two-item frequency. Right-click each frequency slot with an item, then configure the link as a transmitter or receiver."
+		""
+		"Your redstone signal has finally discovered radio."
+	]
+	quest.332910B2B67A244F.quest_subtitle: "Wireless redstone, two-item password"
+	quest.332F22BA7E77F68E.quest_desc: [
+		"The &lSpud Sentry&r consumes Potato Cannon ammunition and rotational power to track and fire at nearby targets automatically. Its filter can select foes, passive or neutral creatures, players, or anything, while its targeting mode can prioritize distance, health, or a random victim."
+		""
+		"The potato has completed its journey from vegetable to automated defense policy."
+	]
+	quest.332F22BA7E77F68E.quest_subtitle: "Automate the potato cannon"
+	quest.33C43C8533DE76E0.quest_desc: [
+		"The &lAdvanced Jukebox Upgrade&r can store multiple music discs and lets you choose which one to play."
+		""
+		"Your backpack can finally have a proper playlist."
+	]
+	quest.33C43C8533DE76E0.quest_subtitle: "A whole playlist in your backpack"
+	quest.34B962F38508CC8A.quest_desc: [
+		"The &l6-way Gearbox&r accepts shaft connections on every face, allowing one compact block to distribute rotation horizontally and vertically. Its top and bottom outputs rotate at half the speed of the four side connections."
+		""
+		"Six exits, two speeds, and no room left for another shaft."
+	]
+	quest.34B962F38508CC8A.quest_subtitle: "Send rotation through all six faces"
+	quest.34D7788A732EEC9A.quest_desc: [
+		"Build and ignite a &lNether Portal&r, then step through it to enter the Nether. This hostile dimension provides Blaze Rods, Nether Wart, Ancient Debris, fortress loot, and many materials unavailable in the Overworld."
+		""
+		"The next stage of progress is through a doorway made from cooled lava."
+	]
+	quest.34D7788A732EEC9A.quest_subtitle: "Cross the threshold into the Nether"
+	quest.34D7788A732EEC9A.title: "We Need to Go Deeper"
+	quest.35362FA617772DB2.quest_desc: [
+		"The &lAdvanced Alchemy Upgrade&r adds extra filtering options for controlling which brewing ingredients and recipes it handles."
+		""
+		"Potion-making with fewer accidental surprises."
+	]
+	quest.35362FA617772DB2.quest_subtitle: "Brewing with better boundaries"
+	quest.35502D1035FE4796.quest_desc: [
+		"When pushed by a piston, an &lIron Rod&r acts like a drill and breaks the block in front of it. It can break anything that the piston would normally be able to push."
+		""
+		"Add a piston and your iron stick suddenly has career ambitions."
+	]
+	quest.35502D1035FE4796.quest_subtitle: "Turn pistons into drills"
+	quest.362DC65B39616064.quest_desc: [
+		"The &lBrass Chute&r is a higher-throughput version of Create's Chute that can move as many as 64 items in a transfer. Use it where ordinary chutes become a bottleneck for full-stack logistics."
+		""
+		"The items are no longer taking the stairs one handful at a time."
+	]
+	quest.362DC65B39616064.quest_subtitle: "Move full stacks through a chute"
+	quest.363B51EBD90088A0.quest_desc: [
+		"Build this burger with a bottom bun, Beef Patty, Cabbage Leaf, Tomato Slices, Sliced Onion, and a top bun. Custom sandwiches restore the combined hunger and saturation of their ingredients; burgers with at least two unique fillings also grant &lNourishment&r, lasting longer as the ingredient variety grows."
+		""
+		"A balanced meal, assuming your definition of balance is stacking everything vertically."
+	]
+	quest.363B51EBD90088A0.quest_subtitle: "Patty, vegetables, and proper layers"
+	quest.369AEEAC57DEBCB6.quest_desc: [
+		"The &lCross Connector&r carries rotation along two perpendicular axes independently inside one block. The two lines do not transfer rotation to each other, making clean shaft crossings possible without changing either network."
+		""
+		"Two rotations pass in the hallway and politely pretend not to know each other."
+	]
+	quest.369AEEAC57DEBCB6.quest_subtitle: "Let two shafts cross without interacting"
+	quest.36DC0D2A62465C4A.quest_desc: [
+		"An &lAndesite Track Switch&r controls the direction trains take through a junction. Place it beside a selected track, right-click to cycle the route, sneak-right-click to cycle the other way, or use redstone to set and lock routing automatically."
+		""
+		"A tiny lever with the confidence to tell entire trains where to go."
+	]
+	quest.36DC0D2A62465C4A.quest_subtitle: "Direct trains through junctions"
+	quest.36DC0D2A62465C4A.title: "Andesite Track Switch"
+	quest.37457A719AC6DBEF.quest_desc: [
+		"Your goal is to automate the production of &levery mechanism and engine&r."
+		""
+		"Sounds simple enough... right?"
+	]
+	quest.37457A719AC6DBEF.quest_subtitle: "Very sequential"
+	quest.37457A719AC6DBEF.title: "Automate the Mechanisms"
+	quest.37EED5664B4F45DE.quest_desc: [
+		"&lJust Enough Items&r displays the pack's items and recipes beside your inventory. Click an item to view its recipes, press &lU&r to see what it can make, and use the search bar to narrow the list by name or mod."
+		""
+		"When in doubt, ask the enormous catalogue living beside your inventory."
+	]
+	quest.37EED5664B4F45DE.quest_subtitle: "The most powerful tool"
+	quest.37F4BEF2F0549540.quest_desc: [
+		"The &lTank Upgrade&r adds fluid storage to your backpack, replacing some regular item slots while it is installed."
+		""
+		"A few pockets must be sacrificed to defeat the tyranny of buckets."
+	]
+	quest.37F4BEF2F0549540.quest_subtitle: "Buckets are taking the day off"
+	quest.386B25AA9D7C112B.quest_desc: [
+		"&lRoasted Shulker Meat&r is made by cooking raw Shulker Meat in a Furnace, Smoker, or over a Campfire. Eat it directly, slice it into two portions on a Cutting Board, or reserve it for more elaborate End meals and feasts."
+		""
+		"Opening the box was difficult; discovering that the box contained dinner was stranger."
+	]
+	quest.386B25AA9D7C112B.quest_subtitle: "Roast the part hidden inside the shell"
+	quest.38D318A2497B45B9.quest_desc: [
+		"Travel through an End Gateway, find an End City, and defeat a &lShulker&r. Its shells craft Shulker Boxes, portable containers that retain their contents when broken."
+		""
+		"The angry wall clam guards one of the finest conveniences in Minecraft."
+	]
+	quest.38D318A2497B45B9.quest_subtitle: "Hunt a Shulker in the outer End islands"
+	quest.38D318A2497B45B9.title: "Portable Space"
+	quest.38EB21795ED38E57.quest_desc: [
+		"&lMonorail Train Track&r is a special Steam 'n Rails track type made through Sequenced Assembly from Metal Girders, Metal Brackets, and Iron Sheets. Use it when you want trains that feel sleeker, stranger, or just very committed to having exactly one rail."
+		""
+		"Two rails were apparently too mainstream for this locomotive."
+	]
+	quest.38EB21795ED38E57.quest_subtitle: "Run trains on one proud rail"
+	quest.38EB21795ED38E57.title: "Monorail Track"
+	quest.3961548B8A316826.quest_desc: [
+		"Enter the End, destroy the End Crystals healing the boss, and defeat the &lEnder Dragon&r. Winning opens the exit portal and creates an End Gateway leading toward the outer islands."
+		""
+		"The credits are not the end; they are merely a dramatic intermission."
+	]
+	quest.3961548B8A316826.quest_subtitle: "Defeat the guardian of the End"
+	quest.3961548B8A316826.title: "Free the End"
+	quest.399706B8B5DB4395.quest_desc: [
+		"Upgrade a Netherite Sword with an Echo Upgrade Smithing Template and an Echo Ingot to make the &lEcho Sword&r. Every hit inflicts Weakness II and Darkness II on its target for five seconds, though repeated strikes do not stack the effects."
+		""
+		"If the blade does not finish the argument, sensory deprivation probably will."
+	]
+	quest.399706B8B5DB4395.quest_subtitle: "Leave your enemies weak and in the dark"
+	quest.39C485FCD22DC443.quest_desc: [
+		"&lThe Chisel&r will quickly become one of your best building tools. Simply right-click with it and insert almost any block to unlock a wide variety of decorative variants."
+		""
+		"Use the buttons in the interface to browse different styles and preview each design before choosing the one you want."
+	]
+	quest.39C485FCD22DC443.quest_subtitle: "The tool that provides options"
+	quest.39C9F17E5984EDBD.quest_desc: [
+		"A &lRe-Packager&r opens incoming packages and combines their contents into new outgoing packages while preserving order and address information. Use it at logistics junctions where deliveries need to be consolidated before continuing."
+		""
+		"It puts the boxes into better boxes, professionally."
+	]
+	quest.39C9F17E5984EDBD.quest_subtitle: "Consolidate packages in transit"
+	quest.3A16966C32B70888.quest_desc: [
+		"The &lCopycat Blocks&r can imitate the texture of nearly any full block while keeping a shape. Right-click it with a block to apply that material; it supports every orientation and can combine into double slabs."
+		""
+		"At last, the shape you wanted wearing the block you wanted."
+	]
+	quest.3A16966C32B70888.quest_subtitle: "Any block can become a slab"
+	quest.3A16966C32B70888.title: "Copycats"
+	quest.3A61ECEA80F7F984.quest_desc: [
+		"The &lElectron Tube&r is a crafted electronic component used in several redstone-aware and precision machines. It is made from polished Rose Quartz, so remember to finish the quartz with sandpaper first."
+		""
+		"Apparently the future of industry is a tiny glowing tube."
+	]
+	quest.3A61ECEA80F7F984.quest_subtitle: "A glowing piece of progression"
+	quest.3A862E535192C162.quest_desc: [
+		"&lWater Wheels&r generate rotational power when flowing water moves across their paddles. The Large Water Wheel is slower but provides substantially more stress capacity, making it a strong early-game power source."
+		""
+		"Renewable energy begins with persuading water to go around in circles."
+	]
+	quest.3A862E535192C162.quest_subtitle: "Let flowing water turn the factory"
+	quest.3A862E535192C162.title: "Water wheels"
+	quest.3AB5BB32F018023B.quest_desc: [
+		"The &lAdvanced Magnet Upgrade&r increases the pickup range, pulling dropped items into your backpack from farther away."
+		""
+		"Long-distance relationships can work after all."
+	]
+	quest.3AB5BB32F018023B.quest_subtitle: "Loot from a safer distance"
+	quest.3ABE39AFFE909F09.quest_desc: [
+		"The &lSequenced Pulse Generator&r runs a configurable list of redstone instructions when its rear input receives a signal. It can output timed strengths, wait, transform signals, and loop; side signals reset the program, while a Comparator reads its progress."
+		""
+		"Redstone has advanced from circuitry to writing a small schedule for electricity."
+	]
+	quest.3ABE39AFFE909F09.quest_subtitle: "Program timed redstone instructions"
+	quest.3AC236A87599F935.quest_desc: [
+		"The &lEncased Chain Cogwheel&r adds a cogwheel to an Encased Chain Drive. Chained components in a row keep their shafts rotating in the same direction, while ordinary cogwheels can mesh anywhere along that row and sections may be rotated by 90 degrees."
+		""
+		"One block, two transmission methods, considerably fewer awkward gear piles."
+	]
+	quest.3AC236A87599F935.quest_subtitle: "Combine chain transmission with exposed gearing"
+	quest.3AF0B2E5FC8D6217.quest_desc: [
+		"The &lCuisine Skillet&r accepts flexible combinations of staple, meat, seafood, vegetable, and seasoning ingredients instead of one fixed recipe. Stir with the Spatula, watch the cooking time, and serve portions onto Plates; variety and well-cooked ingredients improve the finished meal's quality."
+		""
+		"Dinner is no longer a recipe so much as a small performance review."
+	]
+	quest.3AF0B2E5FC8D6217.quest_subtitle: "Cook freely and earn quality through timing"
+	quest.3B48B501014A0CDD.quest_desc: [
+		"The &lGold Storage Upgrade&r provides a larger capacity increase when your bulk resources begin outgrowing iron."
+		""
+		"Your storage is rich now, even if you are not."
+	]
+	quest.3B48B501014A0CDD.quest_subtitle: "Storage with a golden appetite"
+	quest.3C066277F6EBEF73.quest_desc: [
+		"The &lChute&r accepts items from hoppers, droppers, and other automation, then drops them precisely from its underside. A redstone signal or a block directly below will stop it, and items can even pass through hollow logs."
+		""
+		"Finally, a machine that drops things with excellent aim."
+	]
+	quest.3C066277F6EBEF73.quest_subtitle: "Items go down, neatly"
+	quest.3C273C7DE457CDED.quest_desc: [
+		"Compact three White Grapes with a Mechanical Press to make &lWhite Grape Pomace&r. The Wine Cellar matures it into white wine, it blends with Red Pomace for Rose, and Sugar turns it into Grape Juice."
+		""
+		"A tidy bundle of crushed grapes awaiting a much more sophisticated future."
+	]
+	quest.3C273C7DE457CDED.quest_subtitle: "Prepare the base for white and blended wines"
+	quest.3C574F750A832F08.quest_desc: [
+		"The &lSmart Hopper&r upgrades a vanilla Hopper with Create-style filtering and configurable extraction amounts. It can pull nearby items or inventories, route them through its facing output, and use its filter to control exactly what and how much may pass."
+		""
+		"The hopper went to engineering school and returned with standards."
+	]
+	quest.3C574F750A832F08.quest_subtitle: "Filter both the item and transfer amount"
+	quest.3C719EAC5B21A431.quest_desc: [
+		"The &lMechanical Mixer&r processes ingredients inside a Basin below it. Some recipes only need rotation, while others require heat from a Blaze Burner; higher speed lets the whisk reach the Basin and work faster."
+		""
+		"Put the recipe in a bowl and let industrial whisking commence."
+	]
+	quest.3C719EAC5B21A431.quest_subtitle: "Mix recipes inside a Basin"
+	quest.3E079C46B960EFC8.quest_desc: [
+		"The &lAuto Smoking Upgrade&r automatically processes matching items as they enter your backpack."
+		""
+		"Drop in the required fuel and let the bag handle the busywork."
+	]
+	quest.3E079C46B960EFC8.quest_subtitle: "Dinner handles itself"
+	quest.3E6597BD131AA2FF.quest_desc: [
+		"A &lConductor's Cap&r is made with Sequenced Assembly using Wool, a Precision Mechanism, and String. Place one on an Andesite Casing to create a Conductor, a little helper that can carry toolboxes and operate buttons or levers when looked at."
+		""
+		"At last, railway staffing has reached adorable levels of automation."
+	]
+	quest.3E6597BD131AA2FF.quest_subtitle: "Hire a tiny rail helper"
+	quest.3E6597BD131AA2FF.title: "Conductor's Cap"
+	quest.3EEE758BCF47863E.quest_desc: [
+		"&lEncased Chain Drives&r relay rotation to adjacent drives in a straight row, even when their shafts face different directions. Two drives touching side by side will rotate at the same speed, while drives connected diagonally can reverse direction."
+		""
+		"Useful when a wall of shafts starts looking like industrial spaghetti."
+	]
+	quest.3EEE758BCF47863E.quest_subtitle: "Rotation without the shaft spaghetti"
+	quest.3FABDEAF41FEE3AF.quest_desc: [
+		"&lDrawer Trim&r connects separated drawers to a controller without adding storage of its own."
+		""
+		"Think of it as tidy cabling for your drawer network."
+	]
+	quest.3FABDEAF41FEE3AF.quest_subtitle: "Connect the wooden dots"
+	quest.406557A94B9940CF.quest_desc: [
+		"Use a Crafting Table to make a &lStone Pickaxe&r. It mines faster than wood and can collect iron ore, opening the way to furnaces, buckets, shields, and stronger tools."
+		""
+		"The wooden pickaxe may now enjoy its extremely early retirement."
+	]
+	quest.406557A94B9940CF.quest_subtitle: "Upgrade from timber to stone"
+	quest.406557A94B9940CF.title: "The Stone Age"
+	quest.410D4970153E65A6.quest_desc: [
+		"The &lCard Reader&r uses the first inscribed card presented to it as its reference. Later cards are checked against that stored identity and script; a valid match activates the reader briefly, allowing the result to control redstone machinery."
+		""
+		"Your factory now has a bouncer, and it is extremely particular about identification."
+	]
+	quest.410D4970153E65A6.quest_subtitle: "Validate a card and emit a signal"
+	quest.412E865A1EDB6C5A.quest_desc: [
+		"&lJourneyMap&r records the world as you explore and provides a minimap, full-screen map, and waypoints. Press &lJ&r to open the map, then mark important locations so bases, villages, and distant projects remain easy to find."
+		""
+		"Getting lost is still allowed, but it now requires considerably more effort."
+	]
+	quest.412E865A1EDB6C5A.quest_subtitle: "Never getting lost again"
+	quest.4187089DB288A427.quest_desc: [
+		"With the &lDeposit Upgrade&r installed, shift-right-clicking an inventory with your backpack moves matching items from the backpack into that inventory."
+		""
+		"Unloading after an adventure just became much less ceremonial."
+	]
+	quest.4187089DB288A427.quest_subtitle: "Empty your pockets faster"
+	quest.41E8209D1BAC3063.quest_desc: [
+		"A &lMechanical Plough&r breaks fragile blocks, clears vegetation, and turns dirt into farmland or paths as a contraption moves. It also pushes entities away instead of trying to harvest them."
+		""
+		"Your moving machine can now prepare fields and politely relocate bystanders."
+	]
+	quest.41E8209D1BAC3063.quest_subtitle: "Clear and prepare the ground"
+	quest.4262A704C2FDCE1B.quest_desc: [
+		"The &lEcho Upgrade Smithing Template&r combines with Netherite equipment and an Echo Ingot at a Smithing Table to create Echo gear. Make the template by heated compacting an Echo Shard, Deepslate, and Blaze Powder; defeating a Warden can also provide one."
+		""
+		"Apparently the dress code for fighting darkness requires paperwork."
+	]
+	quest.4262A704C2FDCE1B.quest_subtitle: "The pattern for equipment that answers back"
+	quest.42F8D3950FC4CBCB.quest_desc: [
+		"&lCabernet Sauvignon&r is one possible Wine Cellar result from Red Grape Pomace, described by blackcurrant, cedar, and tobacco notes. It usually provides Resistance and Slowness for 20 seconds, with a smaller chance of Nausea instead."
+		""
+		"A bold vintage for standing your ground very confidently and very slowly."
+	]
+	quest.42F8D3950FC4CBCB.quest_subtitle: "Bottle a bold red with a defensive finish"
+	quest.432676BE531DE316.quest_desc: [
+		"The &lMechanical Arm&r moves items between configured input and output points such as Depots, belts, funnels, Basins, and Blaze Burners. Right-click each location during setup, then power the Arm to perform fast, programmable transfers."
+		""
+		"It points, grabs, sorts, and never asks for an ergonomic keyboard."
+	]
+	quest.432676BE531DE316.quest_subtitle: "A programmable arm for item routing"
+	quest.433332ADDB6D5041.quest_desc: [
+		"Compact three Apples beneath a Mechanical Press to produce &lApple Must&r. Mature it in the Wine Cellar to create Cider, or combine it with Sugar through crafting or mixing to make Apple Juice."
+		""
+		"Applesauce took one look at the production line and chose a more distinguished career."
+	]
+	quest.433332ADDB6D5041.quest_subtitle: "Press orchard fruit into a cellar-ready base"
+	quest.4338690AA065CEBD.quest_desc: [
+		"The &lMechanical Chisel&r converts blocks moving past it into other variants from the same Rechiseled recipe group. Use its filter to choose a specific output instead of letting the result cycle freely."
+		""
+		"Your decorative blocks now have an automated wardrobe department."
+	]
+	quest.4338690AA065CEBD.quest_subtitle: "Automate decorative block variants"
+	quest.433ABC98C49B0BF3.quest_desc: [
+		"The &lTransporter&r moves items directly from one container into another, providing a quick alternative to building a full belt or pipe route for a transfer. A Transporter cannot extract from another Transporter, so the source still needs to be an ordinary inventory."
+		""
+		"Your items have discovered teleportation, but only between approved filing cabinets."
+	]
+	quest.433ABC98C49B0BF3.quest_subtitle: "Move inventory without the conveyor commute"
+	quest.4368687A2AFD8F05.quest_desc: [
+		"&lLiquid Dye&r is made by mixing ordinary dye with water and can be stored, piped, and processed like other Create fluids. Blow an Encased Fan through it for Bulk Coloring, or let flowing dye touch lava to create concrete of the matching color."
+		""
+		"At last, a paint system with enough pressure to recolor the factory and pave the floor."
+	]
+	quest.4368687A2AFD8F05.quest_subtitle: "Bulk dying"
+	quest.4368687A2AFD8F05.title: "Dyes in a bucket"
+	quest.43FF77DAFF522998.quest_desc: [
+		"The &lPersonal Key&r controls access to compatible drawers."
+		""
+		"It keeps personal storage personal."
+	]
+	quest.43FF77DAFF522998.quest_subtitle: "Please keep out"
+	quest.441D5D73B97F92BF.quest_desc: [
+		"For this challenge, you'll need to explore the world and collect a souvenir from a wide variety of biomes."
+		""
+		"I highly recommend using the &lNature's Compass&r to help track them down, otherwise, this challenge can take a &overy&r long time. Happy exploring!"
+	]
+	quest.441D5D73B97F92BF.quest_subtitle: "Nature compass recommended"
+	quest.441D5D73B97F92BF.title: "Explore the World"
+	quest.44338EF86BB4B0FC.quest_desc: [
+		"The &lShear Pin&r is a single-use shaft connector made by cutting a Shaft. If its kinetic network becomes overstressed, the pin breaks and separates the connection, protecting the rest of the machinery at the cost of replacing the pin."
+		""
+		"A deliberately weak link is surprisingly strong engineering."
+	]
+	quest.44338EF86BB4B0FC.quest_subtitle: "Sacrifice a connector to protect the network"
+	quest.44398377F458D8E5.quest_desc: [
+		"The &lGold Backpack&r expands your portable storage again, with more slots for both items and upgrades."
+		""
+		"Your backpack is becoming a base you can wear."
+	]
+	quest.44398377F458D8E5.quest_subtitle: "Gilded backpack"
+	quest.4468F6718510BBE6.quest_desc: [
+		"&lShafts&r are the basic cables of a Create kinetic network, carrying rotation between adjacent components at the same speed. They also act as the anchor points used to place Mechanical Belts."
+		""
+		"Not glamorous, but neither is a factory that cannot turn."
+	]
+	quest.4468F6718510BBE6.quest_subtitle: "The backbone of kinetic power"
+	quest.44946FA0A1F23B6E.quest_desc: [
+		"The &lInverse Gearshift&r is a compact inline component that reverses the rotational direction between its two shaft connections. Unlike a normal Gearshift, it provides the reversed output directly without requiring a redstone signal."
+		""
+		"Sometimes backwards is not a state; it is the entire design specification."
+	]
+	quest.44946FA0A1F23B6E.quest_subtitle: "Reverse a shaft without redstone control"
+	quest.44D06B036BC5ACB6.quest_desc: [
+		"&lCardboard&r is produced from Pulp and serves as the main ingredient for packages, packaging machines, and a few surprisingly wearable creations."
+		""
+		"Industrial logistics runs on carefully folded paper."
+	]
+	quest.44D06B036BC5ACB6.quest_subtitle: "Turn pulp into parcel material"
+	quest.44E9FEFD35E08BF8.quest_desc: [
+		"Combine Blaze Powder with Ender Pearls to make &lEyes of Ender&r. Throw them to locate a Stronghold and carry enough to fill any empty End Portal frames when you arrive."
+		""
+		"The path forward is guided by fragile airborne eyeballs. This seems trustworthy."
+	]
+	quest.44E9FEFD35E08BF8.quest_subtitle: "Prepare to locate and open the End Portal"
+	quest.44E9FEFD35E08BF8.title: "Eye Spy"
+	quest.4556F23FF57D59F7.quest_desc: [
+		"The &lPump Upgrade&r moves fluids between the backpack tank and the world or other containers."
+		""
+		"Pair it with a Tank Upgrade to put it to work."
+	]
+	quest.4556F23FF57D59F7.quest_subtitle: "Fluids in, fluids out"
+	quest.459B7FA2D3DAE939.quest_desc: [
+		"The &lEcho Ingot&r is the core material for Echo equipment, and earning one is a properly endgame production job. A Netherite Ingot must complete five Sequenced Assembly loops; each loop fills it with 250 mB of Lava and 50 mB of Molten Echo, deploys Blaze Powder, and presses it twice. Molten Echo itself requires two Echo Shards per 100 mB under superheated mixing."
+		""
+		"Netherite went into the factory and came back sounding ominous."
+	]
+	quest.459B7FA2D3DAE939.quest_subtitle: "Forge the Deep Dark into something stronger"
+	quest.45CA96D8BF50BFCB.quest_desc: [
+		"This chapter introduces the basic tools and mechanics of &lFarmer's Delight&r. Rather than covering every recipe, it focuses on the essentials you need to start cooking and farming."
+		""
+		"Once you're familiar with the basics, feel free to experiment—there are plenty of meals and ingredients waiting to be discovered."
+	]
+	quest.45CA96D8BF50BFCB.quest_subtitle: "Not all foods will be covered"
+	quest.4620F09263AED9FE.quest_desc: [
+		"The &lStock Ticker&r lets you access every inventory connected to your storage network from a single interface."
+		""
+		"To set it up, attach a &lPackager&r to each storage block you want to connect, then link them together using the linked &lStock Links&r. Once you have a &lClerk&r, you'll be able to browse and request items from your entire linked storage network with ease."
+	]
+	quest.4620F09263AED9FE.quest_subtitle: "Remote access to your storage"
+	quest.47013EB3CFC6C7F8.quest_desc: [
+		"The &lKinetic Battery&r charges from kinetic stress while unpowered and discharges at a fixed speed when given redstone. It spends charge only for the capacity actually used, retains energy when picked up, supports level readouts, and can be chained for longer runtime."
+		""
+		"Rotational energy has finally found a jar with a lid."
+	]
+	quest.47013EB3CFC6C7F8.quest_subtitle: "Store stress capacity for later use"
+	quest.475A50C82FEA9D30.quest_desc: [
+		"Make &lChocolate Candy&r by placing a Bar of Caramel beneath a Spout and coating it with &l250 mB&r of Create Chocolate. Eating one grants a short Speed effect, and other chocolate varieties produce candies with their own combinations of effects."
+		""
+		"A caramel bar wearing a chocolate coat is suddenly capable of improving your cardio."
+	]
+	quest.475A50C82FEA9D30.quest_subtitle: "Wrap caramel in flowing chocolate"
+	quest.47B2FBC037F33625.quest_desc: [
+		"The &lDashboard&r is a compact four-line display. Written Clipboards provide static text, Display Links provide live data, and dyes or Glow Ink customize its appearance; seated players facing it can receive the display on their HUD, a feature toggled with a Wrench."
+		""
+		"Your control room now has enough screen space to look officially important."
+	]
+	quest.47B2FBC037F33625.quest_subtitle: "Put four lines of factory data in view"
+	quest.47C67325772565DD.quest_desc: [
+		"The &lCopper Exoskeleton&r runs entirely on water and grants Strength II while applying Mining Fatigue. Carry a Filling Tank to refill it automatically, making this the combat-focused option when hitting much harder matters more than digging quickly."
+		""
+		"Built like a hydraulic press and nearly as subtle."
+	]
+	quest.47C67325772565DD.quest_subtitle: "Trade mining speed for hydraulic muscle"
+	quest.481B9B288A624A9A.quest_desc: [
+		"The &lMagnet Upgrade III&r pulls nearby dropped items toward its drawer with greater reach than the previous tier."
+		""
+		"Let the storage do the cleanup for you."
+	]
+	quest.481B9B288A624A9A.quest_subtitle: "Nothing escapes the drawer"
+	quest.48449A767CA2375B.quest_desc: [
+		"&lWhite Grapes&r are gathered from bushes in plains and forest-type biomes and can be replanted for steady harvests. Compact three into White Grape Pomace, the base for white wines, Rose blends, and Grape Juice."
+		""
+		"The vineyard has selected a lighter color palette but kept the same fermentation agenda."
+	]
+	quest.48449A767CA2375B.quest_subtitle: "Grow the pale half of the vineyard"
+	quest.4917D5EC54FE1550.quest_desc: [
+		"The &lAdvanced Refill Upgrade&r adds extra filtering options for deciding which held items the backpack should replace."
+		""
+		"Build longer and rummage less."
+	]
+	quest.4917D5EC54FE1550.quest_subtitle: "Exactly what you need, on demand"
+	quest.4918A3148CE350F4.quest_desc: [
+		"&lThe Dread Lamp&r prevents passive and neutral mobs from spawning in a &l64ÃƒÆ’Ã¢â‚¬â€64ÃƒÆ’Ã¢â‚¬â€64&r area centered on the lamp."
+		""
+		"It's a great way to keep animals and other wandering mobs from cluttering your base or getting in the way while you're building."
+	]
+	quest.4918A3148CE350F4.quest_subtitle: "No more friendly guys"
+	quest.4999ABAE58851600.quest_desc: [
+		"&lRailway Casing&r is the core material for Create's train technology. Use it in railway components and during train assembly as you move from stationary contraptions to vehicles that travel across a global track network."
+		""
+		"Your factory is about to discover public transportation."
+	]
+	quest.4999ABAE58851600.quest_subtitle: "Begin the railway era"
+	quest.4999BA728032F211.quest_desc: [
+		"The &lTool Swapper Upgrade&r selects a suitable tool from your backpack when you start breaking a block."
+		""
+		"Work smarter, and carry an unreasonable number of tools."
+	]
+	quest.4999BA728032F211.quest_subtitle: "The right tool for the job"
+	quest.4A6F0C4E9235FB59.quest_desc: [
+		"A &lBlock of Super Experience&r is created when lightning transforms a normal Block of Experience; ordinary lightning only has a chance, while lightning caused by Super Enchanting guarantees the conversion. Use it to craft Super Enchanting Templates for work beyond vanilla limits. Keep a Lightning Rod near an active Super Enchanter or Forger, since the process can call down another strike."
+		""
+		"The road past sensible enchantment levels is apparently paved with thunderstorms."
+	]
+	quest.4A6F0C4E9235FB59.quest_subtitle: "Bottle lightning into impossible enchantments"
+	quest.4B0D58ECA0FE1307.quest_desc: [
+		"The &lIron Backpack&r doubles the space of the basic backpack and adds another upgrade slot."
+		""
+		"A little iron goes a long way when your inventory is already overflowing."
+	]
+	quest.4B0D58ECA0FE1307.quest_subtitle: "Better backpack"
+	quest.4B64FDB11CC2694F.quest_desc: [
+		"Powering the &lBrake&r produces an immense stress impact, deliberately overstressing and halting the attached kinetic network. Remove the redstone signal to release the brake and allow a properly powered network to resume."
+		""
+		"The emergency stop works by making the machinery too stressed to continue. Relatable."
+	]
+	quest.4B64FDB11CC2694F.quest_subtitle: "Stop a network by overwhelming it on command"
+	quest.4BD5B403E7726577.quest_desc: [
+		"The &lIron Knife&r is a durable food-preparation tool used with Cutting Boards and in certain recipes. Cutting grassy plants, mature Wheat, or Rice with a Knife can also yield Straw, while animals defeated with one may provide additional useful drops."
+		""
+		"A chef's knife, a harvest tool, and a compelling reason for wheat to remain cooperative."
+	]
+	quest.4BD5B403E7726577.quest_subtitle: "Harvest straw and prepare better ingredients"
+	quest.4C1FA6C2811D47D9.quest_desc: [
+		"The &lDiamond Backpack&r offers a huge inventory and plenty of room for upgrades."
+		""
+		"It is expensive, but so is leaving useful loot behind."
+	]
+	quest.4C1FA6C2811D47D9.quest_subtitle: "Best backpack in overworld"
+	quest.4C33092A2A335974.quest_desc: [
+		"With the &lRestock Upgrade&r installed, shift-right-clicking an inventory with your backpack takes matching items from that inventory and places them into the backpack."
+		""
+		"Restocking supplies now takes one click instead of an inventory meeting."
+	]
+	quest.4C33092A2A335974.quest_subtitle: "Never run out mid-build"
+	quest.4C38A538F4D2F1AC.quest_desc: [
+		"A &lSpeedometer&r displays the rotational speed of an attached shaft, while a &lStressometer&r shows how much of the network's stress capacity is being used. Wear Engineer's Goggles for exact numbers instead of relying only on the dial."
+		""
+		"Diagnosis is easier when the machine can tell you how badly it is suffering."
+	]
+	quest.4C38A538F4D2F1AC.quest_subtitle: "Read your kinetic network"
+	quest.4C555C02A91A1CFA.quest_desc: [
+		"A &lSteam Engine&r converts a heated Fluid Tank boiler into rotational power. Supply the tank with water, heat it with Blaze Burners, and attach engines to the boiler sides; larger, hotter boilers can support more engines and greater stress capacity."
+		""
+		"Boil water carefully enough and an entire factory starts turning."
+	]
+	quest.4C555C02A91A1CFA.quest_subtitle: "Turn heat and water into power"
+	quest.4C7C5B3F76E22C96.quest_desc: [
+		"&lChampaign&r is a sparkling white wine matured from White Grape Pomace, with brioche, citrus, and green-apple notes. It shares the wine effects of brief Resistance and Slowness most of the time, with an occasional bout of Nausea."
+		""
+		"The bubbles suggest celebration; the status effects suggest sensible moderation."
+	]
+	quest.4C7C5B3F76E22C96.quest_subtitle: "Wait for the cellar to produce something sparkling"
+	quest.4CAB4BF1309DE635.quest_desc: [
+		"&lGravisand&r stays in place until powered by redstone. If it can fall it moves downward, but when blocked below it floats upward instead; connected Gravisand also passes the signal along."
+		""
+		"Gravity is less of a law and more of a redstone suggestion."
+	]
+	quest.4CAB4BF1309DE635.quest_subtitle: "Gravity, now with an on switch"
+	quest.4D5D444CB55521E0.quest_desc: [
+		"A working crusher uses two &lCrushing Wheels&r facing one another and rotating inward. Feed items from above for more powerful crushing recipes than a Millstone can perform, but keep players and pets out of the machinery."
+		""
+		"Excellent at pulverizing ore and equally unconcerned about your fingers."
+	]
+	quest.4D5D444CB55521E0.quest_subtitle: "Advanced crushing between two wheels"
+	quest.4DB1B26C3CBC30EF.quest_desc: [
+		"The &lSlime Helmet&r lets you cling to ceilings and bounce away from walls while gliding with an Elytra. Pair it with Slime Boots for a movement kit built around preserving momentum instead of respecting ordinary walking surfaces."
+		""
+		"The ceiling was wasted space until you dressed like a slime."
+	]
+	quest.4DB1B26C3CBC30EF.quest_subtitle: "Turn ceilings and walls into pathways"
+	quest.4DB54FDAE2AFDD63.quest_desc: [
+		"Place an ingredient on the &lCutting Board&r, then use the required Knife, Axe, Pickaxe, or other tool on it to perform a cutting recipe. These recipes produce prepared ingredients and useful byproducts that ordinary crafting often cannot recover."
+		""
+		"Please keep all fingers outside the recipe output slot."
+	]
+	quest.4DB54FDAE2AFDD63.quest_subtitle: "Prepare ingredients one careful cut at a time"
+	quest.4E8C96F911C4BBA2.quest_desc: [
+		"&lTrack Signals&r divide a rail network into protected sections so trains do not enter occupied paths. Use normal signals for block control and cross signals where multiple routes must reserve an intersection safely."
+		""
+		"Train collisions are memorable, but signals are generally cheaper."
+	]
+	quest.4E8C96F911C4BBA2.quest_subtitle: "Keep trains out of occupied sections"
+	quest.4EF5D6BEE93373D6.quest_desc: [
+		"The &lXP Pump Upgrade&r moves experience between you and a backpack tank."
+		""
+		"Store levels safely or retrieve them when enchantment inspiration strikes."
+	]
+	quest.4EF5D6BEE93373D6.quest_subtitle: "Put those levels somewhere safe"
+	quest.4F57945864E4AB12.quest_desc: [
+		"The &lGuardian&r food item is collected from defeated Guardians. Cut it with a Knife on a Cutting Board to separate a Guardian Tail and Bone Meal, or combine the whole catch with vegetables and Eggs in a Cooking Pot to prepare Guardian Soup."
+		""
+		"The laser fish has discovered a culinary weakness to proper knife work."
+	]
+	quest.4F57945864E4AB12.quest_subtitle: "Prepare a Guardian for the kitchen"
+	quest.4F9160813AA63FBB.quest_desc: [
+		"Use a &lPhantom Membrane&r on a Shaft, Cogwheel, or Large Cogwheel to turn it into a collision-free Phantom version. The invisible mechanism still carries rotation and stress normally, and removing it with a Wrench restores the original component. The bonus is that invisible versions do not have collisions."
+		""
+		"The gears are still there mechanically; your knees simply no longer believe in them."
+	]
+	quest.4F9160813AA63FBB.quest_subtitle: "Let rotation pass through thin air"
+	quest.4F9160813AA63FBB.title: "Phantom Cogwheels and Shafts"
+	quest.4F91AF9FD9B451CC.quest_desc: [
+		"Quark adds hundreds of small features and quality-of-life improvements that enhance vanilla Minecraft in subtle ways. This chapter highlights a few of the most useful ones, but there's plenty more to discover on your own."
+		""
+		"Many Quark items include built-in documentation. If you're ever unsure what something does, check its &lUses&r in JEI for more information."
+	]
+	quest.4F91AF9FD9B451CC.quest_subtitle: "Random useful little things"
+	quest.4FC6BA7F58C87259.quest_desc: [
+		"The &lAdvanced Pickup Upgrade&r adds extra filtering options, letting you decide exactly which collected items should enter your backpack."
+		""
+		"Pick up what matters and leave the cobblestone carpet behind."
+	]
+	quest.4FC6BA7F58C87259.quest_subtitle: "Pickup with standards"
+	quest.5018659DE660EFD5.quest_desc: [
+		"Attach a &lFluid Hatch&r to a fluid-holding block to create a convenient interaction point for inserting or withdrawing fluids. Its fluid filter restricts what may pass, making compact tanks easier to access without exposing another full tank face."
+		""
+		"The tank now has a tiny front door and a surprisingly firm guest list."
+	]
+	quest.5018659DE660EFD5.quest_subtitle: "Reach a tank through a filtered hatch"
+	quest.508F8C698F04C8FB.quest_desc: [
+		"&lCreate: Steam 'n' Rails&r expands Create's train system with more track styles, better signaling, conductors, couplers, switches, decorative rail parts, and extra train tools. This chapter only points at the big toys so you know what is worth trying first."
+		""
+		"Your railway has left the starter station and immediately started wearing a little conductor hat."
+	]
+	quest.508F8C698F04C8FB.quest_subtitle: "Rails with more personality"
+	quest.508F8C698F04C8FB.title: "Welcome to Steam and Rails"
+	quest.509CF99D8CC8C1D2.quest_desc: [
+		"Combine Apple Must with Sugar by crafting or basin mixing to make &lApple Juice&r. Unlike matured drinks, it has no chance of Nausea and instead grants Speed for three minutes."
+		""
+		"All the orchard, none of the cellar, and considerably faster legs."
+	]
+	quest.509CF99D8CC8C1D2.quest_subtitle: "Choose orchard sweetness without maturation"
+	quest.511AB919A24AADB9.quest_desc: [
+		"The &lAdvanced Deposit Upgrade&r adds extra filtering options for deciding what should move from your inventory into the backpack."
+		""
+		"Clean pockets at the press of a button."
+	]
+	quest.511AB919A24AADB9.quest_subtitle: "A place for everything"
+	quest.519C7D6EF63B11B0.quest_desc: [
+		"The &lStove&r is a permanent heat source designed for Farmer's Delight cooking stations. Place a Cooking Pot or Skillet above it, or cook Campfire-compatible foods directly on its surface without maintaining an exposed fire."
+		""
+		"The kitchen now has industrial heat and significantly fewer accidental floor fires."
+	]
+	quest.519C7D6EF63B11B0.quest_subtitle: "Build a safer heart for the kitchen"
+	quest.51B5F4870AF41577.quest_desc: [
+		"The &lBlasting Upgrade&r adds a blast furnace to your backpack."
+		""
+		"Ore processing no longer has to wait until you get home."
+	]
+	quest.51B5F4870AF41577.quest_subtitle: "Ore processing on the road"
+	quest.522E07F5A6A85B7E.quest_desc: [
+		"The &lBlaze Enchanter&r functions like an automated Enchanting Table fueled by Liquid Experience. Set its enchanting level on the panel, or place an item in the template slot so blank Enchanting Templates receive enchantments suitable for that item type. Mechanical Arms can automate items and experience fuel."
+		""
+		"The Blaze now understands enchantability tables and is far too pleased about it."
+	]
+	quest.522E07F5A6A85B7E.quest_subtitle: "Enchant with a very educated Blaze"
+	quest.5293DB33916B8952.quest_desc: [
+		"The &lSmithing Upgrade&r adds a smithing table to your backpack."
+		""
+		"Upgrade equipment wherever your adventure takes you."
+	]
+	quest.5293DB33916B8952.quest_subtitle: "Upgrade your gear anywhere"
+	quest.52CAB3DE5846EC1F.quest_desc: [
+		"Supply the &lSprinkler&r with 1,000 mB of Diluted Bonemeal and let it spread the fluid across a 5-by-5 area. It provides wide-area crop growth without applying Bonemeal to every plant by hand."
+		""
+		"Your crops have entered the age of automated weather."
+	]
+	quest.52CAB3DE5846EC1F.quest_subtitle: "Fertilize an entire patch at once"
+	quest.5352C2D9768D8B86.quest_desc: [
+		"The &lNetherite Storage Upgrade&r offers the highest drawer capacity for the items your farms produce in truly unreasonable quantities."
+		""
+		"When thousands of stacks still somehow feel cramped."
+	]
+	quest.5352C2D9768D8B86.quest_subtitle: "For truly unreasonable quantities"
+	quest.53CF22DEAFAF781E.quest_desc: [
+		"Sophisticated Backpacks add upgradeable backpacks that greatly expand your inventory space. As you progress, you can install upgrades to unlock even more useful features."
+		""
+		"The backpack can also be equipped in a &lCurios/Bauble slot&r, letting you wear it without giving up your chestplate. Once equipped, you can open it at any time by pressing &lB&r. If that doesn't work, you may need to adjust your keybindings first."
+		""
+		"Backpacks can also be place in world and will work as parts or create contraptions."
+	]
+	quest.53CF22DEAFAF781E.quest_subtitle: "Tired of full inventory?"
+	quest.5405AFD098485C4B.quest_desc: [
+		"&lRed Grapes&r grow on bushes found naturally in plains and forest-type biomes. Replant the harvest for a renewable vineyard, then compact three grapes into Red Grape Pomace for red wines, Rose, or Grape Juice."
+		""
+		"A small red fruit with an alarmingly extensive retirement plan."
+	]
+	quest.5405AFD098485C4B.quest_subtitle: "Harvest the foundation of red wine"
+	quest.54080AFFB94FE808.quest_desc: [
+		"&lCogwheels&r transfer rotation between touching gears, while Large Cogwheels can mesh with small ones to change speed and torque demand. The Hand Crank supplies a little temporary rotation by hand, perfect for testing early machines."
+		""
+		"You are now personally responsible for turning the factory."
+	]
+	quest.54080AFFB94FE808.quest_subtitle: "Gears, ratios, and elbow grease"
+	quest.54080AFFB94FE808.title: "Rotation ratios"
+	quest.543D5F1F9F7F0FA0.quest_desc: [
+		"The &lCopper Storage Upgrade&r offers a useful capacity increase with materials that are easy to gather early on."
+		""
+		"Finally, another reason to keep all that copper."
+	]
+	quest.543D5F1F9F7F0FA0.quest_subtitle: "Give that copper a purpose"
+	quest.54F9DE88BC180EF3.quest_desc: [
+		"Compact three Red Grapes with a Mechanical Press to produce &lRed Grape Pomace&r. Mature it in a Wine Cellar for one of several red wines, blend it with White Pomace for Rose, or combine it with Sugar for Grape Juice."
+		""
+		"The grapes have been pressed into service with considerable mechanical encouragement."
+	]
+	quest.54F9DE88BC180EF3.quest_subtitle: "Press red grapes into a versatile base"
+	quest.55AE7FEDAE79ACF4.quest_desc: [
+		"A &lGantry Carriage&r rides along a line of powered Gantry Shafts and carries blocks glued to it. The shafts provide both the rail and the motion, making gantries excellent for precise horizontal or vertical machines."
+		""
+		"For when your factory needs a moving platform with excellent posture."
+	]
+	quest.55AE7FEDAE79ACF4.quest_subtitle: "Build motion along a gantry"
+	quest.55BE3161C6F35814.quest_desc: [
+		"The &lWrench&r is Create's essential configuration tool. Right-click machine parts to rotate or adjust them, use it on connection points to change behavior, and sneak-right-click many components to pick them up instantly."
+		""
+		"If something is facing the wrong way, introduce it to the wrench."
+	]
+	quest.55BE3161C6F35814.quest_subtitle: "Your most important factory tool"
+	quest.55EE28E329A17EEA.quest_desc: [
+		"Mine deep underground for your first &lDiamond&r. Diamonds provide excellent tools, armor, enchanting access, and the pickaxe required to collect Obsidian."
+		""
+		"A tiny blue rock has just made every cave feel more important."
+	]
+	quest.55EE28E329A17EEA.quest_subtitle: "Find the gem that opens the midgame"
+	quest.55EE28E329A17EEA.title: "Diamonds!"
+	quest.577B7C952FC77671.quest_desc: [
+		"The &lEmerald Storage Upgrade&r gives the best capacity bonus for its price, making it the smartest general-purpose choice for large drawer networks."
+		""
+		"Villagers were onto something after all."
+	]
+	quest.577B7C952FC77671.quest_subtitle: "The smartest capacity bargain"
+	quest.57D7D54F523FBCEA.quest_desc: [
+		"Defeat an &lEvoker&r in a Woodland Mansion or during a raid. Evokers summon Vexes and snapping fangs, but always drop a Totem of Undying when killed by a player."
+		""
+		"The tiny golden insurance policy is protected by an extremely irritated wizard."
+	]
+	quest.57D7D54F523FBCEA.quest_subtitle: "Take a Totem from an Evoker"
+	quest.57D7D54F523FBCEA.title: "Heroic Opposition"
+	quest.57FDC3B30CD5E2E6.quest_desc: [
+		"I'm going to need a little &lRosé&r..."
+		""
+		"Just a little."
+		""
+		"Definitely not because I have a Rosé addiction."
+		""
+		"One full inventory should be enough."
+	]
+	quest.57FDC3B30CD5E2E6.quest_subtitle: "I don't have a problem"
+	quest.57FDC3B30CD5E2E6.title: "Just a bit of Rosé"
+	quest.582B971CC66DC6D3.quest_desc: [
+		"Apples provide the base for both non-alcoholic juice and matured Cider. Compact three Apples with a Mechanical Press to make Apple Must, then either sweeten it into juice or place it in a Wine Cellar to mature."
+		""
+		"Every grand cellar begins with somebody looking at an apple and becoming ambitious."
+	]
+	quest.582B971CC66DC6D3.quest_subtitle: "Begin the winery with an ordinary orchard"
+	quest.58D5DCE76C840E95.quest_desc: [
+		"The &lRoll Table&r is a small logistics surface that accepts a held stack and moves it between available horizontal sides. Use it as a compact junction where belts, funnels, chutes, or inventories need to exchange items without a full belt intersection."
+		""
+		"The item has reached the table and is now considering its onward travel arrangements."
+	]
+	quest.58D5DCE76C840E95.quest_subtitle: "Route loose items across a compact table"
+	quest.58F264999CE90E53.quest_desc: [
+		"The &lBlaze Upgrade Smithing Template&r upgrades an ordinary Blaze Burner into a specialized worker at a Smithing Table. Combine it with a Blaze Burner and an Enchanting Table for a Blaze Enchanter, or use an Anvil to create a Blaze Forger; duplicate spare templates with Blaze Rods and Netherrack before using them up."
+		""
+		"The Blaze has been promoted from furnace operator to magical office work."
+	]
+	quest.58F264999CE90E53.quest_subtitle: "Give your Blaze a new profession"
+	quest.58F264999CE90E53.title: "Blaze Template"
+	quest.58FAF0A165833641.quest_desc: [
+		"&lStraw Statues&r are fully customizable NPCs that are perfect for bringing your builds to life. Dress them up, pose them, and place them around your world to create lively towns, markets, or settlements."
+		""
+		"Just try not to spawn thousands of them... your computer might not appreciate it. 😄"
+	]
+	quest.58FAF0A165833641.quest_subtitle: "Do you want NPCs?"
+	quest.599BF43C3212E1A2.quest_desc: [
+		"Enter the Nether, locate a Nether Fortress, and defeat a &lBlaze&r. Blazes attack with volleys of fireballs and provide Blaze Rods for brewing and reaching the End."
+		""
+		"The floating fire hazard is also an essential crafting ingredient."
+	]
+	quest.599BF43C3212E1A2.quest_subtitle: "Confront a Blaze inside a Nether Fortress"
+	quest.599BF43C3212E1A2.title: "Into Fire"
+	quest.59F4A00E2E3B72FF.quest_desc: [
+		"The &lWine Cellar&r is the workstation that matures Apple Must and grape pomaces into bottled drinks. Insert the appropriate base ingredient and wait for it to finish; Hoppers, Funnels, and other item logistics can automate both input and collection."
+		""
+		"The factory has reached the advanced stage where waiting patiently counts as processing."
+	]
+	quest.59F4A00E2E3B72FF.quest_subtitle: "Give pressed fruit enough time to mature"
+	quest.5A1AE8229E6C6B00.quest_desc: [
+		"The &lShroud Key&r hides or reveals the item displayed on a drawer."
+		""
+		"Use it for a cleaner storage wall or a little mystery."
+	]
+	quest.5A1AE8229E6C6B00.quest_subtitle: "Storage with a secret"
+	quest.5AC1EBB0F63CEEC2.quest_desc: [
+		"&lThe Mega Torch&r is an incredibly useful item for keeping your base safe. Once placed, it prevents hostile mobs from spawning in a "
+		"&l64ÃƒÆ’Ã¢â‚¬â€64ÃƒÆ’Ã¢â‚¬â€64&r area centered on the torch."
+		""
+		"It's perfect for securing your base or any large build without having to cover everything in regular torches."
+	]
+	quest.5AC1EBB0F63CEEC2.quest_subtitle: "Get all these mobs outta here"
+	quest.5AC7268386695B0D.quest_desc: [
+		"Mine deep in the Nether and uncover your first piece of &lAncient Debris&r. Smelt it into Netherite Scrap; four Scrap combined with four Gold Ingots produces one Netherite Ingot."
+		""
+		"The Nether has hidden its best metal behind several kilometers of inconvenience."
+	]
+	quest.5AC7268386695B0D.quest_subtitle: "Unearth the Nether's buried upgrade material"
+	quest.5AC7268386695B0D.title: "Hidden in the Nether"
+	quest.5AD5DE3FB9AC8E9B.quest_desc: [
+		"The &lObsidian Storage Upgrade&r is an inexpensive early capacity boost for drawers that need a little more breathing room."
+		""
+		"A sturdy first step into industrial hoarding."
+	]
+	quest.5AD5DE3FB9AC8E9B.quest_subtitle: "A sturdy little capacity boost"
+	quest.5B536F11EB8805CE.quest_desc: [
+		"The &lCuckoo Clock&r displays Minecraft time with moving hands and performs a small animation at noon and midnight. It can also provide its time to Create display systems."
+		""
+		"Twice a day, your factory briefly remembers whimsy."
+	]
+	quest.5B536F11EB8805CE.quest_subtitle: "Industrial timekeeping with a bird"
+	quest.5B561B9723A39622.quest_desc: [
+		"A &lTrain Coupler&r is placed near selected track points so aligned trains can be coupled or decoupled without disassembling them. Use a Wrench to change its mode and spacing, then power it with redstone once the carriages are lined up correctly."
+		""
+		"For when your train needs to break up, get back together, and act like it was planned."
+	]
+	quest.5B561B9723A39622.quest_subtitle: "Join or split trains on command"
+	quest.5B561B9723A39622.title: "Train Coupler"
+	quest.5BF9C4B3E2F3DC1F.quest_desc: [
+		"The &lMagnet Upgrade&r pulls nearby dropped items toward its drawer."
+		""
+		"Let the storage do the cleanup while you get on with something more interesting."
+	]
+	quest.5BF9C4B3E2F3DC1F.quest_subtitle: "Let the drawer clean the floor"
+	quest.5C474AD9E557FC79.quest_desc: [
+		"&lRatatouille&r is a vegetable meal prepared in a Cooking Pot and served in a Bowl. It combines several farm ingredients into a filling dish, making it a fine demonstration of how the pot turns modest crops into more valuable food."
+		""
+		"The vegetables have formed a committee and elected themselves dinner."
+	]
+	quest.5C474AD9E557FC79.quest_subtitle: "Turn a garden into dinner"
+	quest.5C775F77BE111C50.quest_desc: [
+		"The &lNeon Tube&r is a throwable light source made from an Electron Tube and Glass. Toss one into a dark cave to place light at a distance, making unexplored drops and tunnels safer without walking into them first."
+		""
+		"Cave lighting now comes with a pitching arm."
+	]
+	quest.5C775F77BE111C50.quest_subtitle: "Throw illumination into the darkness"
+	quest.5C97F1EDBDDE26C5.quest_desc: [
+		"The &lHose Pulley&r lowers a hose into a body of liquid and either drains or fills it through connected pipes. Reverse the attached pump to reverse the operation; very large fluid bodies can be treated as infinite sources depending on configuration."
+		""
+		"At last, a drinking straw sized appropriately for a factory."
+	]
+	quest.5C97F1EDBDDE26C5.quest_subtitle: "Drain lakes or fill reservoirs"
+	quest.5CE0F1AC081E36EB.quest_desc: [
+		"A &lTrain Station&r defines a named destination and is where train contraptions are assembled or disassembled. Stations also let scheduled trains navigate, stop, exchange cargo, and depart when their conditions are met."
+		""
+		"Every railway needs somewhere official to be late to."
+	]
+	quest.5CE0F1AC081E36EB.quest_subtitle: "Assemble trains and name destinations"
+	quest.5D52C4D983C9BC53.quest_desc: [
+		"&lBrass&r is produced by mixing Copper and Zinc in a Basin heated by a fueled Blaze Burner. It unlocks Create's precision components, advanced filtering, automation, and railway technology."
+		""
+		"Your factory has entered its shiny and considerably more complicated era."
+	]
+	quest.5D52C4D983C9BC53.quest_subtitle: "Enter the age of brass"
+	quest.5DDB0A9DC54E1E17.quest_desc: [
+		"The &lDrawer Key&r locks a drawer so it remembers its assigned item even when empty."
+		""
+		"No more carefully organized wall slowly becoming chaos."
+	]
+	quest.5DDB0A9DC54E1E17.quest_subtitle: "Lock the label in place"
+	quest.5E30943DB81232A0.quest_desc: [
+		"Crush &lSculk&r to produce Sculk Flour, with chances for an extra portion and an Experience Nugget. Sculk Sensors, Shriekers, Catalysts, and Veins have their own crushing recipes with different yields, letting a harvested Deep Dark feed both baking and experience processing."
+		""
+		"The forbidden cave carpet is now a baking ingredient. Best not to dwell on that."
+	]
+	quest.5E30943DB81232A0.quest_subtitle: "Turn silent growth into useful flour"
+	quest.5F2E2E1908F85049.quest_desc: [
+		"The &lBlaze Forger&r performs anvil-style work using Liquid Experience without adding normal repair cost. It can merge enchanted items or Enchanting Templates, apply templates to equipment, and strip enchantments from equipment or books onto a blank template."
+		""
+		"An anvil with opinions, fire, and considerably better bookkeeping."
+	]
+	quest.5F2E2E1908F85049.quest_subtitle: "Forge, merge, apply, and extract enchantments"
+	quest.5F7E0BB0BFBC954B.quest_desc: [
+		"&lThe Explorer's Compass&r makes finding structures much easier. Select any structure from the list, and if one is within range, the compass will point you directly to it while also displaying its exact coordinates."
+		""
+		"It's the perfect tool for tracking down rare structures without wandering aimlessly."
+	]
+	quest.5F7E0BB0BFBC954B.quest_subtitle: "Time for structures!"
+	quest.5F8066186A5CEEC2.quest_desc: [
+		"The &lSlime Boots&r make you bounce from surfaces and build speed through inertia instead of taking an ordinary landing. They pair especially well with the Grapplin Whisk, preserving the momentum created while swinging and boosting across terrain."
+		""
+		"Fall damage has been replaced by an enthusiastic boing."
+	]
+	quest.5F8066186A5CEEC2.quest_subtitle: "Bounce farther with every landing"
+	quest.5F9C988BABDF10D5.quest_desc: [
+		"The &lStack Upgrade Tier IV&r provides enormous per-slot capacity for resources you collect by the thousands."
+		""
+		"Inventory management is beginning to look optional."
+	]
+	quest.5F9C988BABDF10D5.quest_subtitle: "Thousands fit where stacks once did"
+	quest.5FF6AB9A5F4034E1.quest_desc: [
+		"The &lMechanical Generator&r from Create Cobblestone produces stone-type blocks using rotational power instead of a bulky lava-and-water drill setup. Click it with a supported stone type to choose its output; in this pack the enabled types include Cobblestone, Stone, Basalt, Limestone, Scoria, Deepslate, and Cobbled Deepslate."
+		""
+		"Your frame rate no longer has to fear the cobble machine in the basement."
+	]
+	quest.5FF6AB9A5F4034E1.quest_subtitle: "Infinite cobble with zero lag"
+	quest.5FF6AB9A5F4034E1.title: "Mechanical Generator"
+	quest.603B15F7B929E616.quest_desc: [
+		"The &lCrank Wheel&r manually supplies rotational force like a Hand Crank with directional control. Hold right-click to turn it counter-clockwise, or sneak while holding right-click to turn it clockwise."
+		""
+		"At last, machinery that moves precisely because you are personally insisting."
+	]
+	quest.603B15F7B929E616.quest_subtitle: "Choose the direction of manual rotation"
+	quest.603BF3A8385F7CD5.quest_desc: [
+		"&lExtreme Sound Muffler&r lets you reduce or mute individual sounds without lowering an entire sound category. Open its interface, find a recently played sound or search for one, then adjust it so noisy machines and creatures can be silenced selectively."
+		""
+		"At last, the loudest block in the factory can be asked to use its indoor voice."
+	]
+	quest.603BF3A8385F7CD5.quest_subtitle: "Choose what you hear"
+	quest.60966720858438D7.quest_desc: [
+		"&lRich Soil&r periodically accelerates supported plant growth as though Bone Meal had been applied. Hoe it into trampling-resistant Rich Soil Farmland for crops, or plant mushrooms directly on the untiled block to grow renewable Mushroom Colonies."
+		""
+		"The dirt has developed ambition and a remarkably productive work ethic."
+	]
+	quest.60966720858438D7.quest_subtitle: "Give crops a soil that fertilizes itself"
+	quest.610795628CF35B55.quest_desc: [
+		"The &lCard Inscriber&r turns an Empty Card into a unique scripted card using an Ink Sac and Name Tag. The card records its creator as well as its script, so another player cannot simply reproduce the same credentials and impersonate the owner."
+		""
+		"Administrative paperwork has finally acquired multiplayer security."
+	]
+	quest.610795628CF35B55.quest_subtitle: "Write an identity that cannot be forged"
+	quest.6145D54BEB242021.quest_desc: [
+		"Connect &lHypertubes&r by right-clicking one tube with another, then place the second endpoint to create straight or curved travel lines. Attach and power a Hypertube Entrance at &l16 RPM&r or more to enter the network; higher speed means faster travel, and a Wrench cycles between manual, sneak-to-enter, and automatic-lock modes."
+		""
+		"The factory now has pneumatic mail, except you are the parcel."
+	]
+	quest.6145D54BEB242021.quest_subtitle: "Travel through a powered tube network"
+	quest.6145D54BEB242021.title: "Hypertubes"
+	quest.6157C9DC70A6E64D.quest_desc: [
+		"This section covers the different upgrades available for Sophisticated Backpacks. You don't need to craft every single one just browse through them and pick the upgrades that best fit your playstyle."
+		""
+		"There are upgrades for storage, automation, convenience, and much more, so feel free to experiment."
+	]
+	quest.6157C9DC70A6E64D.quest_subtitle: "Start of all upgrades"
+	quest.61EB785794E525B9.quest_desc: [
+		"Craft a &lShield&r from planks and an Iron Ingot. Hold it in either hand and use it to block arrows, melee attacks, explosions, and many other incoming threats."
+		""
+		"Sometimes the strongest combat technique is carrying a door into battle."
+	]
+	quest.61EB785794E525B9.quest_subtitle: "Put a sturdy answer between you and danger"
+	quest.61EB785794E525B9.title: "Not Today"
+	quest.6225600E4446874C.quest_desc: [
+		"The &lBlock Picker&r consumes water to grab and move blocks with its switchable magnet. Enchant it with Gravity Gun to affect entities as well, allowing you to carry them or launch them through the air; a Filling Tank can keep the tool supplied."
+		""
+		"Interior decorating becomes much faster when the furniture cannot object."
+	]
+	quest.6225600E4446874C.quest_subtitle: "Pick up the scenery and put it elsewhere"
+	quest.6255958467D04F52.quest_desc: [
+		"A &lDeployer&r imitates a player's right-click or left-click action using the item held in its hand. It can place blocks, use tools, apply ingredients, attack entities, and perform the repeated steps of Sequenced Assembly."
+		""
+		"A mechanical hand: tireless, precise, and terrible at waving."
+	]
+	quest.6255958467D04F52.quest_subtitle: "Automate a player's hands"
+	quest.634A757CAC2B8B63.quest_desc: [
+		"One of Quark's most useful tools is the &lTrowel&r. Instead of placing the block you're holding, it randomly selects a block from your hotbar and places it where you click."
+		""
+		"This is perfect for adding natural variation to walls, paths, and other builds. Want a certain block to appear more often? Simply place it in multiple hotbar slots to increase its chance of being selected."
+	]
+	quest.634A757CAC2B8B63.quest_subtitle: "Anyone in need of texturing?"
+	quest.63867405DA22B798.quest_desc: [
+		"Place Apple Must in the Wine Cellar and allow it to mature into &lCider&r. Drinking it has an 80 percent chance to grant Resistance alongside Slowness for 20 seconds, while the remaining chance causes 10 seconds of Nausea."
+		""
+		"The apple has become brave, slow, and occasionally regrettable."
+	]
+	quest.63867405DA22B798.quest_subtitle: "Mature apples into a crisp cellar drink"
+	quest.63BE4510DB7D0305.quest_desc: [
+		"A &lGearshift&r passes rotation normally until it receives a redstone signal, which reverses the output direction. Its speed stays the same; only the direction changes."
+		""
+		"For machines that occasionally need to reconsider which way they are going."
+	]
+	quest.63BE4510DB7D0305.quest_subtitle: "Reverse rotation with redstone"
+	quest.63CD542BA1843D01.quest_desc: [
+		"The &lSeed Pouch&r stores up to ten stacks of a single seed type. Right-click farmland to plant from it, or shift-right-click to plant a &l3x3&r area; holding it also sends matching picked-up seeds straight into the pouch."
+		""
+		"Ten stacks of seeds, one inventory slot, and far fewer tiny green piles."
+	]
+	quest.63CD542BA1843D01.quest_subtitle: "Put the whole farm in one pouch"
+	quest.64479A6AFCF17412.quest_desc: [
+		"The &lFeeding Upgrade&r automatically feeds you from food stored in your backpack."
+		""
+		"Keep it stocked and hunger becomes one less thing to think about."
+	]
+	quest.64479A6AFCF17412.quest_subtitle: "Lunch served automatically"
+	quest.646DECE7962E0240.quest_desc: [
+		"Use the Wither's Nether Star with Glass and Obsidian to craft a &lBeacon&r. Place it above a mineral-block pyramid to grant powerful effects across the surrounding area."
+		""
+		"Nothing says victory like converting a boss into municipal infrastructure."
+	]
+	quest.646DECE7962E0240.quest_subtitle: "Turn a Nether Star into lasting power"
+	quest.646DECE7962E0240.title: "Bring Home the Beacon"
+	quest.657B498ACDBF97DB.quest_desc: [
+		"Place &lSeething Catalyst Sails&r in an Encased Fan's airflow to enable Seething recipes. This high-heat bulk process refines crushed ores with bonus yields and performs transformations such as Coal Blocks into Diamond Shards, Netherrack into Magma Blocks, and Ender Pearls into Eyes of Ender."
+		""
+		"The airflow is now hot enough to reconsider the economic value of coal."
+	]
+	quest.657B498ACDBF97DB.quest_subtitle: "Process materials in searing airflow"
+	quest.65BB91CF8CCC34C0.quest_desc: [
+		"The &lSmall Filling Tank&r stores water and automatically refills compatible Copper and Brass equipment while carried in your inventory. Right-click Water to refill it; higher tiers provide the same service with larger reserves."
+		""
+		"A water bottle for machinery with very demanding exercise habits."
+	]
+	quest.65BB91CF8CCC34C0.quest_subtitle: "Keep water-powered gadgets topped up"
+	quest.66DA7E26D6BBD86A.quest_desc: [
+		"The &lSkillet&r can be placed over a heat source to cook Campfire recipes, or used portably by holding ingredients in the other hand while standing near heat. It also functions as a sturdy weapon with unusually strong knockback."
+		""
+		"Breakfast is served, and anything interrupting breakfast is also getting served."
+	]
+	quest.66DA7E26D6BBD86A.quest_subtitle: "Cook dinner or defend it with the same pan"
+	quest.66E80E8EBFB9D4F8.quest_desc: [
+		"Smelt raw iron or iron ore into an &lIron Ingot&r. Iron is the first major material tier and supports durable tools, armor, buckets, shields, anvils, and a great deal of useful infrastructure."
+		""
+		"The age of hitting rocks has advanced into the age of organized metalwork."
+	]
+	quest.66E80E8EBFB9D4F8.quest_subtitle: "Smelt the metal behind early progress"
+	quest.66E80E8EBFB9D4F8.title: "Acquire Hardware"
+	quest.675711C727FEE78C.quest_desc: [
+		"&lFTB Essentials&r provides useful server commands for everyday play. Commands such as &l/home&r, &l/sethome&r, &l/spawn&r, &l/tpa&r, and &l/back&r may be available without enabling cheats; type a command in chat or use chat suggestions to see the options permitted by the server."
+		""
+		"A few typed words can save a very long walk home."
+	]
+	quest.675711C727FEE78C.quest_subtitle: "Helpful commands that don't need cheats"
+	quest.675F9E7059C6EA97.quest_desc: [
+		"Make &lSweet Tea&r by heated mixing one Bok Choy, two Sugar Cubes, and &l250 mB&r of Builder's Tea in a Basin. The result can be stored as a fluid or bottled for drinking, granting the &lAustral&r effect for three minutes: increased movement speed at the cost of attack damage."
+		""
+		"Fast feet, softer punches, and enough sugar to explain both."
+	]
+	quest.675F9E7059C6EA97.quest_subtitle: "Southern speed in a bottle"
+	quest.67CE135195F966C6.quest_desc: [
+		"A &lCardboard Block&r stores Cardboard compactly and provides a decorative building block for packaging areas. It also sits at the doorstep of Create's package logistics progression."
+		""
+		"Build the warehouse out of the same material as the boxes. What could go wrong?"
+	]
+	quest.67CE135195F966C6.quest_subtitle: "A building block for box enthusiasts"
+	quest.67D2D697A649849B.quest_desc: [
+		"The &lAdvanced Compacting Upgrade&r can compact recipes in a full &l3x3&r pattern instead of being limited to simpler conversions."
+		""
+		"Nine little items walk into a backpack and one big item walks out."
+	]
+	quest.67D2D697A649849B.quest_subtitle: "Now thinking in three by three"
+	quest.67D56E659B0BEC0A.quest_desc: [
+		"The &lPrinter&r copies information-bearing items by using the original as a filter and consuming the fluid required by its recipe. It can duplicate written or enchanted books, copy train schedules and clipboards, rename items, and change package patterns or addresses. Check JEI because each printing job uses different material and fluid."
+		""
+		"Industrial publishing has arrived, complete with magical ink expenses."
+	]
+	quest.67D56E659B0BEC0A.quest_subtitle: "Copy books, schedules, names, and more"
+	quest.67E593DA94B5DFC5.quest_desc: [
+		"The &lInception Upgrade&r allows backpacks to be stored inside this backpack."
+		""
+		"Yes, it is a backpack backpack; just try not to think too hard about it."
+	]
+	quest.67E593DA94B5DFC5.quest_subtitle: "A backpack inside a backpack"
+	quest.67E66832903772AB.quest_desc: [
+		"&lRiesling&r is produced by maturing White Grape Pomace and carries peach, apricot, and floral notes. Drinking it normally gives Resistance and Slowness for 20 seconds, while a smaller chance replaces those benefits with Nausea."
+		""
+		"A bouquet of flowers, stone fruit, and temporarily questionable footwork."
+	]
+	quest.67E66832903772AB.quest_subtitle: "Mature a fragrant and lightly sweet white"
+	quest.685C5D816CF61E8D.quest_desc: [
+		"A &lSequenced Gearshift&r executes a programmable series of rotational instructions after receiving a redstone pulse. Set movement distances, angles, pauses, directions, and speed modifiers for precise pistons, pulleys, bearings, or gantries."
+		""
+		"Your machine can now follow choreography instead of merely spinning."
+	]
+	quest.685C5D816CF61E8D.quest_subtitle: "Program precise mechanical motion"
+	quest.68B6B06C33648E2F.quest_desc: [
+		"The &lPortable Drill&r rapidly breaks most blocks while consuming both fuel and water. It only accepts the Digging enchantment, which expands its mining area to 3 by 3; carry both tank types so the drill can recharge automatically during long excavations."
+		""
+		"A tunnel bore for people who consider minecarts excessive luggage."
+	]
+	quest.68B6B06C33648E2F.quest_subtitle: "Bring industrial mining into your hand"
+	quest.68C1190E8DDF82FE.quest_desc: [
+		"Handcrafted adds a huge collection of cozy furniture and decorations to brighten up your builds."
+		""
+		"Many furniture pieces have multiple styles. Just right-click them with &lthe Hammer&r to cycle through the available variants until you find the one you like best."
+	]
+	quest.68C1190E8DDF82FE.quest_subtitle: "Did anyone say cute furniture?"
+	quest.68C1190E8DDF82FE.title: "Handcrafted"
+	quest.68DFC50178710CF0.quest_desc: [
+		"A &lSemaphore&r displays the state of a Train Signal in a more railway-looking way. Place it on a valid pole above a signal; stacked semaphores can show more detailed path information, especially with brass signals and multiple exits."
+		""
+		"It is a traffic light with theatrical arm movements."
+	]
+	quest.68DFC50178710CF0.quest_subtitle: "Signals you can actually see"
+	quest.68DFC50178710CF0.title: "Semaphore"
+	quest.694BB17AFC50C979.quest_desc: [
+		"The &lMechanical Bearing&r turns an attached group of glued blocks into a rotating contraption. Give it rotational power to set the structure spinning, then stop it to place the blocks back into the world."
+		""
+		"Your build is no longer architecture; it is choreography."
+	]
+	quest.694BB17AFC50C979.quest_subtitle: "Make entire builds spin"
+	quest.696A0A1C02842231.quest_desc: [
+		"The &lPickup Upgrade&r sends picked up items straight into your backpack. "
+		""
+		"It is a simple way to keep mining and exploring without stopping to clear the floor."
+	]
+	quest.696A0A1C02842231.quest_subtitle: "Straight from the floor to the bag"
+	quest.69CA8206CAF88A10.quest_desc: [
+		"The &lMechanical Press&r stamps items placed on a Depot or moving belt and can compact ingredients held in a Basin. Supply rotation from the side, then check JEI or Ponder for pressing and compacting recipes."
+		""
+		"Industrial progress begins with hitting ingredients very accurately."
+	]
+	quest.69CA8206CAF88A10.quest_subtitle: "Stamp, press, and compact"
+	quest.6A52D4A7CC1DF5F5.quest_desc: [
+		"Attach an &lInventory Access Port&r to a container so machines connected to the port can access that inventory as if directly adjacent. Multiple ports may serve one inventory, but they add no storage, cannot be chained, and can be disabled with redstone."
+		""
+		"The chest remains where it is; its front door has simply moved somewhere more convenient."
+	]
+	quest.6A52D4A7CC1DF5F5.quest_subtitle: "Extend an inventory into a reachable position"
+	quest.6B54E83B9287395C.quest_desc: [
+		"The &lLarge Fueling Tank&r is the highest-capacity standard tank for equipment that consumes fuel. It automatically feeds compatible gadgets from your inventory and can be refilled by right-clicking Lava."
+		""
+		"Enough portable heat to make the Nether feel underprepared."
+	]
+	quest.6B54E83B9287395C.quest_subtitle: "Pack the largest portable fuel reserve"
+	quest.6B9DC4A0BCC1864A.quest_desc: [
+		"The &lBlock Placer&r is a survival version of Create's Creative Worldshaper, able to place or destroy large shapes from extreme range. It consumes the blocks it places and drops removed or replaced blocks; Fortune and Silk Touch affect those drops, while Infinity can prevent many renewable blocks such as Cobblestone from being consumed."
+		""
+		"A building wand with the subtlety of a municipal demolition crew."
+	]
+	quest.6B9DC4A0BCC1864A.quest_subtitle: "Build or erase the landscape from over there"
+	quest.6B9F5F543ECB6353.quest_desc: [
+		"This modpack includes several additional &lVault&r variants beyond the standard horizontal design, including &lvertical vaults&r and other visuals."
+		""
+		"Be sure to check out all the available variants in JEI—you might find one that's a perfect fit for your storage system."
+	]
+	quest.6B9F5F543ECB6353.quest_subtitle: "More vault variants"
+	quest.6B9F5F543ECB6353.title: "Other Vaults"
+	quest.6BDFEA080B8F6495.quest_desc: [
+		"The &lFluid Vessel&r is a horizontal alternative to Create's Fluid Tank, expanding sideways into practical low-profile storage. It is less efficient when used as part of a boiler, and right-clicking it with a Wrench cycles the shape of its viewing window."
+		""
+		"The liquid has been granted permission to lie down on the job."
+	]
+	quest.6BDFEA080B8F6495.quest_subtitle: "Lay your fluid storage on its side"
+	quest.6C7854F8D5593902.quest_desc: [
+		"The &lEmpty Brass Chunk Loader&r is the unfinished shell for Power Loader's advanced loader. Complete its charging recipe to unlock a configurable loading area rather than a single chunk."
+		""
+		"A larger bubble of persistent reality is currently under construction."
+	]
+	quest.6C7854F8D5593902.quest_subtitle: "Prepare an advanced chunk loader"
+	quest.6CBC5BE47C402B9B.quest_desc: [
+		"A &lChute&r moves items vertically between inventories or drops them into the world. Chutes can connect into columns, accept side input, and use fans to move items upward when gravity is inconvenient."
+		""
+		"A very sophisticated answer to the question: what if item went down?"
+	]
+	quest.6CBC5BE47C402B9B.quest_subtitle: "Give items a vertical route"
+	quest.6D02A29C08F8FAD8.quest_desc: [
+		"The &lStack Upgrade Tier III&r turns every slot into serious bulk storage for farms, mines, and ambitious building projects."
+		""
+		"At this point the backpack is bending several laws of volume."
+	]
+	quest.6D02A29C08F8FAD8.quest_subtitle: "Serious room for serious projects"
+	quest.6D9EC67B780B71BA.quest_desc: [
+		"&lTrain Controls&r let a seated player drive an assembled train, controlling acceleration, braking, and direction. Mounted Contraption Controls can also toggle supported machinery carried by moving contraptions."
+		""
+		"Please keep hands, feet, and loose shafts inside the locomotive."
+	]
+	quest.6D9EC67B780B71BA.quest_subtitle: "Take the controls of your train"
+	quest.6DAF5961913F280C.quest_desc: [
+		"The &lFeeding Trough&r stores animal food and lets nearby animals come over to eat and breed automatically. Trough breeding gives no XP, and crowded groups of more than 32 animals nearby will eat without entering love mode."
+		""
+		"It handles the feeding; you handle explaining where all the baby cows came from."
+	]
+	quest.6DAF5961913F280C.quest_subtitle: "Dinner is served at the fence"
+	quest.6DE543AC4E4C9B61.quest_desc: [
+		"&lRose&r requires both Red and White Grape Pomace to mature together in the Wine Cellar. Its strawberry, watermelon, and citrus profile accompanies the usual wine gamble: Resistance and Slowness for 20 seconds, or a smaller chance of Nausea."
+		""
+		"Two grape varieties entered the cellar and negotiated a pink compromise."
+	]
+	quest.6DE543AC4E4C9B61.quest_subtitle: "Blend both sides of the vineyard"
+	quest.6DF60989B9B0ABA3.quest_desc: [
+		"This section is intended for the &lend game&r. If you've just started the pack, you won't be able to complete much here yet, and that's perfectly normal."
+		""
+		"These quests are designed to challenge you by combining mechanics from multiple mods. Some of them can be quite time-consuming, but that's all part of the journey."
+		""
+		"You've been warned... good luck, and have fun! ❤"
+	]
+	quest.6DF60989B9B0ABA3.quest_subtitle: "Are you trully ready?"
+	quest.6E27EEDC68DD939A.quest_desc: [
+		"&lMechanical Crafters&r connect into custom crafting grids and automatically pass ingredients along their configured arrows when powered. They can automate ordinary recipes and are required for oversized recipes such as Crushing Wheels."
+		""
+		"The crafting table has become a wall-sized group project."
+	]
+	quest.6E27EEDC68DD939A.quest_subtitle: "Build crafting grids of any shape"
+	quest.6E3637A1EDBF7B5D.quest_desc: [
+		"The &lKinetic Bridge&r moves a configurable, constant amount of stress capacity from a source network to a separate destination network. Overstress on one side does not directly spread to the other, though the bridge still consumes its configured capacity when transfer fails."
+		""
+		"The networks share power without having to share their mechanical problems."
+	]
+	quest.6E3637A1EDBF7B5D.quest_subtitle: "Transfer capacity while keeping networks separate"
+	quest.6EA1688B51C8ECD7.quest_desc: [
+		"Deploy the &lBrass Drone&r and keep its Controller in your inventory so it follows you. Drone modules can add abilities such as item storage, mining, and creature transport; the Controller toggles the active module and its reach can be adjusted with the configured increase and decrease keys."
+		""
+		"At last, a loyal assistant powered by precision mechanisms and personal-space settings."
+	]
+	quest.6EA1688B51C8ECD7.quest_subtitle: "Bring a modular brass companion online"
+	quest.6EE69B37C31A1075.quest_desc: [
+		"The &lAlchemy Upgrade&r brings brewing into your backpack."
+		""
+		"Keep the ingredients close and your potions closer."
+	]
+	quest.6EE69B37C31A1075.quest_subtitle: "Brewing beyond the base"
+	quest.6F2908B499FE3929.quest_desc: [
+		"A pair of &lRedstone Contacts&r emits a redstone signal when their faces meet. Put one on a moving contraption and one in the world to detect arrival points, rotations, or completed movement."
+		""
+		"It is a high five between machines, with electrical consequences."
+	]
+	quest.6F2908B499FE3929.quest_subtitle: "Detect when contraptions meet"
+	quest.6F381C84CF41B556.quest_desc: [
+		"The &lFraming Table&r lets you customize any drawer by choosing which block texture is used for each individual part of it."
+		""
+		"Your storage can finally dress for the room."
+	]
+	quest.6F381C84CF41B556.quest_subtitle: "Storage dressed for the build"
+	quest.6F7437AB5DBE58BB.quest_desc: [
+		"&lTwisted Cereal&r combines Enderman Sight, another Enderman drop, Popped Chorus Fruit, Milk, and a Shulker Bowl. It is a dense End-themed meal whose ingredients require hunting multiple creatures before breakfast can begin."
+		""
+		"The cereal watches you back, which is one way to discourage sogginess."
+	]
+	quest.6F7437AB5DBE58BB.quest_subtitle: "Pour milk over the stranger parts of the End"
+	quest.6F8C70DA54564042.quest_desc: [
+		"Place a &lRedstone Link Wildcard&r into either frequency slot of a Redstone Link. That slot will match any item used by other links, while the remaining normal slot can still restrict the channel."
+		""
+		"Frequency management has acquired an asterisk and immediately become more dangerous."
+	]
+	quest.6F8C70DA54564042.quest_subtitle: "Let one frequency slot match anything"
+	quest.6F9D3D5DB7AD20B2.quest_desc: [
+		"Activate the &lRadar&r to scan for nearby living entities and briefly apply the Glowing effect to them. The outlined targets remain visible through blocks, making the tool useful for finding mobs or players hidden around caves and structures."
+		""
+		"Subtle observation has been replaced by aggressively visible silhouettes."
+	]
+	quest.6F9D3D5DB7AD20B2.quest_subtitle: "Make nearby creatures impossible to miss"
+	quest.707F92366853042C.quest_desc: ["Because of how hard this item is to get it also counts as a challenge."]
+	quest.707F92366853042C.quest_subtitle: "Didn't I see you already?"
+	quest.708491180A98A943.quest_desc: [
+		"The &lEmpty Fan Catalyst&r can accept materials that define a fan-processing condition, allowing washing, haunting, smoking, and many addon processing types to be built into compact airflow setups. Different inserted materials create catalysts for their corresponding process."
+		""
+		"The Encased Fan now carries its working environment in a convenient little frame."
+	]
+	quest.708491180A98A943.quest_subtitle: "Package fan processing into a catalyst"
+	quest.71476466460A9453.quest_desc: [
+		"Make a &lSlime Cake&r by filling a Blaze Cake Base with 250 mB of liquid Slime. Right-click a Slime with the finished cake to make it grow into a larger size."
+		""
+		"The slime has been told that dessert builds character and considerable mass."
+	]
+	quest.71476466460A9453.quest_subtitle: "Feed a slime its industrial growth supplement"
+	quest.714F7841DC61980C.quest_desc: [
+		"The &lNetherite Jetpack&r upgrades the Brass Jetpack at a Smithing Table using a Fluid Tank as the template and a Netherite Ingot as the addition. It retains powered flight while providing the armor protection and durability expected from Netherite equipment."
+		""
+		"For when flying through danger should include an appropriate dress code."
+	]
+	quest.714F7841DC61980C.quest_subtitle: "Upgrade personal flight with Netherite"
+	quest.71C60808DA852AE2.quest_desc: [
+		"The &lDiamond Storage Upgrade&r pushes drawer capacity beyond emerald when maximum space matters more than material efficiency."
+		""
+		"Expensive storage for extremely committed hoarders."
+	]
+	quest.71C60808DA852AE2.quest_subtitle: "Maximum space gets expensive"
+	quest.71D96AD7D7493A1D.quest_desc: [
+		"Hold the &lExtendo Grip&r in your offhand to increase how far away you can place, break, and interact with blocks. It consumes rotational power stored in a Copper Backtank when performing extended actions."
+		""
+		"Your arms remain normal; the tool simply disagrees with distance."
+	]
+	quest.71D96AD7D7493A1D.quest_subtitle: "Put distant blocks within reach"
+	quest.7236EFF98D1B57A4.quest_desc: [
+		"The &lBreakfast Sampler&r combines two Roasted Sausages, two cooked Eggs, Bread, and either a Honey Bottle or Strider Egg in a Bowl. Its mixture of hunted Nether ingredients makes it a substantial prepared meal rather than a simple snack."
+		""
+		"The most important meal of the day now requires crossing dimensions and negotiating with Striders."
+	]
+	quest.7236EFF98D1B57A4.quest_subtitle: "Assemble a full Nether breakfast"
+	quest.72F59F24D29D5541.quest_desc: [
+		"Configure the &lBrass Speaker&r with a custom message, then activate it with redstone to play an announcement sound and display that message to nearby players. It is especially useful for train stations, factory warnings, and machinery that insists on narrating itself."
+		""
+		"Please stand clear of the closing contraption."
+	]
+	quest.72F59F24D29D5541.quest_subtitle: "Broadcast a custom station announcement"
+	quest.7334567CD74C2BD1.quest_desc: [
+		"Two facing &lPortable Storage Interfaces&r temporarily connect when one is mounted on a moving contraption and passes its stationary partner. While connected, funnels, chutes, or hoppers can transfer items between the contraption and your factory."
+		""
+		"Unload a moving machine without making it fill out a parking permit."
+	]
+	quest.7334567CD74C2BD1.quest_subtitle: "Storage meets without stopping"
+	quest.7358CD1F941B7DE1.quest_desc: [
+		"The &lMob Catcher Upgrade&r lets you shift-right-click non-hostile mobs to capture them directly inside your backpack."
+		""
+		"Moving animals becomes much less like herding cats, including the cats."
+	]
+	quest.7358CD1F941B7DE1.quest_subtitle: "Pocket-sized creature transport"
+	quest.735F769D04DF9774.quest_desc: [
+		"A &lDepot&r is a stationary platform that holds one item stack for processing or transfer. Belts, funnels, Mechanical Arms, Deployers, Presses, and other Create components can all interact with it."
+		""
+		"Sometimes automation just needs a tiny table to put things on."
+	]
+	quest.735F769D04DF9774.quest_subtitle: "A tiny table for your machines"
+	quest.73BFA94ABA5560F4.quest_desc: [
+		"The &lMechanical Grindstone&r automates ordinary grindstone work and can also perform Sand Paper polishing. Apply one to an Item Drain to form a Grindstone Drain, place another above it, and the powered setup can disenchant items while recovering experience as fluid or grind experience items directly into Liquid Experience."
+		""
+		"The enchantment is removed, recycled, and asked to report back as a liquid."
+	]
+	quest.73BFA94ABA5560F4.quest_subtitle: "Recycle enchantments into liquid experience"
+	quest.73DC141620468C54.quest_desc: [
+		"The &lOne Stack Upgrade&r limits a drawer to a single stack."
+		""
+		"It is useful when controlled capacity matters more than maximum storage."
+	]
+	quest.73DC141620468C54.quest_subtitle: "Sometimes less is the point"
+	quest.73F44598944ABEDA.quest_desc: [
+		"The &lInverted Gearshift&r reverses rotation along its shaft while unpowered. Supplying a redstone signal makes it pass the rotation through unchanged, giving the opposite behavior of a normal Gearshift."
+		""
+		"The default answer is backwards, which is still a perfectly valid engineering decision."
+	]
+	quest.73F44598944ABEDA.quest_subtitle: "Reverse rotation until redstone says otherwise"
+	quest.743F64C9ACF1AD48.quest_desc: [
+		"The &lQuantify Key&r toggles the exact item count shown on drawers."
+		""
+		"Useful when \"a lot\" is no longer precise enough."
+	]
+	quest.743F64C9ACF1AD48.quest_subtitle: "How much is a lot?"
+	quest.7473D7D7DC2C9119.quest_desc: [
+		"Red Grape Pomace can mature into &lZinfandel&r, a robust red carrying blackberry, spice, and pepper notes. Drinking it usually grants Resistance and Slowness for 20 seconds, with a smaller chance to suffer 10 seconds of Nausea."
+		""
+		"Jammy, spicy, and fully prepared to complicate straight-line navigation."
+	]
+	quest.7473D7D7DC2C9119.quest_subtitle: "Mature a robust and peppery vintage"
+	quest.7503197FF1958D2E.quest_desc: [
+		"The &lRemote Group Upgrade&r extends remote access across a drawer group."
+		""
+		"Large storage rooms suddenly feel much smaller."
+	]
+	quest.7503197FF1958D2E.quest_subtitle: "The whole drawer wall, remotely"
+	quest.754C3D9A033426F9.quest_desc: [
+		"The &lCake o' Enchanting&r is made by filling its cake base with a full bucket of Liquid Experience. Feed it directly to a Blaze Enchanter or Blaze Forger to fill the separate Super Experience reserve and enter Super Enchanting mode; this reserve cannot be supplied through pipes."
+		""
+		"&lWARNING SUPER ENCHANTING WILL CAUSE LIGHTNING, USE A LIGHTNING ROD OR YOU WILL LOOSE YOUR BLAZE!&r"
+		""
+		"Nothing pushes magical research beyond safe limits like feeding cake to a Blaze."
+	]
+	quest.754C3D9A033426F9.quest_subtitle: "A dangerously educational dessert"
+	quest.75A3B08089BF3882.quest_desc: [
+		"Right-click a redstone input with a &lLinked Transmitter&r to attach it and send its exact signal wirelessly to matching receivers within 128 blocks. Set the frequency with two items, wax it with Honeycomb to prevent edits, and use a Wrench to detach it."
+		""
+		"The lever has cut out the middle block and gone directly into broadcasting."
+	]
+	quest.75A3B08089BF3882.quest_subtitle: "Transmit redstone directly from an input"
+	quest.75C09B281C644F84.quest_desc: [
+		"The &lMechanical Roller&r works from a moving train or contraption to pave the ground beneath it. Supply blocks from mounted storage to lay chosen materials, or configure it to clear and flatten terrain for roads and railbeds."
+		""
+		"The train can now build the ground it wishes existed."
+	]
+	quest.75C09B281C644F84.quest_subtitle: "Pave terrain while moving"
+	quest.7624D2C3B7644B14.quest_desc: [
+		"Craft &lOrganic Compost&r from Dirt, Straw, Bone Meal, and Tree Bark or Rotten Flesh, then place it in the world to decompose. Sunlight, nearby water, and mushrooms, Podzol, Mycelium, or existing rich soil all speed its conversion into Rich Soil."
+		""
+		"Leave the suspicious block in the sun long enough and agriculture eventually happens."
+	]
+	quest.7624D2C3B7644B14.quest_subtitle: "Let waste mature into better farmland"
+	quest.76560C33BCF04408.quest_desc: [
+		"The &lAuto Blasting Upgrade&r automatically processes matching items as they enter your backpack."
+		""
+		"Drop in the required fuel and let the bag handle the busywork."
+	]
+	quest.76560C33BCF04408.quest_subtitle: "Fast ore, no waiting"
+	quest.76BA952B84FE2E93.quest_desc: [
+		"The &lVoid Upgrade&r deletes excess items after a drawer is full."
+		""
+		"Excellent for farms, provided you are absolutely sure about what should disappear."
+	]
+	quest.76BA952B84FE2E93.quest_subtitle: "Overflow goes into the void"
+	quest.76C0B511C6DF9164.quest_desc: [
+		"The &lJukebox Upgrade&r lets your backpack play music discs while you travel."
+		""
+		"Inventory management deserves a soundtrack too."
+	]
+	quest.76C0B511C6DF9164.quest_subtitle: "Bring your own soundtrack"
+	quest.76CA4156BE37D82E.quest_desc: [
+		"The &lHydraulic Press&r performs ordinary pressing &lone stack&r at a time and the addon's Hydraulic Compacting recipes. These recipes combine basin ingredients with fluids stored inside the press, enabling processes such as turning controlled amounts of Water and Lava into batches of stone materials; it also requires sufficient rotational speed &land Water to function&r."
+		""
+		"The Mechanical Press has discovered that everything improves with plumbing and additional force."
+	]
+	quest.76CA4156BE37D82E.quest_subtitle: "Compact materials with fluid pressure"
+	quest.78B6133A0900D668.quest_desc: [
+		"The &lGilded Quartz Pickaxe&r is mechanically crafted from Polished Rose Quartz, Gold, an Iron Plate, and a Zinc Handle. Gilded Quartz tools work faster than Diamond, have &llonger reach&r and attack rapidly, trading some raw attack power for speed."
+		""
+		"The pickaxe is pink, golden, and far too efficient to be merely decorative."
+	]
+	quest.78B6133A0900D668.quest_subtitle: "Mine quickly with a gilded edge"
+	quest.78BCE150C2F3DDBF.quest_desc: [
+		"The &lBrass Jetpack&r uses both water and fuel to produce steam, allowing you to fly, hover, dive, swim faster, and move more quickly. Keep Filling and Fueling Tanks in your inventory to replenish it automatically; its brass Steam Engine and mechanical-crafting recipe make this the most capable standard jetpack."
+		""
+		"A wearable boiler is perfectly safe as long as you do not think about it."
+	]
+	quest.78BCE150C2F3DDBF.quest_subtitle: "Turn water and fuel into personal flight"
+	quest.7943E69879A5C001.quest_desc: [
+		"The &lAuto Smelting Upgrade&r automatically processes matching items as they enter your backpack."
+		""
+		"Drop in the required fuel and let the bag handle the busywork."
+	]
+	quest.7943E69879A5C001.quest_subtitle: "Let the ores cook themselves"
+	quest.79738CD6CE586CED.quest_desc: [
+		"Prepare &lBubble Tea&r in a Cooking Pot using Milk, Chorus Fruit or Chorus Fruit Grain, and Ender Pearl Grain. It turns several processed End ingredients into a portable drink and grants cooking experience when the recipe finishes."
+		""
+		"The chewy pearls are now considerably more literal and faintly unsettling."
+	]
+	quest.79738CD6CE586CED.quest_subtitle: "Put an Ender Pearl in your tea on purpose"
+	quest.7978BE5214671E9C.quest_desc: [
+		"A &lRope Pulley&r lowers and raises a glued contraption beneath it using rotational power. Reverse the rotation to change direction, and use a Gearshift or Sequenced Gearshift for controlled movement."
+		""
+		"Elevators, drawbridges, and dangling factories all begin with a very confident rope."
+	]
+	quest.7978BE5214671E9C.quest_subtitle: "Raise entire contraptions by rope"
+	quest.7A1A2A4BE2CFD807.quest_desc: [
+		"Mature Red Grape Pomace in the Wine Cellar for a chance to produce &lBordeaux&r, a dark-fruit wine with oak and spice notes. Drinking it usually grants Resistance with Slowness for 20 seconds, but may instead inflict Nausea for 10 seconds."
+		""
+		"Sophisticated enough to discuss oak, powerful enough to make stairs strategically important."
+	]
+	quest.7A1A2A4BE2CFD807.quest_subtitle: "Mature a dark, oaky red blend"
+	quest.7A51088B6823098B.quest_desc: [
+		"The &lConduit Cage&r is a compact alternative to a full conduit setup. Pump water into the bottom of the cage to activate it and receive the &lConduit Power&r effect."
+		""
+		"It can also be used with a &lCreate Fan&r to process certain items, allowing you to obtain resources such as &lGuardian drops&r without needing an ocean monument."
+	]
+	quest.7A51088B6823098B.quest_subtitle: "Sea of processing"
+	quest.7A831C278373B183.quest_subtitle: "Trully a genius of music"
+	quest.7A831C278373B183.title: "All Music Discs"
+	quest.7A9DBDEB0C8F299D.quest_desc: [
+		"The &lOmni Speed Controller&r expands the Rotation Speed Controller into a more flexible multi-directional block. Configure its target RPM with the value panel and use its additional connection options to regulate awkward shaft layouts without rebuilding around one fixed orientation."
+		""
+		"Precise speed control has stopped caring which direction the machine room faces."
+	]
+	quest.7A9DBDEB0C8F299D.quest_subtitle: "Set rotational speed from more directions"
+	quest.7ADFE90645EE1966.quest_desc: [
+		"Craft a &lCrafting Table&r to unlock the full three-by-three crafting grid. Nearly every major tool, workstation, and machine begins here."
+		""
+		"Four planks have quietly become the foundation of civilization."
+	]
+	quest.7ADFE90645EE1966.quest_subtitle: "Turn a few planks into possibility"
+	quest.7ADFE90645EE1966.title: "A Place to Begin"
+	quest.7B757225C6540A6B.quest_desc: [
+		"&lFluid Tanks&r join vertically and horizontally into a multiblock that stores large amounts of liquid. Pipes can connect to any tank face, and a sufficiently tall tank can become the boiler body for Steam Engines."
+		""
+		"Every factory eventually builds a very large container of something questionable."
+	]
+	quest.7B757225C6540A6B.quest_subtitle: "Build expandable liquid storage"
+	quest.7CD0D60EDB7F4B1D.quest_desc: [
+		"Attach the &lStirling Engine&r to a working furnace to convert its waste heat into rotational force. While the furnace is actively burning fuel, the engine drives its output and provides a compact power source for small machines."
+		""
+		"Your furnace has been promoted from cooking box to part-time power station."
+	]
+	quest.7CD0D60EDB7F4B1D.quest_subtitle: "Recover rotational power from a hot furnace"
+	quest.7D902E851C141E99.quest_desc: [
+		"A powered &lMechanical Drill&r breaks blocks directly in front of its drill head. Mount several on a moving contraption to build tunnel bores, quarry heads, and other machines that remove terrain as they travel."
+		""
+		"The mountain has been informed that it is in the way."
+	]
+	quest.7D902E851C141E99.quest_subtitle: "Put a drill on your contraption"
+	quest.7DAA4FEF1489C00F.quest_desc: [
+		"The &lIllumination Upgrade&r lights up the item label on the front of a drawer, making it easier to read in dark storage rooms."
+		""
+		"It is a name tag with stage lighting, not a torch."
+	]
+	quest.7DAA4FEF1489C00F.quest_subtitle: "Put the label in the spotlight"
+	quest.7DC90A4D792F9BD1.quest_desc: [
+		"The &lEnder Watcher&r emits a redstone signal whenever a player looks directly at its eye. The closer your gaze is to the center, the stronger its output becomes."
+		""
+		"Redstone automation has developed an alarming need for eye contact."
+	]
+	quest.7DC90A4D792F9BD1.quest_subtitle: "It knows when you are looking"
+	quest.7E8037A22A37C3CE.quest_desc: [
+		"The &lBasket&r is a container that collects item entities dropped into its open top, making it useful beneath Cutting Boards and other machines that eject products. A redstone signal closes its lid when collection should be paused."
+		""
+		"The floor is no longer an approved storage destination."
+	]
+	quest.7E8037A22A37C3CE.quest_subtitle: "Catch loose items before they escape"
+	quest.7EEFD800E4F7E4C0.quest_desc: [
+		"The &lAndesite Casing&r is a foundational crafting component used throughout Create's early machinery. Apply Andesite Alloy to a stripped log by hand or with a Deployer to make one."
+		""
+		"A respectable factory starts by putting a nice case around everything."
+	]
+	quest.7EEFD800E4F7E4C0.quest_subtitle: "Dress your machines in andesite"
+	quest.7F4D83DA7895C11A.quest_desc: [
+		"Obtain an &lEnder Pearl&r from an Enderman or through trading. Pearls can teleport you when thrown and combine with Blaze Powder to create Eyes of Ender."
+		""
+		"Reliable transportation, assuming you accept the landing damage and alarming noise."
+	]
+	quest.7F4D83DA7895C11A.quest_subtitle: "Claim the teleporting heart of an Enderman"
+	quest.7F4D83DA7895C11A.title: "A Strange Pearl"
+	quest.7F805532711CD135.quest_desc: [
+		"Place an &lInventory Bridge&r between two inventories to let components attached to the bridge access both at once without adding storage. Its two filters route and expose items per side, including to stock-link networks; bridges cannot be chained and redstone disables them."
+		""
+		"Two inventories have entered a carefully filtered business partnership."
+	]
+	quest.7F805532711CD135.quest_subtitle: "Treat two inventories as one interface"
+	quest.7F9A188C696CD14D.quest_desc: [
+		"The &lAbacus&r is a handy measuring tool for builders. Right-click any block to set it as your starting point, then hold the Abacus and look at another block to see the exact distance between the two."
+		""
+		"It's perfect for spacing out builds, measuring rooms, or making sure everything lines up just right."
+	]
+	quest.7F9A188C696CD14D.quest_subtitle: "How far is that?"
+	quest.7FC08C2879F47611.quest_desc: [
+		"&lItem Vaults&r combine into large multiblock inventories when placed together in aligned rows. They are excellent high-capacity buffers for belts and contraptions, though players cannot open them like ordinary chests."
+		""
+		"A warehouse shaped like a very serious metal tube."
+	]
+	quest.7FC08C2879F47611.quest_subtitle: "Bulk storage for moving factories"
+	quest.7FD962ABAA2D9E61.quest_desc: [
+		"The &lMechanical Saw&r cuts logs and other materials placed in front of it or moving beneath it on a belt. Mounted on a contraption, it can fell trees and collect their drops automatically."
+		""
+		"Forestry is much faster when the saw comes looking for the tree."
+	]
+	quest.7FD962ABAA2D9E61.quest_subtitle: "Cut blocks and harvest trees"
+	task.016880138FF7A35B.title: "Notice"
+	task.2151DD743007A707.title: "Ultimine"
+	task.28B23F1947F9B80F.title: "Create Food Mods"
+	task.397A480152831F5F.title: "Extreme Sound Muffler"
+	task.43BB7E6B8A576413.title: "Other Delights"
+	task.4531BA2F0CCD6912.title: "FTB Essentials"
+	task.4A327863EA859E37.title: "Vanilla Backport"
+	task.4F553E2CD8408EB6.title: "Fullbright"
+	task.5E7D1CA2DC94A671.title: "Welcome to steam and rails"
+	task.649845B31124DBFB.title: "Journey map"
+	task.6C5BDE1965C08AAF.title: "Quark"
+	task.6CAD8B96E4F7DC5F.title: "Challenges section"
+	task.72FEB516123003AB.title: "JEI"
+	task.78315602EB56CCED.title: "Sound of Steam"
+}

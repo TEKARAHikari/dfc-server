@@ -1,0 +1,368 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "vannilla"
+	group: ""
+	id: "4E0EDDB5A8A2CED7"
+	images: [
+		{
+			height: 1.0d
+			image: "minecraft:textures/gui/sprites/toast/tree.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/nether_portal"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -13.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7ADFE90645EE1966"
+			rewards: [{
+				id: "0013BCD67E37A4C3"
+				type: "xp"
+				xp: 5
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "49148FB9EC06F22E"
+				item: { count: 1, id: "minecraft:crafting_table" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7ADFE90645EE1966"]
+			id: "406557A94B9940CF"
+			rewards: [{
+				id: "5BB076E0DB04D9BA"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "2FF58ED4B8897B56"
+				item: { count: 1, id: "minecraft:stone_pickaxe" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["406557A94B9940CF"]
+			id: "66E80E8EBFB9D4F8"
+			rewards: [{
+				id: "4A288F6DD26857FB"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "01EB379EAEE565AB"
+				item: { count: 1, id: "minecraft:iron_ingot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["66E80E8EBFB9D4F8"]
+			id: "61EB785794E525B9"
+			rewards: [{
+				id: "4A5489A440912BBF"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2FB26E42B5E2315F"
+				item: { count: 1, id: "minecraft:shield" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["66E80E8EBFB9D4F8"]
+			id: "55EE28E329A17EEA"
+			rewards: [{
+				id: "6ADE90E8DA80F7C0"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "04DCC8560E37C1ED"
+				item: { count: 1, id: "minecraft:diamond" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["55EE28E329A17EEA"]
+			id: "34D7788A732EEC9A"
+			rewards: [{
+				id: "172C87DDF10E7A3D"
+				type: "xp"
+				xp: 40
+			}]
+			size: 2.0d
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "214B6366A7E03767"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["34D7788A732EEC9A"]
+			id: "599BF43C3212E1A2"
+			rewards: [{
+				id: "1CE009D56962F213"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				entity: "minecraft:blaze"
+				id: "584F8F03F26C46B9"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -10.0d
+		}
+		{
+			id: "7F4D83DA7895C11A"
+			rewards: [{
+				id: "05EC37582DB2B7F9"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "3433613C1900ECCE"
+				item: { count: 1, id: "minecraft:ender_pearl" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -12.0d
+		}
+		{
+			dependencies: [
+				"599BF43C3212E1A2"
+				"7F4D83DA7895C11A"
+			]
+			id: "44E9FEFD35E08BF8"
+			rewards: [{
+				id: "6FDAB61183649EC9"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				id: "7B2FA55C14D58C1C"
+				item: { count: 1, id: "minecraft:ender_eye" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["44E9FEFD35E08BF8"]
+			id: "3961548B8A316826"
+			rewards: [{
+				id: "112426A9E4E2B1AE"
+				type: "xp"
+				xp: 200
+			}]
+			size: 2.0d
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				id: "466F559657E0A49E"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -15.0d
+		}
+		{
+			dependencies: ["3961548B8A316826"]
+			id: "38D318A2497B45B9"
+			rewards: [{
+				id: "0B4A31EBD949B94A"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				entity: "minecraft:shulker"
+				id: "18063EACA5D54CA0"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.5d
+			y: -17.0d
+		}
+		{
+			dependencies: ["3961548B8A316826"]
+			id: "1319364DC7A053B5"
+			rewards: [{
+				id: "03FAF1E2CF4F9B47"
+				type: "xp"
+				xp: 160
+			}]
+			tasks: [{
+				id: "560967C9014BED0F"
+				item: { count: 1, id: "minecraft:elytra" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -17.0d
+		}
+		{
+			dependencies: ["34D7788A732EEC9A"]
+			id: "5AC7268386695B0D"
+			rewards: [{
+				id: "69A5DD1183F6B143"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				id: "59DCD70C5EB800F4"
+				item: { count: 1, id: "minecraft:ancient_debris" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["5AC7268386695B0D"]
+			id: "0593CF16E72D9CC7"
+			rewards: [{
+				id: "7B49E111ED49D144"
+				type: "xp"
+				xp: 120
+			}]
+			tasks: [{
+				id: "4F31FC1E9F2911A0"
+				item: { count: 1, id: "minecraft:netherite_ingot" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["34D7788A732EEC9A"]
+			id: "1743F9C9D17028F1"
+			rewards: [{
+				id: "528CFD5C7B077DC5"
+				type: "xp"
+				xp: 120
+			}]
+			tasks: [{
+				id: "772EABC7E60785E6"
+				item: { count: 1, id: "minecraft:wither_skeleton_skull" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["1743F9C9D17028F1"]
+			id: "143BF7A98EF39A13"
+			rewards: [{
+				id: "3FB2ABF8A2AE18A5"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				entity: "minecraft:wither"
+				id: "0C732A0FD58CF6A0"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["143BF7A98EF39A13"]
+			id: "646DECE7962E0240"
+			rewards: [{
+				id: "24FD9DB9B35205AF"
+				type: "xp"
+				xp: 120
+			}]
+			tasks: [{
+				id: "10815F9109472302"
+				item: { count: 1, id: "minecraft:beacon" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["55EE28E329A17EEA"]
+			id: "0CAC2E4CCBF336B4"
+			rewards: [{
+				id: "0D53A5B9115C6209"
+				type: "xp"
+				xp: 120
+			}]
+			tasks: [{
+				entity: "minecraft:elder_guardian"
+				id: "0D5E9FBAFBC77FD2"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["55EE28E329A17EEA"]
+			id: "57D7D54F523FBCEA"
+			rewards: [{
+				id: "1853C908C4EEFA93"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				entity: "minecraft:evoker"
+				id: "2EEFD791F3A28802"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["0593CF16E72D9CC7"]
+			id: "2328743DE2918221"
+			rewards: [{
+				id: "19A7512389887B75"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				entity: "minecraft:warden"
+				id: "52D3D8A11E5D0B69"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -14.0d
+		}
+	]
+}

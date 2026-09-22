@@ -1,0 +1,226 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "quark"
+	group: "549E184D243DDBBE"
+	id: "1650FB9EE2C7A8E0"
+	images: [{
+		height: 5.0d
+		image: "quark:item/diamond_heart"
+		rotation: 0.0d
+		width: 5.0d
+		x: -0.5d
+		y: -0.5d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4F91AF9FD9B451CC"
+			rewards: [{
+				id: "7B755F17EEED9EB3"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6C5BDE1965C08AAF"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4F91AF9FD9B451CC"]
+			id: "634A757CAC2B8B63"
+			rewards: [{
+				id: "26AA5940FB4161BF"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "0CBA31B2321E8DB0"
+				item: { count: 1, id: "quark:trowel" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["4F91AF9FD9B451CC"]
+			id: "06520F9310B953FD"
+			rewards: [{
+				id: "7BC71A542C63C2FF"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "5A1C335654058CBD"
+				item: { count: 1, id: "quark:bottled_cloud" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4F91AF9FD9B451CC"]
+			id: "7F9A188C696CD14D"
+			rewards: [{
+				id: "146DD57DA0A6DC13"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "5B686FC36FBCBD79"
+				item: { components: { "quark:bounds_pos": [I; 0, -999, 0 ] }, count: 1, id: "quark:abacus" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4F91AF9FD9B451CC"]
+			id: "28897B714CC5DE88"
+			rewards: [{
+				id: "5C663FEC57096B7E"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "336CE95998729412"
+				item: { count: 1, id: "quark:redstone_randomizer" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4F91AF9FD9B451CC"]
+			id: "3C066277F6EBEF73"
+			rewards: [{
+				id: "3CDF1ACB0B16C34C"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "056A213D1CEE89DA"
+				item: { count: 1, id: "quark:chute" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4F91AF9FD9B451CC"]
+			id: "6DAF5961913F280C"
+			rewards: [{
+				id: "46C31C4C942E9A16"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0C7B470C1D6F668C"
+				item: { count: 1, id: "quark:feeding_trough" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4F91AF9FD9B451CC"]
+			id: "7DC90A4D792F9BD1"
+			rewards: [{
+				id: "31592BCE3D0C6956"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "1B214CD4EFE18BCD"
+				item: { count: 1, id: "quark:ender_watcher" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4F91AF9FD9B451CC"]
+			id: "4CAB4BF1309DE635"
+			rewards: [{
+				id: "7CB3D74D279B275D"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "2F903FF36BCC8471"
+				item: { count: 1, id: "quark:gravisand" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4F91AF9FD9B451CC"]
+			id: "2ABDFD3A7E36884B"
+			rewards: [{
+				id: "01F77C8A71E17D9E"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				id: "57A31E7422A5F863"
+				item: { count: 1, id: "quark:pickarang" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4F91AF9FD9B451CC"]
+			id: "35502D1035FE4796"
+			rewards: [{
+				id: "2A7C4072CDD229EE"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "71E7ACD3FA3B2407"
+				item: { count: 1, id: "quark:iron_rod" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4F91AF9FD9B451CC"]
+			id: "63CD542BA1843D01"
+			rewards: [{
+				id: "3C78965FF1B4DE0A"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2AB5A455B06A2E9E"
+				item: { count: 1, id: "quark:seed_pouch" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4F91AF9FD9B451CC"]
+			id: "010332FC6264A53F"
+			rewards: [{
+				id: "20BACC24EF2BDA26"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				entity: "quark:forgotten"
+				id: "469262473B18D6AB"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
+	]
+}
